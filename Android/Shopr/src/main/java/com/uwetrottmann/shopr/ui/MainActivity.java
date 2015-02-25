@@ -30,7 +30,6 @@ import com.uwetrottmann.shopr.R;
 import com.uwetrottmann.shopr.ShoprApp;
 import com.uwetrottmann.shopr.eval.TestSetupActivity;
 import com.uwetrottmann.shopr.importer.ImporterActivity;
-import com.uwetrottmann.shopr.settings.AppSettings;
 
 import java.util.Locale;
 
@@ -120,15 +119,11 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
     public void onStart() {
         super.onStart();
         // only reset the location if we do not have a location yet, else the settings by the scenario context would be overwritten.
-        if (AppSettings.isUsingFakeLocation(this)) {
-            if (ShoprApp.getLastLocation() == null) {
-                // use fake location (Marienplatz, Munich)
-                ShoprApp.setLastLocation(new LatLng(48.137314, 11.575253));
-                // send out location update event immediately
-                EventBus.getDefault().postSticky(new LocationUpdateEvent());
-            }
-        } else {
-            mLocationClient.connect();
+        if (ShoprApp.getLastLocation() == null) {
+            // use fake location (Marienplatz, Munich)
+            ShoprApp.setLastLocation(new LatLng(48.137314, 11.575253));
+            // send out location update event immediately
+            EventBus.getDefault().postSticky(new LocationUpdateEvent());
         }
 
         Tracker t = ((ShoprApp) getApplication()).getTracker();
@@ -137,9 +132,6 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
     @Override
     public void onStop() {
-        if (!AppSettings.isUsingFakeLocation(this)) {
-            mLocationClient.disconnect();
-        }
         super.onStop();
 
         Tracker t = ((ShoprApp) getApplication()).getTracker();
