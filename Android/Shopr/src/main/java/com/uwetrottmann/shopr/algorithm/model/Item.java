@@ -38,6 +38,8 @@ public class Item {
 
     private int mTimesSelected; // How often was this item part of a context?
 
+    private double mTemporaryQuality;
+
     public int id() {
         return id;
     }
@@ -201,5 +203,21 @@ public class Item {
                 ", name='" + name + '\'' +
                 ", sex=" + sex.currentValue() +
                 '}';
+    }
+
+    /**
+     * This method sets a temporary parameter used in the calculation of the bounded greedy algorithm.
+     * @param i the similarity
+     */
+    public void setTemporaryQuality(double i) {
+        mTemporaryQuality = i;
+    }
+
+    /**
+     * Gets the temporarily stored value.
+     * @return the similarity for this recommendation cycle
+     */
+    public double getTemporaryQuality(){
+        return mTemporaryQuality;
     }
 }
