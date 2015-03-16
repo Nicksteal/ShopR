@@ -114,8 +114,9 @@ public class CsvImportTask extends AsyncTask<Void, Integer, String> {
                         break;
                     case IMPORT_ITEMS:
                         // add values for one item
-                        values.put(Items._ID, id++);
-                        values.put(Shops.REF_SHOP_ID, random.nextInt(numberOfShops) + 1); // 0 is inclusive but n exclusive, we start at 1 with our IDs
+                        values.put(Items._ID, id);
+                        int shopID = (id % numberOfShops) + 1; // 0 is inclusive but n exclusive, we start at 1 with our IDs
+                        values.put(Shops.REF_SHOP_ID, shopID);
                         values.put(Items.COLOR, line[2]);
                         values.put(Items.PRICE, line[3]);
                         values.put(Items.SEASON, line[4]);
@@ -123,6 +124,9 @@ public class CsvImportTask extends AsyncTask<Void, Integer, String> {
                         values.put(Items.NAME, line[6]);
                         values.put(Items.BRAND, line[7]);
                         values.put(Items.SEX, line[8]);
+
+                        //Increment the id
+                        id++;
 
                         //Do some really bad string operations!
                         String clothingType = line[9].replace("womens-clothing-", "").replace("mens-clothing-", "").replace("mens-","");
