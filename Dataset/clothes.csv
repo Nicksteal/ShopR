@@ -1183,7 +1183,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18330,ON321K010-Q11,Black,20,SUMMER,https://secure-i5.ztat.net/detail/ON/32/1K/01/0Q/11/ON321K010-Q11@16.1.jpg,ONLRUNA - Tunic - black,ONLY,FEMALE,womens-clothing-tunics
 18331,NN121E023-J11,Pink,75,SUMMER,https://secure-i6.ztat.net/detail/NN/12/1E/02/3J/11/NN121E023-J11@15.jpg,Tunic - pink,Noa Noa,FEMALE,womens-clothing-tunics
 18332,NN121E025-A11,White,60,SUMMER,https://secure-i5.ztat.net/detail/NN/12/1E/02/5A/11/NN121E025-A11@15.jpg,Tunic - white,Noa Noa,FEMALE,womens-clothing-tunics
-18333,ES929H00P-T11,Multi-coloured,60,SUMMER,https://secure-i5.ztat.net/detail/ES/92/9H/00/PT/11/ES929H00P-T11@2.jpg,Tunic - curacao blue,Esprit Maternity,FEMALE,womens-clothing-tunics
 18335,CB721D001-503,Blue,100,WINTER,https://secure-i5.ztat.net/detail/CB/72/1D/00/15/03/CB721D001-503@1.1.jpg,Tunic - blue,Co,FEMALE,womens-clothing-tunics
 18336,VE121K066-Q11,Black,25,SUMMER,https://secure-i3.ztat.net/detail/VE/12/1K/06/6Q/11/VE121K066-Q11@12.1.jpg,VMFLOWER - Tunic - black,Vero Moda,FEMALE,womens-clothing-tunics
 18337,ON321K00Z-K11,Blue,25,SUMMER,https://secure-i6.ztat.net/detail/ON/32/1K/00/ZK/11/ON321K00Z-K11@4.jpg,ONLDEENA - Tunic - black iris,ONLY,FEMALE,womens-clothing-tunics
@@ -1218,7 +1217,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18368,SE521E023-K11,Blue,60,SUMMER,https://secure-i4.ztat.net/detail/SE/52/1E/02/3K/11/SE521E023-K11@16.jpg,SFNADIA - Tunic - peacoat,Selected Femme,FEMALE,womens-clothing-tunics
 18369,HI121E038-G11,Red,65,SUMMER,https://secure-i3.ztat.net/detail/HI/12/1E/03/8G/11/HI121E038-G11@16.jpg,HELOISE - Tunic - deep sea coral egret,Hilfiger Denim,FEMALE,womens-clothing-tunics
 18370,SE521E023-A11,White,60,SUMMER,https://secure-i3.ztat.net/detail/SE/52/1E/02/3A/11/SE521E023-A11@2.jpg,SFNADIA - Tunic - jet stream,Selected Femme,FEMALE,womens-clothing-tunics
-18372,ES929H00Q-J11,Pink,50,SUMMER,https://secure-i1.ztat.net/detail/ES/92/9H/00/QJ/11/ES929H00Q-J11@12.jpg,Tunic - light pink,Esprit Maternity,FEMALE,womens-clothing-tunics
 18373,KA321E069-A11,White,40,SUMMER,https://secure-i6.ztat.net/detail/KA/32/1E/06/9A/11/KA321E069-A11@14.jpg,ISABELL - Tunic - chalk,Kaffe,FEMALE,womens-clothing-tunics
 18374,CR221E03V-J11,Pink,60,SUMMER,https://secure-i4.ztat.net/detail/CR/22/1E/03/VJ/11/CR221E03V-J11@14.jpg,MUTE - Tunic - old rose,Cream,FEMALE,womens-clothing-tunics
 18375,GL921K004-Q11,Black,32,SUMMER,https://secure-i5.ztat.net/detail/GL/92/1K/00/4Q/11/GL921K004-Q11@12.jpg,Tunic - black,Glamorous,FEMALE,womens-clothing-tunics
@@ -2948,10 +2946,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20236,JU121A00U-Q11,Black,55,ALL,https://secure-i4.ztat.net/detail/JU/12/1A/00/UQ/11/JU121A00U-Q11@11.1.jpg,STROKE - Slim fit jeans - black,JUST FEMALE,FEMALE,womens-clothing-jeans
 20237,ME421A01U-954,Blue,49,ALL,https://secure-i5.ztat.net/detail/ME/42/1A/01/U9/54/ME421A01U-954@6.jpg,Straight leg jeans - rinse wash,Mexx,FEMALE,womens-clothing-jeans
 20238,ES121N002-K11,Blue,39,ALL,https://secure-i2.ztat.net/detail/ES/12/1N/00/2K/11/ES121N002-K11@1.1.jpg,Straight leg jeans - real rinse,Esprit,FEMALE,womens-clothing-jeans
-20240,ES921A043-952,Blue,50,ALL,https://secure-i3.ztat.net/detail/ES/92/1A/04/39/52/ES921A043-952@1.1.jpg,Slim fit jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20241,SU521A00O-Q00,Black,48,ALL,https://secure-i5.ztat.net/detail/SU/52/1A/00/OQ/00/SU521A00O-Q00@1.2.jpg,PARADISE - Slim fit jeans - black,Supertrash,FEMALE,womens-clothing-jeans
-20242,ES921A041-952,Blue,75,ALL,https://secure-i3.ztat.net/detail/ES/92/1A/04/19/52/ES921A041-952@1.1.jpg,Bootcut jeans - stonewash,Esprit Maternity,FEMALE,womens-clothing-jeans
-20243,ES921A03Z-952,Blue,80,ALL,https://secure-i3.ztat.net/detail/ES/92/1A/03/Z9/52/ES921A03Z-952@1.1.jpg,OTB REG - Straight leg jeans - stonewash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20244,ES121A03X-952,Blue,39,ALL,https://secure-i3.ztat.net/detail/ES/12/1A/03/X9/52/ES121A03X-952@1.1.jpg,Slim fit jeans - blue,Esprit,FEMALE,womens-clothing-jeans
 20245,VE121A05O-K00,Blue,26,ALL,https://secure-i6.ztat.net/detail/VE/12/1A/05/OK/00/VE121A05O-K00@10.jpg,WONDER JEGGINGS - Slim fit jeans - vintage blue,Vero Moda,FEMALE,womens-clothing-jeans
 20246,VE121A05I-A00,Grey,29,ALL,https://secure-i2.ztat.net/detail/VE/12/1A/05/IA/00/VE121A05I-A00@1.1.jpg,GELLER - Slim fit jeans - grey,Vero Moda,FEMALE,womens-clothing-jeans
@@ -3002,8 +2997,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20296,ES421A01G-K00,Blue,55,ALL,https://secure-i5.ztat.net/detail/ES/42/1A/01/GK/00/ES421A01G-K00@7.2.jpg,BERN - Bootcut jeans - clean rinse,ESPRIT Collection,FEMALE,womens-clothing-jeans
 20298,ES121N003-C11,Grey,45,ALL,https://secure-i2.ztat.net/detail/ES/12/1N/00/3C/11/ES121N003-C11@1.jpg,Straight leg jeans - stone used,Esprit,FEMALE,womens-clothing-jeans
 20299,ME421A01U-953,Blue,49,ALL,https://secure-i6.ztat.net/detail/ME/42/1A/01/U9/53/ME421A01U-953@6.jpg,Straight leg jeans - authentic dark wash,Mexx,FEMALE,womens-clothing-jeans
-20300,ES921A041-955,Blue,75,ALL,https://secure-i6.ztat.net/detail/ES/92/1A/04/19/55/ES921A041-955@1.1.jpg,Bootcut jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
-20301,ES921A040-955,Blue,70,ALL,https://secure-i6.ztat.net/detail/ES/92/1A/04/09/55/ES921A040-955@1.1.jpg,Slim fit jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20302,V1021A037-802,Black,23,ALL,https://secure-i3.ztat.net/detail/V1/02/1A/03/78/02/V1021A037-802@1.1.jpg,CLEAVO - Slim fit jeans - black,Vila,FEMALE,womens-clothing-jeans
 20303,VE121A05X-802,Black,29,ALL,https://secure-i3.ztat.net/detail/VE/12/1A/05/X8/02/VE121A05X-802@1.1.jpg,GELLER - Slim fit jeans - black,Vero Moda,FEMALE,womens-clothing-jeans
 20304,DI121A05G-802,Black,90,ALL,https://secure-i3.ztat.net/detail/DI/12/1A/05/G8/02/DI121A05G-802@1.1.jpg,LIVIER - Slim fit jeans - 0800R,Diesel,FEMALE,womens-clothing-jeans
@@ -3013,7 +3006,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20308,7F121A02I-K11,Blue,180,ALL,https://secure-i4.ztat.net/detail/7F/12/1A/02/IK/11/7F121A02I-K11@4.2.jpg,THE SKINNY - Slim fit jeans - illusion second,7 for all mankind,FEMALE,womens-clothing-jeans
 20309,DI121A06N-K00,Blue,90,ALL,https://secure-i2.ztat.net/detail/DI/12/1A/06/NK/00/DI121A06N-K00@6.jpg,LIVIER - Slim fit jeans - blue,Diesel,FEMALE,womens-clothing-jeans
 20310,LE421A02O-Q00,Black,65,ALL,https://secure-i4.ztat.net/detail/LE/42/1A/02/OQ/00/LE421A02O-Q00@1.1.jpg,MARION - Straight leg jeans - clean black,Lee,FEMALE,womens-clothing-jeans
-20311,ES921A040-952,Blue,70,ALL,https://secure-i3.ztat.net/detail/ES/92/1A/04/09/52/ES921A040-952@1.1.jpg,Slim fit jeans - stonewash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20313,VE121A052-957,Blue,29,ALL,https://secure-i4.ztat.net/detail/VE/12/1A/05/29/57/VE121A052-957@1.1.jpg,WONDER - Slim fit jeans - indigo,Vero Moda,FEMALE,womens-clothing-jeans
 20314,ON321A095-Q00,Black,34,ALL,https://secure-i4.ztat.net/detail/ON/32/1A/09/5Q/00/ON321A095-Q00@1.1.jpg,OLIVIA - Slim fit jeans - black,ONLY,FEMALE,womens-clothing-jeans
 20315,GS121A09L-K00,White,90,ALL,https://secure-i4.ztat.net/detail/GS/12/1A/09/LK/00/GS121A09L-K00@7.1.jpg,LYNN SKINNY - Slim fit jeans - comfort rilloh white,G-Star,FEMALE,womens-clothing-jeans
@@ -3030,10 +3022,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20326,GS121A099-K00,Blue,110,ALL,https://secure-i2.ztat.net/detail/GS/12/1A/09/9K/00/GS121A099-K00@4.jpg,RADAR SMITH SKINNY - Slim fit jeans - ito superstretch,G-Star,FEMALE,womens-clothing-jeans
 20327,GS121A08P-Q00,Black,110,ALL,https://secure-i6.ztat.net/detail/GS/12/1A/08/PQ/00/GS121A08P-Q00@6.jpg,LYNN SKINNY - Slim fit jeans - comfort vulcan denim,G-Star,FEMALE,womens-clothing-jeans
 20328,QS121A035-952,Blue,40,ALL,https://secure-i4.ztat.net/detail/QS/12/1A/03/59/52/QS121A035-952@11.2.jpg,Slim fit jeans - blue denim,s.Oliver Denim,FEMALE,womens-clothing-jeans
-20329,ES921A044-952,Blue,80,ALL,https://secure-i3.ztat.net/detail/ES/92/1A/04/49/52/ES921A044-952@1.1.jpg,Bootcut jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20330,ES121A03V-952,Blue,39,ALL,https://secure-i3.ztat.net/detail/ES/12/1A/03/V9/52/ES121A03V-952@1.1.jpg,Straight leg jeans - real rinse,Esprit,FEMALE,womens-clothing-jeans
 20331,ON321A098-K00,Blue,55,ALL,https://secure-i6.ztat.net/detail/ON/32/1A/09/8K/00/ON321A098-K00@9.jpg,EBBA REA1843 - Bootcut jeans - REA1843,ONLY,FEMALE,womens-clothing-jeans
-20332,ES921A007-953,Blue,70,ALL,https://secure-i2.ztat.net/detail/ES/92/1A/00/79/53/ES921A007-953@1.jpg,Slim fit jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
 20333,LE4-yzw-0124-99,Blue,60,ALL,https://secure-i4.ztat.net/detail/LE/4Y/ZW/01/24/99/LE4-yzw-0124-99@8.jpg,MARION - Straight leg jeans - mountain blue,Lee,FEMALE,womens-clothing-jeans
 20334,ON321A03T-952,Blue,39,ALL,https://secure-i2.ztat.net/detail/ON/32/1A/03/T9/52/ON321A03T-952@8.1.jpg,SKINNY SUPERLOW CORAL - Slim fit jeans - denim,ONLY,FEMALE,womens-clothing-jeans
 20335,7F121A021-909,Black,160,ALL,https://secure-i1.ztat.net/detail/7F/12/1A/02/19/09/7F121A021-909@1.1.jpg,Slim fit jeans - black,7 for all mankind,FEMALE,womens-clothing-jeans
@@ -3108,9 +3098,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20404,MM421B008-802,Black,40,ALL,https://secure-i6.ztat.net/detail/MM/42/1B/00/88/02/MM421B008-802@7.jpg,Pencil skirt - schwarz,Mexx Metropolitan,FEMALE,womens-clothing-skirts
 20406,CS029E000-N11,Olive,32,SUMMER,https://secure-i4.ztat.net/detail/CS/02/9E/00/0N/11/CS029E000-N11@10.jpg,Mini skirt - oliv,Christoff,FEMALE,womens-clothing-skirts
 20409,DL621B000-K11,Blue,215,SUMMER,https://secure-i1.ztat.net/detail/DL/62/1B/00/0K/11/DL621B000-K11@7.jpg,Mini skirt - blue,Derek Lam 10 Crosby,FEMALE,womens-clothing-skirts
-20410,ES921B00T-952,Blue,65,ALL,https://secure-i3.ztat.net/detail/ES/92/1B/00/T9/52/ES921B00T-952@1.1.jpg,Denim skirt - stonewash,Esprit Maternity,FEMALE,womens-clothing-skirts
 20411,AN621B00T-802,Black,21,ALL,https://secure-i3.ztat.net/detail/AN/62/1B/00/T8/02/AN621B00T-802@1.1.jpg,A-line skirt - black,Anna Field,FEMALE,womens-clothing-skirts
-20412,ES921B00T-953,Blue,65,ALL,https://secure-i2.ztat.net/detail/ES/92/1B/00/T9/53/ES921B00T-953@1.1.jpg,Denim skirt - darkwash,Esprit Maternity,FEMALE,womens-clothing-skirts
 20413,MM421B009-802,Black,49,ALL,https://secure-i1.ztat.net/detail/MM/42/1B/00/98/02/MM421B009-802@3.1.jpg,Pencil skirt - schwarz,Mexx Metropolitan,FEMALE,womens-clothing-skirts
 20414,M5821B011-503,Blue,65,ALL,https://secure-i5.ztat.net/detail/M5/82/1B/01/15/03/M5821B011-503@1.1.jpg,Pencil skirt - marine,More & More,FEMALE,womens-clothing-skirts
 20415,BE641M001-J11,Pink,13,SUMMER,https://secure-i5.ztat.net/detail/BE/64/1M/00/1J/11/BE641M001-J11@3.jpg,ANIKA - Mini skirt - pink,Bench,FEMALE,womens-clothing-skirts
@@ -3507,7 +3495,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20811,ES121D080-K11,Blue,15,SUMMER,https://secure-i5.ztat.net/detail/ES/12/1D/08/0K/11/ES121D080-K11@4.1.jpg,CARMEN - Basic T-shirt - cinder blue,Esprit,FEMALE,womens-clothing-tops
 20812,S5621D00T-A11,White,21,SUMMER,https://secure-i5.ztat.net/detail/S5/62/1D/00/TA/11/S5621D00T-A11@5.jpg,Print T-shirt - white,School Rag,FEMALE,womens-clothing-tops
 "20813,CO121D02S-Q11,Black,28,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1D/02/SQ/11/CO121D02S-Q11@5.jpg,Basic T-shirt - black,""comma,"",FEMALE,womens-clothing-tops"
-20814,ES929G00E-Q11,Black,24,SUMMER,https://secure-i5.ztat.net/detail/ES/92/9G/00/EQ/11/ES929G00E-Q11@6.jpg,Print T-shirt - black,Esprit Maternity,FEMALE,womens-clothing-tops
 20816,MM421D00I-Q11,Black,17,ALL,https://secure-i6.ztat.net/detail/MM/42/1D/00/IQ/11/MM421D00I-Q11@3.jpg,Top - black,Mexx Metropolitan,FEMALE,womens-clothing-tops
 20817,MM421D00O-Q11,Black,22,ALL,https://secure-i4.ztat.net/detail/MM/42/1D/00/OQ/11/MM421D00O-Q11@5.jpg,Basic T-shirt - black,Mexx Metropolitan,FEMALE,womens-clothing-tops
 20818,AN621D06G-Q11,Black,17,ALL,https://secure-i3.ztat.net/detail/AN/62/1D/06/GQ/11/AN621D06G-Q11@6.1.jpg,Top - black,Anna Field,FEMALE,womens-clothing-tops
@@ -3568,16 +3555,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20880,RM021D005-707,Brown,65,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/57/07/RM021D005-707@1.1.jpg,Long sleeved top - brown melange,Rosemunde,FEMALE,womens-clothing-tops
 20881,RM021D003-707,Brown,50,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/37/07/RM021D003-707@1.1.jpg,Top - brown melange,Rosemunde,FEMALE,womens-clothing-tops
 20882,RM021D001-707,Brown,41,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/17/07/RM021D001-707@1.1.jpg,Top - brown melange,Rosemunde,FEMALE,womens-clothing-tops
-20885,ES921D03X-112,Grey,34,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/X1/12/ES921D03X-112@1.1.jpg,Basic T-shirt - grey melange,Esprit Maternity,FEMALE,womens-clothing-tops
-20886,ES921D03X-802,Black,34,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/X8/02/ES921D03X-802@1.1.jpg,Basic T-shirt - black,Esprit Maternity,FEMALE,womens-clothing-tops
-20887,ES921D03Z-112,Grey,38,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/Z1/12/ES921D03Z-112@1.1.jpg,Long sleeved top - grey melange,Esprit Maternity,FEMALE,womens-clothing-tops
-20888,ES921D03Z-802,Black,38,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/Z8/02/ES921D03Z-802@1.1.jpg,Long sleeved top - black,Esprit Maternity,FEMALE,womens-clothing-tops
-20889,ES921D03Z-002,White,38,ALL,https://secure-i5.ztat.net/detail/ES/92/1D/03/Z0/02/ES921D03Z-002@1.1.jpg,Long sleeved top - white,Esprit Maternity,FEMALE,womens-clothing-tops
-20890,ES921D03V-802,Black,25,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/V8/02/ES921D03V-802@1.1.jpg,Basic T-shirt - black,Esprit Maternity,FEMALE,womens-clothing-tops
-20891,ES921D03Y-802,Black,34,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/Y8/02/ES921D03Y-802@1.1.jpg,Long sleeved top - black,Esprit Maternity,FEMALE,womens-clothing-tops
-20892,ES921D03U-002,White,20,ALL,https://secure-i5.ztat.net/detail/ES/92/1D/03/U0/02/ES921D03U-002@1.1.jpg,Top - white,Esprit Maternity,FEMALE,womens-clothing-tops
-20893,ES921D03V-002,White,26,ALL,https://secure-i5.ztat.net/detail/ES/92/1D/03/V0/02/ES921D03V-002@1.1.jpg,Basic T-shirt - white,Esprit Maternity,FEMALE,womens-clothing-tops
-20894,ES921D03U-112,Grey,20,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/U1/12/ES921D03U-112@1.1.jpg,Top - grey melange,Esprit Maternity,FEMALE,womens-clothing-tops
 20895,ES421D02U-002,White,19,ALL,https://secure-i5.ztat.net/detail/ES/42/1D/02/U0/02/ES421D02U-002@1.1.jpg,Basic T-shirt - white,ESPRIT Collection,FEMALE,womens-clothing-tops
 20896,ES421D02V-002,White,18,ALL,https://secure-i5.ztat.net/detail/ES/42/1D/02/V0/02/ES421D02V-002@1.1.jpg,Basic T-shirt - white,ESPRIT Collection,FEMALE,womens-clothing-tops
 2.09E+04,E1321D05V-103,Black,26,ALL,https://secure-i6.ztat.net/detail/E1/32/1D/05/V1/03/E1321D05V-103@1.2.jpg,BIEBER - Print T-shirt - covin black,Eleven Paris,FEMALE,womens-clothing-tops
@@ -3622,10 +3599,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20936,MO421F003-002,White,21,ALL,https://secure-i3.ztat.net/detail/MO/42/1F/00/30/02/MO421F003-002@9.jpg,TRICK - Basic T-shirt - white,Modström,FEMALE,womens-clothing-tops
 20937,MO421F003-802,Black,21,ALL,https://secure-i5.ztat.net/detail/MO/42/1F/00/38/02/MO421F003-802@5.jpg,TRICK - Basic T-shirt - black,Modström,FEMALE,womens-clothing-tops
 "20938,CO121D02N-Q11,Black,34,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1D/02/NQ/11/CO121D02N-Q11@3.jpg,Basic T-shirt - black,""comma,"",FEMALE,womens-clothing-tops"
-20939,ES921D03Y-002,White,34,ALL,https://secure-i5.ztat.net/detail/ES/92/1D/03/Y0/02/ES921D03Y-002@1.1.jpg,Long sleeved top - white,Esprit Maternity,FEMALE,womens-clothing-tops
 20940,ME421D00N-802,Black,17,ALL,https://secure-i3.ztat.net/detail/ME/42/1D/00/N8/02/ME421D00N-802@1.1.jpg,NOOS - Long sleeved top - black,Mexx,FEMALE,womens-clothing-tops
 20941,GS121D01R-002,White,23,ALL,https://secure-i4.ztat.net/detail/GS/12/1D/01/R0/02/GS121D01R-002@1.2.jpg,BASE DEEP - Basic T-shirt - white,G-Star,FEMALE,womens-clothing-tops
-20942,ES921D03Y-112,Grey,34,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/Y1/12/ES921D03Y-112@1.1.jpg,Long sleeved top - grey melange,Esprit Maternity,FEMALE,womens-clothing-tops
 20943,S5321K017-002,White,41,ALL,https://secure-i5.ztat.net/detail/S5/32/1K/01/70/02/S5321K017-002@1.1.jpg,PAULINE - Top - white,Schiesser Revival,FEMALE,womens-clothing-tops
 20944,GA321D013-502,Blue,60,SUMMER,https://secure-i3.ztat.net/detail/GA/32/1D/01/35/02/GA321D013-502@1.2.jpg,CLASSIC PIQUE - Polo shirt - navy,Gant,FEMALE,womens-clothing-tops
 20945,S5321K00U-802,Black,55,ALL,https://secure-i6.ztat.net/detail/S5/32/1K/00/U8/02/S5321K00U-802@1.2.jpg,ELVIRA - Vest - schwarz,Schiesser Revival,FEMALE,womens-clothing-tops
@@ -3650,7 +3625,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20968,ES421D02W-002,White,19,ALL,https://secure-i5.ztat.net/detail/ES/42/1D/02/W0/02/ES421D02W-002@1.1.jpg,Long sleeved top - white,ESPRIT Collection,FEMALE,womens-clothing-tops
 20969,ES421D02W-802,Black,19,ALL,https://secure-i3.ztat.net/detail/ES/42/1D/02/W8/02/ES421D02W-802@1.1.jpg,Long sleeved top - black,ESPRIT Collection,FEMALE,womens-clothing-tops
 20970,RM021D005-003,White,65,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/50/03/RM021D005-003@1.2.jpg,Long sleeved top - soft powder,Rosemunde,FEMALE,womens-clothing-tops
-20971,ES921D03U-802,Black,20,ALL,https://secure-i3.ztat.net/detail/ES/92/1D/03/U8/02/ES921D03U-802@1.1.jpg,Top - black,Esprit Maternity,FEMALE,womens-clothing-tops
 20972,ES421D02U-802,Black,19,ALL,https://secure-i3.ztat.net/detail/ES/42/1D/02/U8/02/ES421D02U-802@1.1.jpg,Basic T-shirt - black,ESPRIT Collection,FEMALE,womens-clothing-tops
 20973,ES121D080-M11,Green,15,SUMMER,https://secure-i6.ztat.net/detail/ES/12/1D/08/0M/11/ES121D080-M11@1.1.jpg,CARMEN - Basic T-shirt - green,Esprit,FEMALE,womens-clothing-tops
 20974,ES421D02V-802,Black,25,ALL,https://secure-i3.ztat.net/detail/ES/42/1D/02/V8/02/ES421D02V-802@1.1.jpg,Basic T-shirt - black,ESPRIT Collection,FEMALE,womens-clothing-tops
