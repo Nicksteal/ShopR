@@ -2933,7 +2933,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20218,MM421N001-Q11,Black,49,ALL,https://secure-i6.ztat.net/detail/MM/42/1N/00/1Q/11/MM421N001-Q11@7.jpg,Slim fit jeans - black,Mexx Metropolitan,FEMALE,womens-clothing-jeans
 20219,MM421N000-K11,Blue,49,ALL,https://secure-i5.ztat.net/detail/MM/42/1N/00/0K/11/MM421N000-K11@3.jpg,Slim fit jeans - blue,Mexx Metropolitan,FEMALE,womens-clothing-jeans
 20220,ON321N00B-K11,Blue,28,ALL,https://secure-i1.ztat.net/detail/ON/32/1N/00/BK/11/ON321N00B-K11@7.jpg,EVE BOYFRIEND - Straight leg jeans - dark blue denim,ONLY,FEMALE,womens-clothing-jeans
-20222,QM129A002-K11,Blue,50,ALL,https://secure-i1.ztat.net/detail/QM/12/9A/00/2K/11/QM129A002-K11@3.jpg,Straight leg jeans - dark blue,Queen Mum,FEMALE,womens-clothing-jeans
 20223,TO221A01I-K11,Blue,44,ALL,https://secure-i5.ztat.net/detail/TO/22/1A/01/IK/11/TO221A01I-K11@7.jpg,ALEXA - Slim fit jeans - rinsed blue denim,Tom Tailor,FEMALE,womens-clothing-jeans
 20224,LE421A02Z-Q00,Black,65,ALL,https://secure-i1.ztat.net/detail/LE/42/1A/02/ZQ/00/LE421A02Z-Q00@7.jpg,SKYLER - Slim fit jeans - black rinse,Lee,FEMALE,womens-clothing-jeans
 20225,LE421A035-K00,Blue,75,ALL,https://secure-i4.ztat.net/detail/LE/42/1A/03/5K/00/LE421A035-K00@2.jpg,MARION - Straight leg jeans - solid blue,Lee,FEMALE,womens-clothing-jeans
@@ -3001,7 +3000,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20294,LT121B00V-953,Blue,50,ALL,https://secure-i1.ztat.net/detail/LT/12/1B/00/V9/53/LT121B00V-953@13.2.jpg,VALERIE - Bootcut jeans - dark blue denim,LTB,FEMALE,womens-clothing-jeans
 20295,LT121B00B-905,Blue,50,ALL,https://secure-i2.ztat.net/detail/LT/12/1B/00/B9/05/LT121B00B-905@14.jpg,MOLLY - Slim fit jeans - maison wash,LTB,FEMALE,womens-clothing-jeans
 20296,ES421A01G-K00,Blue,55,ALL,https://secure-i5.ztat.net/detail/ES/42/1A/01/GK/00/ES421A01G-K00@7.2.jpg,BERN - Bootcut jeans - clean rinse,ESPRIT Collection,FEMALE,womens-clothing-jeans
-20297,QM129A001-K11,Blue,65,ALL,https://secure-i2.ztat.net/detail/QM/12/9A/00/1K/11/QM129A001-K11@1.1.jpg,Bootcut jeans - blue rinsed wash,Queen Mum,FEMALE,womens-clothing-jeans
 20298,ES121N003-C11,Grey,45,ALL,https://secure-i2.ztat.net/detail/ES/12/1N/00/3C/11/ES121N003-C11@1.jpg,Straight leg jeans - stone used,Esprit,FEMALE,womens-clothing-jeans
 20299,ME421A01U-953,Blue,49,ALL,https://secure-i6.ztat.net/detail/ME/42/1A/01/U9/53/ME421A01U-953@6.jpg,Straight leg jeans - authentic dark wash,Mexx,FEMALE,womens-clothing-jeans
 20300,ES921A041-955,Blue,75,ALL,https://secure-i6.ztat.net/detail/ES/92/1A/04/19/55/ES921A041-955@1.1.jpg,Bootcut jeans - darkwash,Esprit Maternity,FEMALE,womens-clothing-jeans
@@ -3109,7 +3107,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20403,MA621B01P-953,Blue,44,ALL,https://secure-i2.ztat.net/detail/MA/62/1B/01/P9/53/MA621B01P-953@1.1.jpg,ALICE - Denim skirt - deep miami,Mavi,FEMALE,womens-clothing-skirts
 20404,MM421B008-802,Black,40,ALL,https://secure-i6.ztat.net/detail/MM/42/1B/00/88/02/MM421B008-802@7.jpg,Pencil skirt - schwarz,Mexx Metropolitan,FEMALE,womens-clothing-skirts
 20406,CS029E000-N11,Olive,32,SUMMER,https://secure-i4.ztat.net/detail/CS/02/9E/00/0N/11/CS029E000-N11@10.jpg,Mini skirt - oliv,Christoff,FEMALE,womens-clothing-skirts
-20408,QM129E000-Q11,Black,60,ALL,https://secure-i5.ztat.net/detail/QM/12/9E/00/0Q/11/QM129E000-Q11@4.1.jpg,Pencil skirt - black,Queen Mum,FEMALE,womens-clothing-skirts
 20409,DL621B000-K11,Blue,215,SUMMER,https://secure-i1.ztat.net/detail/DL/62/1B/00/0K/11/DL621B000-K11@7.jpg,Mini skirt - blue,Derek Lam 10 Crosby,FEMALE,womens-clothing-skirts
 20410,ES921B00T-952,Blue,65,ALL,https://secure-i3.ztat.net/detail/ES/92/1B/00/T9/52/ES921B00T-952@1.1.jpg,Denim skirt - stonewash,Esprit Maternity,FEMALE,womens-clothing-skirts
 20411,AN621B00T-802,Black,21,ALL,https://secure-i3.ztat.net/detail/AN/62/1B/00/T8/02/AN621B00T-802@1.1.jpg,A-line skirt - black,Anna Field,FEMALE,womens-clothing-skirts
@@ -3647,8 +3644,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20960,ZA821D02H-C11,Grey,13,ALL,https://secure-i4.ztat.net/detail/ZA/82/1D/02/HC/11/ZA821D02H-C11@13.jpg,Basic T-shirt - ligth grey melange,Zalando Essentials,FEMALE,womens-clothing-tops
 20961,RS321D02L-Q11,Black,21,SUMMER,https://secure-i6.ztat.net/detail/RS/32/1D/02/LQ/11/RS321D02L-Q11@4.jpg,Top - black,REDSOUL,FEMALE,womens-clothing-tops
 20962,MM421D00O-A11,White,22,ALL,https://secure-i1.ztat.net/detail/MM/42/1D/00/OA/11/MM421D00O-A11@2.jpg,Basic T-shirt - white,Mexx Metropolitan,FEMALE,womens-clothing-tops
-20963,QM129G007-K11,Blue,24,SUMMER,https://secure-i5.ztat.net/detail/QM/12/9G/00/7K/11/QM129G007-K11@4.jpg,Print T-shirt - blue,Queen Mum,FEMALE,womens-clothing-tops
-20964,QM129G008-N11,Olive,15,SUMMER,https://secure-i4.ztat.net/detail/QM/12/9G/00/8N/11/QM129G008-N11@3.jpg,Basic T-shirt - oliv,Queen Mum,FEMALE,womens-clothing-tops
 20965,ZA821D01D-K00,Blue,11,ALL,https://secure-i5.ztat.net/detail/ZA/82/1D/01/DK/00/ZA821D01D-K00@6.jpg,Long sleeved top - dark blue,Zalando Essentials,FEMALE,womens-clothing-tops
 20966,ZA821D01E-C00,Grey,11,ALL,https://secure-i3.ztat.net/detail/ZA/82/1D/01/EC/00/ZA821D01E-C00@5.jpg,Long sleeved top - light grey melange,Zalando Essentials,FEMALE,womens-clothing-tops
 20967,ES121D074-502,Blue,19,ALL,https://secure-i6.ztat.net/detail/ES/12/1D/07/45/02/ES121D074-502@1.1.jpg,Long sleeved top - cinder blue,Esprit,FEMALE,womens-clothing-tops
