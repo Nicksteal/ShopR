@@ -8,7 +8,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17078,MM421I00B-Q11,Black,32,ALL,https://secure-i3.ztat.net/detail/MM/42/1I/00/BQ/11/MM421I00B-Q11@5.jpg,Cardigan - black,Mexx Metropolitan,FEMALE,womens-clothing-cardigans
 17079,ON321I08U-Q11,Black,18,ALL,https://secure-i2.ztat.net/detail/ON/32/1I/08/UQ/11/ON321I08U-Q11@21.jpg,RICCO - Cardigan - black,ONLY,FEMALE,womens-clothing-cardigans
 17080,ON321I08U-C11,Grey,18,ALL,https://secure-i2.ztat.net/detail/ON/32/1I/08/UC/11/ON321I08U-C11@9.jpg,RICCO - Cardigan - light grey melange,ONLY,FEMALE,womens-clothing-cardigans
-"17081,CO121G00I-Q11,Black,30,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1G/00/IQ/11/CO121G00I-Q11@3.jpg,Cardigan - black,""comma,"",FEMALE,womens-clothing-cardigans"
+17081,CO121G00I-Q11,Black,30,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1G/00/IQ/11/CO121G00I-Q11@3.jpg,Cardigan - black,"comma,",FEMALE,womens-clothing-cardigans
 17082,VE121I0BR-C11,Grey,14,ALL,https://secure-i2.ztat.net/detail/VE/12/1I/0B/RC/11/VE121I0BR-C11@3.1.jpg,LULULOVE - Cardigan - grey,Vero Moda,FEMALE,womens-clothing-cardigans
 17083,AN621I02W-A11,White,21,ALL,https://secure-i1.ztat.net/detail/AN/62/1I/02/WA/11/AN621I02W-A11@6.1.jpg,Cardigan - offwhite,Anna Field,FEMALE,womens-clothing-cardigans
 17084,ES421I02T-K11,Blue,39,ALL,https://secure-i4.ztat.net/detail/ES/42/1I/02/TK/11/ES421I02T-K11@4.jpg,Cardigan - blue,ESPRIT Collection,FEMALE,womens-clothing-cardigans
@@ -33,12 +33,12 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17103,M5821I034-Q11,Black,34,ALL,https://secure-i6.ztat.net/detail/M5/82/1I/03/4Q/11/M5821I034-Q11@3.jpg,Cardigan - black,More & More,FEMALE,womens-clothing-cardigans
 17104,ES121I03J-502,Blue,29,ALL,https://secure-i6.ztat.net/detail/ES/12/1I/03/J5/02/ES121I03J-502@1.1.jpg,Cardigan - cinder blue,Esprit,FEMALE,womens-clothing-cardigans
 17105,ES421I02T-802,Black,39,ALL,https://secure-i3.ztat.net/detail/ES/42/1I/02/T8/02/ES421I02T-802@1.1.jpg,Cardigan - black,ESPRIT Collection,FEMALE,womens-clothing-cardigans
-"17106,CO121I02M-Q11,Black,40,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1I/02/MQ/11/CO121I02M-Q11@1.jpg,Cardigan - schwarz,""comma,"",FEMALE,womens-clothing-cardigans"
+17106,CO121I02M-Q11,Black,40,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1I/02/MQ/11/CO121I02M-Q11@1.jpg,Cardigan - schwarz,"comma,",FEMALE,womens-clothing-cardigans
 17107,ES421I03G-C11,Grey,55,ALL,https://secure-i3.ztat.net/detail/ES/42/1I/03/GC/11/ES421I03G-C11@5.jpg,Cardigan - nougat melange,ESPRIT Collection,FEMALE,womens-clothing-cardigans
 17108,ES121I03J-712,Brown,29,ALL,https://secure-i3.ztat.net/detail/ES/12/1I/03/J7/12/ES121I03J-712@1.1.jpg,Cardigan - timber melange,Esprit,FEMALE,womens-clothing-cardigans
 17109,ES121I03J-802,Black,29,ALL,https://secure-i3.ztat.net/detail/ES/12/1I/03/J8/02/ES121I03J-802@1.1.jpg,Cardigan - black,Esprit,FEMALE,womens-clothing-cardigans
-"17111,CO121I03B-Q11,Black,42,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/03/BQ/11/CO121I03B-Q11@12.jpg,Cardigan - black,""comma,"",FEMALE,womens-clothing-cardigans"
-"17112,CO121I03C-Q11,Black,34,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/03/CQ/11/CO121I03C-Q11@12.jpg,Cardigan - black,""comma,"",FEMALE,womens-clothing-cardigans"
+17111,CO121I03B-Q11,Black,42,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/03/BQ/11/CO121I03B-Q11@12.jpg,Cardigan - black,"comma,",FEMALE,womens-clothing-cardigans
+17112,CO121I03C-Q11,Black,34,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/03/CQ/11/CO121I03C-Q11@12.jpg,Cardigan - black,"comma,",FEMALE,womens-clothing-cardigans
 17113,4BE21I02G-302,Red,33,SUMMER,https://secure-i2.ztat.net/detail/4B/E2/1I/02/G3/02/4BE21I02G-302@16.jpg,Cardigan - red,Benetton,FEMALE,womens-clothing-cardigans
 17114,P5621G00E-A00,White,37,SUMMER,https://secure-i3.ztat.net/detail/P5/62/1G/00/EA/00/P5621G00E-A00@4.jpg,Cardigan - weiß,Passport,FEMALE,womens-clothing-cardigans
 17115,V1021I05K-113,Grey,20,WINTER,https://secure-i2.ztat.net/detail/V1/02/1I/05/K1/13/V1021I05K-113@1.1.jpg,KAKTUS - Cardigan - dark grey melange,Vila,FEMALE,womens-clothing-cardigans
@@ -59,9 +59,9 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17130,TO221I031-D11,Silver,42,ALL,https://secure-i5.ztat.net/detail/TO/22/1I/03/1D/11/TO221I031-D11@14.jpg,Cardigan - dark silver grey,Tom Tailor,FEMALE,womens-clothing-cardigans
 17132,ES421I03G-K11,Blue,55,ALL,https://secure-i3.ztat.net/detail/ES/42/1I/03/GK/11/ES421I03G-K11@15.jpg,Cardigan - blue,ESPRIT Collection,FEMALE,womens-clothing-cardigans
 17133,S2921I05S-C11,Grey,40,ALL,https://secure-i2.ztat.net/detail/S2/92/1I/05/SC/11/S2921I05S-C11@2.jpg,Cardigan - grey/ black,Sir Oliver,FEMALE,womens-clothing-cardigans
-"17134,CO121I02Y-O11,Brown,60,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/YO/11/CO121I02Y-O11@14.jpg,Cardigan - braun,""comma,"",FEMALE,womens-clothing-cardigans"
-"17135,CO121I02Y-C11,Grey,60,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/YC/11/CO121I02Y-C11@14.jpg,Cardigan - grau,""comma,"",FEMALE,womens-clothing-cardigans"
-"17136,CO121I02Y-Q11,Black,60,ALL,https://secure-i5.ztat.net/detail/CO/12/1I/02/YQ/11/CO121I02Y-Q11@13.jpg,Cardigan - schwarz,""comma,"",FEMALE,womens-clothing-cardigans"
+17134,CO121I02Y-O11,Brown,60,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/YO/11/CO121I02Y-O11@14.jpg,Cardigan - braun,"comma,",FEMALE,womens-clothing-cardigans
+17135,CO121I02Y-C11,Grey,60,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/YC/11/CO121I02Y-C11@14.jpg,Cardigan - grau,"comma,",FEMALE,womens-clothing-cardigans
+17136,CO121I02Y-Q11,Black,60,ALL,https://secure-i5.ztat.net/detail/CO/12/1I/02/YQ/11/CO121I02Y-Q11@13.jpg,Cardigan - schwarz,"comma,",FEMALE,womens-clothing-cardigans
 17137,ED121I03M-Q11,Black,29,ALL,https://secure-i6.ztat.net/detail/ED/12/1I/03/MQ/11/ED121I03M-Q11@14.jpg,Cardigan - black,edc by Esprit,FEMALE,womens-clothing-cardigans
 17138,TO721I02B-Q11,Black,45,ALL,https://secure-i4.ztat.net/detail/TO/72/1I/02/BQ/11/TO721I02B-Q11@15.jpg,Cardigan - black,Tom Tailor Denim,FEMALE,womens-clothing-cardigans
 17139,SO221I08O-Q11,Black,40,ALL,https://secure-i4.ztat.net/detail/SO/22/1I/08/OQ/11/SO221I08O-Q11@14.jpg,Cardigan - black,s.Oliver,FEMALE,womens-clothing-cardigans
@@ -144,7 +144,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17219,EV421I05M-Q12,Black,25,SUMMER,https://secure-i5.ztat.net/detail/EV/42/1I/05/MQ/12/EV421I05M-Q12@14.jpg,Cardigan - black/light grey melange,Even&Odd,FEMALE,womens-clothing-cardigans
 17220,M5821I05S-G11,Red,34,SUMMER,https://secure-i4.ztat.net/detail/M5/82/1I/05/SG/11/M5821I05S-G11@2.jpg,Cardigan - red kiss,More & More,FEMALE,womens-clothing-cardigans
 17221,CR221I049-J11,Pink,50,SUMMER,https://secure-i5.ztat.net/detail/CR/22/1I/04/9J/11/CR221I049-J11@16.jpg,Cardigan - powder sky,Cream,FEMALE,womens-clothing-cardigans
-"17222,CO121I03H-K11,Blue,65,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1I/03/HK/11/CO121I03H-K11@12.jpg,Cardigan - dark blue,""comma,"",FEMALE,womens-clothing-cardigans"
+17222,CO121I03H-K11,Blue,65,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1I/03/HK/11/CO121I03H-K11@12.jpg,Cardigan - dark blue,"comma,",FEMALE,womens-clothing-cardigans
 17223,CR221I048-J11,Pink,60,SUMMER,https://secure-i6.ztat.net/detail/CR/22/1I/04/8J/11/CR221I048-J11@16.jpg,Cardigan - rose powder,Cream,FEMALE,womens-clothing-cardigans
 17224,SO821I01E-K11,Blue,42,SUMMER,https://secure-i3.ztat.net/detail/SO/82/1I/01/EK/11/SO821I01E-K11@13.jpg,CEREN - Cardigan - mid blue,Soyaconcept,FEMALE,womens-clothing-cardigans
 17225,EV421I062-Q11,Black,25,SUMMER,https://secure-i5.ztat.net/detail/EV/42/1I/06/2Q/11/EV421I062-Q11@16.jpg,Cardigan - black,Even&Odd,FEMALE,womens-clothing-cardigans
@@ -155,9 +155,9 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17230,AN621I06K-G11,Red,25,SUMMER,https://secure-i6.ztat.net/detail/AN/62/1I/06/KG/11/AN621I06K-G11@14.jpg,Cardigan - bordeaux,Anna Field,FEMALE,womens-clothing-cardigans
 17231,ON321I0CJ-M11,Green,25,SUMMER,https://secure-i3.ztat.net/detail/ON/32/1I/0C/JM/11/ON321I0CJ-M11@16.jpg,ONLNEW GEENIE  - Cardigan - wan blue,ONLY,FEMALE,womens-clothing-cardigans
 17232,SO821I01E-B11,Beige,42,SUMMER,https://secure-i5.ztat.net/detail/SO/82/1I/01/EB/11/SO821I01E-B11@14.jpg,CEREN - Cardigan - feather grey,Soyaconcept,FEMALE,womens-clothing-cardigans
-"17233,CO121I03G-K11,Blue,50,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1I/03/GK/11/CO121I03G-K11@14.jpg,Cardigan - dark blue,""comma,"",FEMALE,womens-clothing-cardigans"
+17233,CO121I03G-K11,Blue,50,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1I/03/GK/11/CO121I03G-K11@14.jpg,Cardigan - dark blue,"comma,",FEMALE,womens-clothing-cardigans
 17234,M6121C0C3-J11,Pink,55,SUMMER,https://secure-i6.ztat.net/detail/M6/12/1C/0C/3J/11/M6121C0C3-J11@16.1.jpg,SET - Summer dress - nude,Molly Bracken,FEMALE,womens-clothing-cardigans
-"17235,CO121I03G-B11,Beige,50,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1I/03/GB/11/CO121I03G-B11@14.jpg,Cardigan - sand,""comma,"",FEMALE,womens-clothing-cardigans"
+17235,CO121I03G-B11,Beige,50,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1I/03/GB/11/CO121I03G-B11@14.jpg,Cardigan - sand,"comma,",FEMALE,womens-clothing-cardigans
 17236,OB121I05L-A11,White,34,SUMMER,https://secure-i6.ztat.net/detail/OB/12/1I/05/LA/11/OB121I05L-A11@13.jpg,OBJCARIN  - Cardigan - egret,Object,FEMALE,womens-clothing-cardigans
 17237,GA321I01S-D11,Silver,95,SUMMER,https://secure-i1.ztat.net/detail/GA/32/1I/01/SD/11/GA321I01S-D11@14.jpg,Cardigan - cliff grey melange,Gant,FEMALE,womens-clothing-cardigans
 17238,M5821I069-K11,Blue,60,SUMMER,https://secure-i2.ztat.net/detail/M5/82/1I/06/9K/11/M5821I069-K11@14.jpg,Cardigan - marine,More & More,FEMALE,womens-clothing-cardigans
@@ -447,8 +447,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17522,S2921I05R-O11,Brown,32,ALL,https://secure-i3.ztat.net/detail/S2/92/1I/05/RO/11/S2921I05R-O11@14.jpg,Jumper - dark brown melange,s.Oliver,FEMALE,womens-clothing-jumpers
 17523,S2921I05R-B11,Beige,32,ALL,https://secure-i4.ztat.net/detail/S2/92/1I/05/RB/11/S2921I05R-B11@14.jpg,Jumper - brown,s.Oliver,FEMALE,womens-clothing-jumpers
 17524,S2921I05R-C11,Grey,32,ALL,https://secure-i3.ztat.net/detail/S2/92/1I/05/RC/11/S2921I05R-C11@14.jpg,Jumper - grey,s.Oliver,FEMALE,womens-clothing-jumpers
-"17525,CO121I02X-Q11,Green,42,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/XQ/11/CO121I02X-Q11@35.jpg,Jumper - grün,""comma,"",FEMALE,womens-clothing-jumpers"
-"17526,CO121I02X-M11,Black,42,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/02/XM/11/CO121I02X-M11@28.2.jpg,Jumper - schwarz,""comma,"",FEMALE,womens-clothing-jumpers"
+17525,CO121I02X-Q11,Green,42,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/XQ/11/CO121I02X-Q11@35.jpg,Jumper - grün,"comma,",FEMALE,womens-clothing-jumpers
+17526,CO121I02X-M11,Black,42,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/02/XM/11/CO121I02X-M11@28.2.jpg,Jumper - schwarz,"comma,",FEMALE,womens-clothing-jumpers
 17527,ED121I03N-Q11,Black,25,ALL,https://secure-i5.ztat.net/detail/ED/12/1I/03/NQ/11/ED121I03N-Q11@14.jpg,WINTER SCOOP - Jumper - black,edc by Esprit,FEMALE,womens-clothing-jumpers
 17528,ED121I03K-Q11,Black,25,ALL,https://secure-i2.ztat.net/detail/ED/12/1I/03/KQ/11/ED121I03K-Q11@14.jpg,Jumper - black,edc by Esprit,FEMALE,womens-clothing-jumpers
 17529,SU521D012-J11,Brown,38,ALL,https://secure-i2.ztat.net/detail/SU/52/1D/01/2J/11/SU521D012-J11@12.jpg,TODROS - Jumper - blush,Supertrash,FEMALE,womens-clothing-jumpers
@@ -500,7 +500,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17575,SO221I08N-K11,Blue,24,ALL,https://secure-i1.ztat.net/detail/SO/22/1I/08/NK/11/SO221I08N-K11@9.jpg,Jumper - india ink melange,s.Oliver,FEMALE,womens-clothing-jumpers
 17576,SO221I08N-C11,Grey,24,ALL,https://secure-i3.ztat.net/detail/SO/22/1I/08/NC/11/SO221I08N-C11@5.jpg,Jumper - ash grey mel,s.Oliver,FEMALE,womens-clothing-jumpers
 17577,SO221I08N-Q11,Black,24,ALL,https://secure-i5.ztat.net/detail/SO/22/1I/08/NQ/11/SO221I08N-Q11@5.jpg,Jumper - black,s.Oliver,FEMALE,womens-clothing-jumpers
-"17578,CO121I02W-Q11,Black,39,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/WQ/11/CO121I02W-Q11@14.jpg,Jumper - schwarz,""comma,"",FEMALE,womens-clothing-jumpers"
+17578,CO121I02W-Q11,Black,39,ALL,https://secure-i2.ztat.net/detail/CO/12/1I/02/WQ/11/CO121I02W-Q11@14.jpg,Jumper - schwarz,"comma,",FEMALE,womens-clothing-jumpers
 17579,ZA821I00I-Q00,Black,17,SUMMER,https://secure-i2.ztat.net/detail/ZA/82/1I/00/IQ/00/ZA821I00I-Q00@7.jpg,Jumper - black,Zalando Essentials,FEMALE,womens-clothing-jumpers
 17580,4BE21I074-C11,Grey,20,WINTER,https://secure-i5.ztat.net/detail/4B/E2/1I/07/4C/11/4BE21I074-C11@6.1.jpg,Jumper - mid grey melange,Benetton,FEMALE,womens-clothing-jumpers
 17581,KO121I08Y-K11,Blue,60,SUMMER,https://secure-i2.ztat.net/detail/KO/12/1I/08/YK/11/KO121I08Y-K11@16.jpg,Jumper - nocturne,Kookai,FEMALE,womens-clothing-jumpers
@@ -536,7 +536,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17612,MA321I062-C11,Grey,135,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1I/06/2C/11/MA321I062-C11@14.jpg,Jumper - marl,Marc O'Polo,FEMALE,womens-clothing-jumpers
 17613,4BE21I073-Q11,Black,27,SUMMER,https://secure-i6.ztat.net/detail/4B/E2/1I/07/3Q/11/4BE21I073-Q11@3.1.jpg,Jumper - black,Benetton,FEMALE,womens-clothing-jumpers
 17614,MA321I06D-K11,Blue,95,SUMMER,https://secure-i6.ztat.net/detail/MA/32/1I/06/DK/11/MA321I06D-K11@15.jpg,Jumper - combo,Marc O'Polo,FEMALE,womens-clothing-jumpers
-"17615,MA321D06E-A11,White,39,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1D/06/EA/11/MA321D06E-A11@13.jpg,""Jumper - blau, weiss"",Marc O'Polo,FEMALE,womens-clothing-jumpers"
+17615,MA321D06E-A11,White,39,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1D/06/EA/11/MA321D06E-A11@13.jpg,"Jumper - blau, weiss",Marc O'Polo,FEMALE,womens-clothing-jumpers
 17616,ED121I04G-B11,Beige,39,SUMMER,https://secure-i5.ztat.net/detail/ED/12/1I/04/GB/11/ED121I04G-B11@18.jpg,Jumper - beige colourway,edc by Esprit,FEMALE,womens-clothing-jumpers
 17617,M5921I04X-302,Red,28,WINTER,https://secure-i2.ztat.net/detail/M5/92/1I/04/X3/02/M5921I04X-302@1.1.jpg,Jumper - red,Morgan,FEMALE,womens-clothing-jumpers
 17618,M1421I00Z-802,Black,75,WINTER,https://secure-i3.ztat.net/detail/M1/42/1I/00/Z8/02/M1421I00Z-802@1.1.jpg,KOLLA - Jumper - schwarz,Mads Nørgaard,FEMALE,womens-clothing-jumpers
@@ -762,9 +762,9 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17884,RE121E001-002,White,110,ALL,https://secure-i5.ztat.net/detail/RE/12/1E/00/10/02/RE121E001-002@1.1.jpg,Blouse - weiß,René Lezard,FEMALE,womens-clothing-blouses
 17885,ES421E02C-Q00,Black,39,ALL,https://secure-i4.ztat.net/detail/ES/42/1E/02/CQ/00/ES421E02C-Q00@5.jpg,Blouse - black,ESPRIT Collection,FEMALE,womens-clothing-blouses
 17886,3SE21E00E-802,Black,60,ALL,https://secure-i3.ztat.net/detail/3S/E2/1E/00/E8/02/3SE21E00E-802@1.1.jpg,Blouse - black,Seidensticker,FEMALE,womens-clothing-blouses
-"17887,CO121E040-A11,White,32,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1E/04/0A/11/CO121E040-A11@7.jpg,Blouse - white,""comma,"",FEMALE,womens-clothing-blouses"
+17887,CO121E040-A11,White,32,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1E/04/0A/11/CO121E040-A11@7.jpg,Blouse - white,"comma,",FEMALE,womens-clothing-blouses
 17888,SE521E012-Q00,Black,41,SUMMER,https://secure-i5.ztat.net/detail/SE/52/1E/01/2Q/00/SE521E012-Q00@4.jpg,DYNELLA - Tunic - black,Selected Femme,FEMALE,womens-clothing-blouses
-"17890,CO121E040-K11,Pink,32,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1E/04/0K/11/CO121E040-K11@7.jpg,Blouse - pink,""comma,"",FEMALE,womens-clothing-blouses"
+17890,CO121E040-K11,Pink,32,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1E/04/0K/11/CO121E040-K11@7.jpg,Blouse - pink,"comma,",FEMALE,womens-clothing-blouses
 17891,M5821E02K-K00,Blue,34,ALL,https://secure-i4.ztat.net/detail/M5/82/1E/02/KK/00/M5821E02K-K00@1.1.jpg,Blouse - blau,More & More,FEMALE,womens-clothing-blouses
 17892,ON321A07M-952,Blue,25,ALL,https://secure-i3.ztat.net/detail/ON/32/1A/07/M9/52/ON321A07M-952@1.1.jpg,ROCK IT - Blouse - denim,ONLY,FEMALE,womens-clothing-blouses
 17893,RE121E001-502,Blue,110,ALL,https://secure-i6.ztat.net/detail/RE/12/1E/00/15/02/RE121E001-502@1.1.jpg,Blouse - hellblau,René Lezard,FEMALE,womens-clothing-blouses
@@ -776,20 +776,20 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17899,SE421E00I-J00,Orange,60,SUMMER,https://secure-i4.ztat.net/detail/SE/42/1E/00/IJ/00/SE421E00I-J00@13.jpg,KAY - Blouse - nude,Second Female,FEMALE,womens-clothing-blouses
 17900,M5821E02K-A00,White,34,ALL,https://secure-i2.ztat.net/detail/M5/82/1E/02/KA/00/M5821E02K-A00@1.1.jpg,Blouse - weiss,More & More,FEMALE,womens-clothing-blouses
 17901,TO221D06I-K12,Blue,35,ALL,https://secure-i3.ztat.net/detail/TO/22/1D/06/IK/12/TO221D06I-K12@14.jpg,Blouse - real navy blue,Tom Tailor,FEMALE,womens-clothing-blouses
-"17902,CO121E041-A11,White,28,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1E/04/1A/11/CO121E041-A11@7.jpg,Blouse - white,""comma,"",FEMALE,womens-clothing-blouses"
+17902,CO121E041-A11,White,28,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1E/04/1A/11/CO121E041-A11@7.jpg,Blouse - white,"comma,",FEMALE,womens-clothing-blouses
 17903,VE121X00A-802,Black,21,ALL,https://secure-i5.ztat.net/detail/VE/12/1X/00/A8/02/VE121X00A-802@1.3.jpg,COUSIN - Shirt - black,Vero Moda,FEMALE,womens-clothing-blouses
 17904,AN621E026-Q11,Black,29,ALL,https://secure-i5.ztat.net/detail/AN/62/1E/02/6Q/11/AN621E026-Q11@7.jpg,Blouse - black,Anna Field,FEMALE,womens-clothing-blouses
 17905,V1021E047-Q11,Black,14,ALL,https://secure-i3.ztat.net/detail/V1/02/1E/04/7Q/11/V1021E047-Q11@6.jpg,EMPIRE - Blouse - black,Vila,FEMALE,womens-clothing-blouses
 17906,TO221D06I-K11,Blue,35,ALL,https://secure-i2.ztat.net/detail/TO/22/1D/06/IK/11/TO221D06I-K11@12.jpg,Blouse - yonder blue,Tom Tailor,FEMALE,womens-clothing-blouses
-"17907,CO121E040-J11,Blue,32,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1E/04/0J/11/CO121E040-J11@7.jpg,Blouse - blue,""comma,"",FEMALE,womens-clothing-blouses"
+17907,CO121E040-J11,Blue,32,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1E/04/0J/11/CO121E040-J11@7.jpg,Blouse - blue,"comma,",FEMALE,womens-clothing-blouses
 17908,3SE21E00N-002,White,65,ALL,https://secure-i5.ztat.net/detail/3S/E2/1E/00/N0/02/3SE21E00N-002@6.jpg,Blouse - weiß,Seidensticker,FEMALE,womens-clothing-blouses
 17909,TO221D06I-A11,White,35,ALL,https://secure-i6.ztat.net/detail/TO/22/1D/06/IA/11/TO221D06I-A11@12.jpg,Blouse - whisper white,Tom Tailor,FEMALE,womens-clothing-blouses
 17910,LE221E01S-K11,Blue,49,ALL,https://secure-i6.ztat.net/detail/LE/22/1E/01/SK/11/LE221E01S-K11@10.jpg,Blouse - blue,Levi's®,FEMALE,womens-clothing-blouses
 17911,VE121E038-J11,Pink,21,SUMMER,https://secure-i2.ztat.net/detail/VE/12/1E/03/8J/11/VE121E038-J11@4.3.jpg,Body - rose smoke,Vero Moda,FEMALE,womens-clothing-blouses
 17912,VE121E038-605,Blue,25,SUMMER,https://secure-i1.ztat.net/detail/VE/12/1E/03/86/05/VE121E038-605@1.2.jpg,Blouse - green/blue slate,Vero Moda,FEMALE,womens-clothing-blouses
 17913,VE121E038-402,Red,25,SUMMER,https://secure-i3.ztat.net/detail/VE/12/1E/03/84/02/VE121E038-402@17.jpg,Blouse - raspberry rose,Vero Moda,FEMALE,womens-clothing-blouses
-"17914,CO121E04S-A11,White,42,ALL,https://secure-i5.ztat.net/detail/CO/12/1E/04/SA/11/CO121E04S-A11@2.jpg,Blouse - white,""comma,"",FEMALE,womens-clothing-blouses"
-"17915,CO121E04D-K11,Blue,50,ALL,https://secure-i4.ztat.net/detail/CO/12/1E/04/DK/11/CO121E04D-K11@11.jpg,Blouse - dark blue,""comma,"",FEMALE,womens-clothing-blouses"
+17914,CO121E04S-A11,White,42,ALL,https://secure-i5.ztat.net/detail/CO/12/1E/04/SA/11/CO121E04S-A11@2.jpg,Blouse - white,"comma,",FEMALE,womens-clothing-blouses
+17915,CO121E04D-K11,Blue,50,ALL,https://secure-i4.ztat.net/detail/CO/12/1E/04/DK/11/CO121E04D-K11@11.jpg,Blouse - dark blue,"comma,",FEMALE,womens-clothing-blouses
 17916,SO221E08S-J11,Pink,34,ALL,https://secure-i1.ztat.net/detail/SO/22/1E/08/SJ/11/SO221E08S-J11@14.jpg,Blouse - powder peack,s.Oliver,FEMALE,womens-clothing-blouses
 17917,M5821E05O-K11,Blue,50,ALL,https://secure-i6.ztat.net/detail/M5/82/1E/05/OK/11/M5821E05O-K11@16.jpg,Blouse - blue multi,More & More,FEMALE,womens-clothing-blouses
 17918,SO221E08S-A11,White,34,ALL,https://secure-i4.ztat.net/detail/SO/22/1E/08/SA/11/SO221E08S-A11@14.jpg,Blouse - daisy,s.Oliver,FEMALE,womens-clothing-blouses
@@ -830,8 +830,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 17953,VE121E08C-Q11,Black,16,ALL,https://secure-i4.ztat.net/detail/VE/12/1E/08/CQ/11/VE121E08C-Q11@14.jpg,BOCA - Blouse - black,Vero Moda,FEMALE,womens-clothing-blouses
 17954,ON321E02S-J12,Pink,22,SUMMER,https://secure-i6.ztat.net/detail/ON/32/1E/02/SJ/12/ON321E02S-J12@14.jpg,Blouse - silver pink,ONLY,FEMALE,womens-clothing-blouses
 17955,M5821E04W-J11,Pink,50,ALL,https://secure-i6.ztat.net/detail/M5/82/1E/04/WJ/11/M5821E04W-J11@15.jpg,Tunic - original,More & More,FEMALE,womens-clothing-blouses
-"17956,CO121E04D-A11,White,50,ALL,https://secure-i2.ztat.net/detail/CO/12/1E/04/DA/11/CO121E04D-A11@15.jpg,Blouse - white,""comma,"",FEMALE,womens-clothing-blouses"
-"17957,CO121E04D-Q11,Black,50,ALL,https://secure-i6.ztat.net/detail/CO/12/1E/04/DQ/11/CO121E04D-Q11@15.jpg,Blouse - black,""comma,"",FEMALE,womens-clothing-blouses"
+17956,CO121E04D-A11,White,50,ALL,https://secure-i2.ztat.net/detail/CO/12/1E/04/DA/11/CO121E04D-A11@15.jpg,Blouse - white,"comma,",FEMALE,womens-clothing-blouses
+17957,CO121E04D-Q11,Black,50,ALL,https://secure-i6.ztat.net/detail/CO/12/1E/04/DQ/11/CO121E04D-Q11@15.jpg,Blouse - black,"comma,",FEMALE,womens-clothing-blouses
 17958,ON321E02S-K12,Blue,22,SUMMER,https://secure-i5.ztat.net/detail/ON/32/1E/02/SK/12/ON321E02S-K12@14.jpg,Blouse - della robbia blue,ONLY,FEMALE,womens-clothing-blouses
 17959,M5821E04W-Q11,Black,50,ALL,https://secure-i2.ztat.net/detail/M5/82/1E/04/WQ/11/M5821E04W-Q11@14.jpg,Blouse - black,More & More,FEMALE,womens-clothing-blouses
 17960,TO221E03Q-K11,Blue,35,ALL,https://secure-i1.ztat.net/detail/TO/22/1E/03/QK/11/TO221E03Q-K11@14.1.jpg,Blouse - dunkelblau,Tom Tailor,FEMALE,womens-clothing-blouses
@@ -906,7 +906,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18033,NA521E03G-Q11,Black,31,SUMMER,https://secure-i6.ztat.net/detail/NA/52/1E/03/GQ/11/NA521E03G-Q11@14.jpg,KLEMY - Blouse - black,NAF NAF,FEMALE,womens-clothing-blouses
 18034,NA521E03I-J11,Pink,35,SUMMER,https://secure-i5.ztat.net/detail/NA/52/1E/03/IJ/11/NA521E03I-J11@14.jpg,      LOBA  - Blouse - pink lotus  ,NAF NAF,FEMALE,womens-clothing-blouses
 18035,V1021E05R-I11,Lilac,29,SUMMER,https://secure-i3.ztat.net/detail/V1/02/1E/05/RI/11/V1021E05R-I11@14.jpg,VILERA - Blouse - sodalite blue,Vila,FEMALE,womens-clothing-blouses
-"18036,CO121E051-K11,Blue,34,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1E/05/1K/11/CO121E051-K11@16.jpg,Blouse - dark blue,""comma,"",FEMALE,womens-clothing-blouses"
+18036,CO121E051-K11,Blue,34,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1E/05/1K/11/CO121E051-K11@16.jpg,Blouse - dark blue,"comma,",FEMALE,womens-clothing-blouses
 18037,VE121E062-K12,Blue,22,SUMMER,https://secure-i2.ztat.net/detail/VE/12/1E/06/2K/12/VE121E062-K12@14.jpg,COUSIN - Blouse - baby blue,Vero Moda,FEMALE,womens-clothing-blouses
 18038,K4421E02A-A11,White,21,SUMMER,https://secure-i4.ztat.net/detail/K4/42/1E/02/AA/11/K4421E02A-A11@14.jpg,Blouse - off-white,KIOMI,FEMALE,womens-clothing-blouses
 18039,EV421D0DG-A11,White,17,SUMMER,https://secure-i4.ztat.net/detail/EV/42/1D/0D/GA/11/EV421D0DG-A11@14.jpg,Blouse - offwhite,Even&Odd,FEMALE,womens-clothing-blouses
@@ -919,11 +919,11 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18046,K2021E012-K11,Blue,55,SUMMER,https://secure-i1.ztat.net/detail/K2/02/1E/01/2K/11/K2021E012-K11@21.jpg,Blouse - stone,Kaporal,FEMALE,womens-clothing-blouses
 18047,RE121E001-802,Black,75,WINTER,https://secure-i3.ztat.net/detail/RE/12/1E/00/18/02/RE121E001-802@1.1.jpg,Shirt - schwarz,René Lezard,FEMALE,womens-clothing-blouses
 18048,EX121E01T-Q11,Black,65,SUMMER,https://secure-i3.ztat.net/detail/EX/12/1E/01/TQ/11/EX121E01T-Q11@12.jpg,BILLIE - Blouse - black,Expresso,FEMALE,womens-clothing-blouses
-"18049,R9521E013-A11,White,75,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/01/3A/11/R9521E013-A11@2.jpg,""Blouse - weiss, lila"",R95th,FEMALE,womens-clothing-blouses"
-"18050,R9521E00X-A11,White,90,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/XA/11/R9521E00X-A11@16.jpg,""Blouse - weiss, lila"",R95th,FEMALE,womens-clothing-blouses"
-"18051,R9521E012-M11,Green,75,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/01/2M/11/R9521E012-M11@14.jpg,""Blouse - grün,rot,blau"",R95th,FEMALE,womens-clothing-blouses"
-"18052,R9521E00W-K11,Blue,85,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/00/WK/11/R9521E00W-K11@16.jpg,""Blouse - blau, weiss"",R95th,FEMALE,womens-clothing-blouses"
-"18053,R9521E014-L11,Turquoise,100,SUMMER,https://secure-i6.ztat.net/detail/R9/52/1E/01/4L/11/R9521E014-L11@14.jpg,""Blouse - turquoise, white "",R95th,FEMALE,womens-clothing-blouses"
+18049,R9521E013-A11,White,75,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/01/3A/11/R9521E013-A11@2.jpg,"Blouse - weiss, lila",R95th,FEMALE,womens-clothing-blouses
+18050,R9521E00X-A11,White,90,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/XA/11/R9521E00X-A11@16.jpg,"Blouse - weiss, lila",R95th,FEMALE,womens-clothing-blouses
+18051,R9521E012-M11,Green,75,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/01/2M/11/R9521E012-M11@14.jpg,"Blouse - grün,rot,blau",R95th,FEMALE,womens-clothing-blouses
+18052,R9521E00W-K11,Blue,85,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/00/WK/11/R9521E00W-K11@16.jpg,"Blouse - blau, weiss",R95th,FEMALE,womens-clothing-blouses
+18053,R9521E014-L11,Turquoise,100,SUMMER,https://secure-i6.ztat.net/detail/R9/52/1E/01/4L/11/R9521E014-L11@14.jpg,"Blouse - turquoise, white ",R95th,FEMALE,womens-clothing-blouses
 18054,R9521E00V-A11,White,100,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/VA/11/R9521E00V-A11@14.jpg,Blouse - white,R95th,FEMALE,womens-clothing-blouses
 18055,HI121E03F-K11,Blue,65,SUMMER,https://secure-i1.ztat.net/detail/HI/12/1E/03/FK/11/HI121E03F-K11@2.1.jpg,JULES - Blouse - maine dark,Hilfiger Denim,FEMALE,womens-clothing-blouses
 18056,M5821E05P-G11,Red,34,SUMMER,https://secure-i1.ztat.net/detail/M5/82/1E/05/PG/11/M5821E05P-G11@14.jpg,BILLA - Blouse - red kiss,More & More,FEMALE,womens-clothing-blouses
@@ -1032,7 +1032,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18172,ON321E04B-A11,White,13,WINTER,https://secure-i3.ztat.net/detail/ON/32/1E/04/BA/11/ON321E04B-A11@14.jpg,Shirt - white,ONLY,FEMALE,womens-clothing-shirts
 18173,GA321E02W-A11,White,48,WINTER,https://secure-i6.ztat.net/detail/GA/32/1E/02/WA/11/GA321E02W-A11@7.jpg,Shirt - skipper blue,Gant,FEMALE,womens-clothing-shirts
 18174,7SI21E01U-K12,Blue,21,WINTER,https://secure-i6.ztat.net/detail/7S/I2/1E/01/UK/12/7SI21E01U-K12@15.jpg,Shirt - dunkelblau,Sisley,FEMALE,womens-clothing-shirts
-"18175,CO121E04L-I11,Lilac,24,WINTER,https://secure-i3.ztat.net/detail/CO/12/1E/04/LI/11/CO121E04L-I11@14.jpg,Shirt - lila,""comma,"",FEMALE,womens-clothing-shirts"
+18175,CO121E04L-I11,Lilac,24,WINTER,https://secure-i3.ztat.net/detail/CO/12/1E/04/LI/11/CO121E04L-I11@14.jpg,Shirt - lila,"comma,",FEMALE,womens-clothing-shirts
 18176,T5821E000-Q11,Grey,115,WINTER,https://secure-i6.ztat.net/detail/T5/82/1E/00/0Q/11/T5821E000-Q11@17.jpg,FUCHUR - Shirt - grey,Tim Labenda,FEMALE,womens-clothing-shirts
 18177,ME421E042-A11,White,26,WINTER,https://secure-i1.ztat.net/detail/ME/42/1E/04/2A/11/ME421E042-A11@14.jpg,Shirt - gardenia,Mexx,FEMALE,womens-clothing-shirts
 18178,ZA821C03I-K11,Blue,15,WINTER,https://secure-i4.ztat.net/detail/ZA/82/1C/03/IK/11/ZA821C03I-K11@14.jpg,Shirt - navy,Zalando Essentials,FEMALE,womens-clothing-shirts
@@ -1041,7 +1041,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18181,7SI21E01U-K11,Blue,30,SUMMER,https://secure-i1.ztat.net/detail/7S/I2/1E/01/UK/11/7SI21E01U-K11@13.jpg,Shirt - hellblau,Sisley,FEMALE,womens-clothing-shirts
 18182,7SI21E01U-Q11,Black,27,SUMMER,https://secure-i4.ztat.net/detail/7S/I2/1E/01/UQ/11/7SI21E01U-Q11@14.jpg,Shirt - schwarz,Sisley,FEMALE,womens-clothing-shirts
 18183,7SI21E01U-A11,White,30,SUMMER,https://secure-i2.ztat.net/detail/7S/I2/1E/01/UA/11/7SI21E01U-A11@14.jpg,Shirt - weiß,Sisley,FEMALE,womens-clothing-shirts
-"18184,CO121E04C-K11,Blue,42,WINTER,https://secure-i4.ztat.net/detail/CO/12/1E/04/CK/11/CO121E04C-K11@14.jpg,Shirt - blue,""comma,"",FEMALE,womens-clothing-shirts"
+18184,CO121E04C-K11,Blue,42,WINTER,https://secure-i4.ztat.net/detail/CO/12/1E/04/CK/11/CO121E04C-K11@14.jpg,Shirt - blue,"comma,",FEMALE,womens-clothing-shirts
 18185,MA321D05E-A11,White,65,WINTER,https://secure-i6.ztat.net/detail/MA/32/1D/05/EA/11/MA321D05E-A11@2.jpg,Shirt - white,Marc O'Polo,FEMALE,womens-clothing-shirts
 18186,3SE21E02S-K11,Blue,90,SUMMER,https://secure-i3.ztat.net/detail/3S/E2/1E/02/SK/11/3SE21E02S-K11@2.jpg,Shirt - bleu/weiss,Seidensticker,FEMALE,womens-clothing-shirts
 18187,P1421E01H-A11,White,175,SUMMER,https://secure-i1.ztat.net/detail/P1/42/1E/01/HA/11/P1421E01H-A11@2.jpg,Shirt - bianco,Patrizia Pepe,FEMALE,womens-clothing-shirts
@@ -1064,7 +1064,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18204,SE421E00X-K11,Blue,41,WINTER,https://secure-i3.ztat.net/detail/SE/42/1E/00/XK/11/SE421E00X-K11@7.jpg,Shirt - blue,Second Female,FEMALE,womens-clothing-shirts
 18205,S2921E060-C11,Grey,28,WINTER,https://secure-i1.ztat.net/detail/S2/92/1E/06/0C/11/S2921E060-C11@14.jpg,Shirt - grey,Sir Oliver,FEMALE,womens-clothing-shirts
 18206,ZA821C03I-A11,White,17,WINTER,https://secure-i5.ztat.net/detail/ZA/82/1C/03/IA/11/ZA821C03I-A11@14.1.jpg,Shirt - offwhite,Zalando Essentials,FEMALE,womens-clothing-shirts
-"18207,CO121E04A-A11,White,34,WINTER,https://secure-i1.ztat.net/detail/CO/12/1E/04/AA/11/CO121E04A-A11@13.jpg,Shirt - white,""comma,"",FEMALE,womens-clothing-shirts"
+18207,CO121E04A-A11,White,34,WINTER,https://secure-i1.ztat.net/detail/CO/12/1E/04/AA/11/CO121E04A-A11@13.jpg,Shirt - white,"comma,",FEMALE,womens-clothing-shirts
 18208,S2921E067-K11,Blue,27,WINTER,https://secure-i1.ztat.net/detail/S2/92/1E/06/7K/11/S2921E067-K11@13.jpg,Shirt - BLUE,Sir Oliver,FEMALE,womens-clothing-shirts
 18209,ME421E047-C11,Grey,29,WINTER,https://secure-i6.ztat.net/detail/ME/42/1E/04/7C/11/ME421E047-C11@14.jpg,Shirt - grey,Mexx,FEMALE,womens-clothing-shirts
 18210,ME421E047-A11,White,42,WINTER,https://secure-i2.ztat.net/detail/ME/42/1E/04/7A/11/ME421E047-A11@14.jpg,Shirt - white,Mexx,FEMALE,womens-clothing-shirts
@@ -1105,7 +1105,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18245,GA321E02U-A11,White,50,WINTER,https://secure-i5.ztat.net/detail/GA/32/1E/02/UA/11/GA321E02U-A11@2.jpg,Blouse - white,Gant,FEMALE,womens-clothing-shirts
 18246,LA221E00F-A11,White,65,WINTER,https://secure-i1.ztat.net/detail/LA/22/1E/00/FA/11/LA221E00F-A11@7.jpg,Shirt - blanc,Lacoste,FEMALE,womens-clothing-shirts
 18247,TR121E007-K12,Blue,135,WINTER,https://secure-i6.ztat.net/detail/TR/12/1E/00/7K/12/TR121E007-K12@15.jpg,DANIELLE - Shirt - blue,True Religion,FEMALE,womens-clothing-shirts
-"18248,CO121E04L-K11,Blue,24,WINTER,https://secure-i2.ztat.net/detail/CO/12/1E/04/LK/11/CO121E04L-K11@15.jpg,Shirt - blue,""comma,"",FEMALE,womens-clothing-shirts"
+18248,CO121E04L-K11,Blue,24,WINTER,https://secure-i2.ztat.net/detail/CO/12/1E/04/LK/11/CO121E04L-K11@15.jpg,Shirt - blue,"comma,",FEMALE,womens-clothing-shirts
 18249,M5921E016-Q11,Black,35,WINTER,https://secure-i5.ztat.net/detail/M5/92/1E/01/6Q/11/M5921E016-Q11@14.jpg,CLASIC - Shirt - noir,Morgan,FEMALE,womens-clothing-shirts
 18250,LA221E00F-J11,Pink,65,WINTER,https://secure-i2.ztat.net/detail/LA/22/1E/00/FJ/11/LA221E00F-J11@14.jpg,Shirt - pink,Lacoste,FEMALE,womens-clothing-shirts
 18251,GE221E00D-K11,Blue,80,WINTER,https://secure-i5.ztat.net/detail/GE/22/1E/00/DK/11/GE221E00D-K11@7.jpg,LATIFA - Shirt - blue,Gestuz,FEMALE,womens-clothing-shirts
@@ -1528,7 +1528,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18683,LA242B00J-802,Black,50,SUMMER,https://secure-i6.ztat.net/detail/L/A/LA242B00J-802@1.2.jpg,Sports shorts - noir,Lacoste,MALE,mens-clothing-shorts
 18684,BO122A02G-A11,White,70,SUMMER,https://secure-i4.ztat.net/detail/BO/12/2A/02/GA/11/BO122A02G-A11@1.jpg,SCHINO - Shorts - white,BOSS Orange,MALE,mens-clothing-shorts
 18685,S3722F00C-K11,Blue,80,SUMMER,https://secure-i6.ztat.net/detail/S3/72/2F/00/CK/11/S3722F00C-K11@3.jpg,FIGHTER - Shorts - navy,Schott NYC,MALE,mens-clothing-shorts
-"18686,DI622B004-606,Beige,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/46/06/DI622B004-606@1.1.jpg,""13\"""" MULTI POCKET WORK SHORT - Shorts - khaki"",Dickies,MALE,mens-clothing-shorts"
+18686,DI622B004-606,Beige,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/46/06/DI622B004-606@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - khaki",Dickies,MALE,mens-clothing-shorts
 18687,P5222F00S-K11,Blue,60,SUMMER,https://secure-i4.ztat.net/detail/P5/22/2F/00/SK/11/P5222F00S-K11@21.jpg,Shorts - dress blues,Original Penguin,MALE,mens-clothing-shorts
 18688,FR322F00P-C11,Grey,60,SUMMER,https://secure-i1.ztat.net/detail/FR/32/2F/00/PC/11/FR322F00P-C11@10.jpg,PAMCA - Shorts - sport grey melange,Franklin & Marshall,MALE,mens-clothing-shorts
 18689,FR322F00P-G11,Red,60,SUMMER,https://secure-i4.ztat.net/detail/FR/32/2F/00/PG/11/FR322F00P-G11@13.jpg,PAMCA - Shorts - red melange,Franklin & Marshall,MALE,mens-clothing-shorts
@@ -1538,7 +1538,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18693,YT142E004-C11,Grey,17,SUMMER,https://secure-i3.ztat.net/detail/YT/14/2E/00/4C/11/YT142E004-C11@10.jpg,Sports shorts - light grey melange,Your Turn Active,MALE,mens-clothing-shorts
 18694,GS122F062-N11,Olive,90,SUMMER,https://secure-i3.ztat.net/detail/GS/12/2F/06/2N/11/GS122F062-N11@6.jpg,ROVIC COMBAT - Shorts - khaki,G-Star,MALE,mens-clothing-shorts
 18695,GS122F062-C12,Grey,90,SUMMER,https://secure-i3.ztat.net/detail/GS/12/2F/06/2C/12/GS122F062-C12@2.jpg,ROVIC COMBAT - Shorts - raven,G-Star,MALE,mens-clothing-shorts
-"18696,DI622A00X-709,Beige,35,SUMMER,https://secure-i3.ztat.net/detail/DI/62/2A/00/X7/09/DI622A00X-709@1.1.jpg,""13\"""" SLIM FIT WORK SHORT - Shorts - sand"",Dickies,MALE,mens-clothing-shorts"
+18696,DI622A00X-709,Beige,35,SUMMER,https://secure-i3.ztat.net/detail/DI/62/2A/00/X7/09/DI622A00X-709@1.1.jpg,"13\"" SLIM FIT WORK SHORT - Shorts - sand",Dickies,MALE,mens-clothing-shorts
 18697,AL522F00E-B11,Beige,50,SUMMER,https://secure-i1.ztat.net/detail/AL/52/2F/00/EB/11/AL522F00E-B11@7.jpg,GROUND CREW - Shorts - beige,Alpha Industries,MALE,mens-clothing-shorts
 18698,LA242B00J-002,White,50,SUMMER,https://secure-i6.ztat.net/detail/LA/24/2B/00/J0/02/LA242B00J-002@1.jpg,Sports shorts - blanc,Lacoste,MALE,mens-clothing-shorts
 18699,WR122F02K-K11,Blue,50,SUMMER,https://secure-i2.ztat.net/detail/WR/12/2F/02/KK/11/WR122F02K-K11@14.jpg,Shorts - navy,Wrangler,MALE,mens-clothing-shorts
@@ -1567,8 +1567,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18722,GS122F065-K11,Blue,80,SUMMER,https://secure-i6.ztat.net/detail/GS/12/2F/06/5K/11/GS122F065-K11@14.jpg,BRONSON - Shorts - mazarine blue,G-Star,MALE,mens-clothing-shorts
 18723,G1622F00O-M11,Green,85,SUMMER,https://secure-i6.ztat.net/detail/G1/62/2F/00/OM/11/G1622F00O-M11@12.jpg,ALBERT - Shorts - dunkelgrün,GAS,MALE,mens-clothing-shorts
 18724,P6822F00K-G11,Red,42,SUMMER,https://secure-i1.ztat.net/detail/P6/82/2F/00/KG/11/P6822F00K-G11@6.1.jpg,Shorts - biking red,Petrol Industries,MALE,mens-clothing-shorts
-"18725,DI622B004-909,Black,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/49/09/DI622B004-909@1.1.jpg,""13\"""" MULTI POCKET WORK SHORT - Shorts - black"",Dickies,MALE,mens-clothing-shorts"
-"18726,DI622B004-503,Blue,35,SUMMER,https://secure-i5.ztat.net/detail/DI/62/2B/00/45/03/DI622B004-503@1.1.jpg,""13\"""" MULTI POCKET WORK SHORT - Shorts - navy blue"",Dickies,MALE,mens-clothing-shorts"
+18725,DI622B004-909,Black,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/49/09/DI622B004-909@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - black",Dickies,MALE,mens-clothing-shorts
+18726,DI622B004-503,Blue,35,SUMMER,https://secure-i5.ztat.net/detail/DI/62/2B/00/45/03/DI622B004-503@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - navy blue",Dickies,MALE,mens-clothing-shorts
 18727,PU142B0EM-802,Black,12,WINTER,https://secure-i3.ztat.net/detail/PU/14/2B/0E/M8/02/PU142B0EM-802@1.1.jpg,ESSENTIAL - Sports shorts - black,Puma,MALE,mens-clothing-shorts
 18728,P1422F00O-K11,Blue,140,SUMMER,https://secure-i4.ztat.net/detail/P1/42/2F/00/OK/11/P1422F00O-K11@14.jpg,Shorts - wave indigo,Patrizia Pepe,MALE,mens-clothing-shorts
 18729,BO122F03P-B11,Beige,100,SUMMER,https://secure-i6.ztat.net/detail/BO/12/2F/03/PB/11/BO122F03P-B11@14.jpg,SCHWINN - Shorts - beige,BOSS Orange,MALE,mens-clothing-shorts
@@ -1619,7 +1619,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18774,1MI22F00I-N11,Olive,85,SUMMER,https://secure-i4.ztat.net/detail/1M/I2/2F/00/IN/11/1MI22F00I-N11@6.jpg,Shorts - army,Michael Kors,MALE,mens-clothing-shorts
 18775,C1422A018-K12,Blue,46,WINTER,https://secure-i3.ztat.net/detail/C1/42/2A/01/8K/12/C1422A018-K12@3.jpg,PRESENTER BERMUDA DURANGO - Shorts - blue,Carhartt,MALE,mens-clothing-shorts
 18776,H2742E002-O11,Brown,65,WINTER,https://secure-i3.ztat.net/detail/H2/74/2E/00/2O/11/H2742E002-O11@5.jpg,RUGGED CREST - Shorts - brown,Haglöfs,MALE,mens-clothing-shorts
-"18777,DI622A00X-C11,Grey,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/00/XC/11/DI622A00X-C11@3.jpg,""13\"""" SLIM FIT WORK SHORT - Shorts - charcoal grey"",Dickies,MALE,mens-clothing-shorts"
+18777,DI622A00X-C11,Grey,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/00/XC/11/DI622A00X-C11@3.jpg,"13\"" SLIM FIT WORK SHORT - Shorts - charcoal grey",Dickies,MALE,mens-clothing-shorts
 18778,DI622A012-N11,Olive,45,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/01/2N/11/DI622A012-N11@7.jpg,NEW YORK - Shorts - dark olive,Dickies,MALE,mens-clothing-shorts
 18779,DI622A012-Q11,Black,45,SUMMER,https://secure-i3.ztat.net/detail/DI/62/2A/01/2Q/11/DI622A012-Q11@4.jpg,NEW YORK - Shorts - black,Dickies,MALE,mens-clothing-shorts
 18780,DI622A012-T11,Multi-coloured,45,WINTER,https://secure-i4.ztat.net/detail/DI/62/2A/01/2T/11/DI622A012-T11@2.1.jpg,NEW YORK - Shorts - multicoloured,Dickies,MALE,mens-clothing-shorts
@@ -1629,7 +1629,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18784,AL522B005-604,Olive,55,SUMMER,https://secure-i5.ztat.net/detail/AL/52/2B/00/56/04/AL522B005-604@1.jpg,JET - Shorts - oliv,Alpha Industries,MALE,mens-clothing-shorts
 18785,AL522B005-909,Black,55,SUMMER,https://secure-i1.ztat.net/detail/AL/52/2B/00/59/09/AL522B005-909@1.1.jpg,JET - Cargo trousers - schwarz,Alpha Industries,MALE,mens-clothing-shorts
 18786,AL522B005-704,Beige,55,SUMMER,https://secure-i6.ztat.net/detail/AL/52/2B/00/57/04/AL522B005-704@1.jpg,Shorts - beige,Alpha Industries,MALE,mens-clothing-shorts
-"18787,DI622A00X-Q11,Black,35,SUMMER,https://secure-i6.ztat.net/detail/DI/62/2A/00/XQ/11/DI622A00X-Q11@2.jpg,""13\"""" SLIM FIT WORK SHORT - Shorts - black"",Dickies,MALE,mens-clothing-shorts"
+18787,DI622A00X-Q11,Black,35,SUMMER,https://secure-i6.ztat.net/detail/DI/62/2A/00/XQ/11/DI622A00X-Q11@2.jpg,"13\"" SLIM FIT WORK SHORT - Shorts - black",Dickies,MALE,mens-clothing-shorts
 18788,JJ542E00C-M11,Green,13,WINTER,https://secure-i1.ztat.net/detail/JJ/54/2E/00/CM/11/JJ542E00C-M11@6.1.jpg,Shorts - forest night,Jack & Jones Tech,MALE,mens-clothing-shorts
 18789,PU142B0DO-C11,Grey,23,WINTER,https://secure-i3.ztat.net/detail/PU/14/2B/0D/OC/11/PU142B0DO-C11@2.jpg,Shorts - medium gray heather,Puma,MALE,mens-clothing-shorts
 18790,GS122E013-N11,Olive,45,WINTER,https://secure-i4.ztat.net/detail/GS/12/2E/01/3N/11/GS122E013-N11@2.1.jpg,ROVIC - Shorts - oliv,G-Star,MALE,mens-clothing-shorts
@@ -2377,7 +2377,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19622,NM321G01C-B11,Beige,42,SUMMER,https://secure-i1.ztat.net/detail/NM/32/1G/01/CB/11/NM321G01C-B11@14.jpg,NMLOULOU - Parka - oatmeal,Noisy May,FEMALE,womens-clothing-coats
 19623,ON321H03Q-J11,Pink,38,SUMMER,https://secure-i3.ztat.net/detail/ON/32/1H/03/QJ/11/ON321H03Q-J11@14.jpg,ONLBETTY - Short coat - silver pink,ONLY,FEMALE,womens-clothing-coats
 19624,MB121H00Y-B11,Beige,125,SUMMER,https://secure-i3.ztat.net/detail/MB/12/1H/00/YB/11/MB121H00Y-B11@14.jpg,PRUNE - Classic coat - bone white,mbyM,FEMALE,womens-clothing-coats
-"19625,CO121H014-K11,Blue,145,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1H/01/4K/11/CO121H014-K11@18.jpg,Short coat - dunkelblau,""comma,"",FEMALE,womens-clothing-coats"
+19625,CO121H014-K11,Blue,145,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1H/01/4K/11/CO121H014-K11@18.jpg,Short coat - dunkelblau,"comma,",FEMALE,womens-clothing-coats
 19626,RI021000J-C11,Grey,90,SUMMER,https://secure-i2.ztat.net/detail/RI/02/10/00/JC/11/RI021000J-C11@8.jpg,Waterproof jacket - grey,Rains,unisex,womens-clothing-coats
 19627,RI021000H-Q11,Black,90,SUMMER,https://secure-i1.ztat.net/detail/RI/02/10/00/HQ/11/RI021000H-Q11@7.jpg,Parka - black,Rains,unisex,womens-clothing-coats
 19628,MB121H00V-M11,Green,100,SUMMER,https://secure-i1.ztat.net/detail/MB/12/1H/00/VM/11/MB121H00V-M11@14.jpg,EDELINA - Short coat - mercury,mbyM,FEMALE,womens-clothing-coats
@@ -2401,12 +2401,12 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19647,ON321H03R-K11,Blue,55,SUMMER,https://secure-i3.ztat.net/detail/ON/32/1H/03/RK/11/ON321H03R-K11@16.jpg,ONLNEW KIM - Classic coat - mood indigo,ONLY,FEMALE,womens-clothing-coats
 19648,MI421H00N-C11,Grey,100,SUMMER,https://secure-i6.ztat.net/detail/MI/42/1H/00/NC/11/MI421H00N-C11@2.jpg,LEONIA - Short coat - grey,Minimum,FEMALE,womens-clothing-coats
 19649,TO221G021-K11,Blue,85,SUMMER,https://secure-i4.ztat.net/detail/TO/22/1G/02/1K/11/TO221G021-K11@14.jpg,EASY - Trenchcoat - real navy blue,Tom Tailor,FEMALE,womens-clothing-coats
-"19650,CO121H011-K11,Blue,160,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1H/01/1K/11/CO121H011-K11@14.jpg,Short coat - dunkel blau,""comma,"",FEMALE,womens-clothing-coats"
+19650,CO121H011-K11,Blue,160,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1H/01/1K/11/CO121H011-K11@14.jpg,Short coat - dunkel blau,"comma,",FEMALE,womens-clothing-coats
 19651,RI021H002-C11,Grey,85,SUMMER,https://secure-i1.ztat.net/detail/RI/02/1H/00/2C/11/RI021H002-C11@16.jpg,BELL - Parka - grey,Rains,FEMALE,womens-clothing-coats
 19652,TO221G021-B11,Beige,85,SUMMER,https://secure-i1.ztat.net/detail/TO/22/1G/02/1B/11/TO221G021-B11@14.jpg,EASY - Trenchcoat - desert light beige,Tom Tailor,FEMALE,womens-clothing-coats
 19653,SO221H016-B11,Beige,85,SUMMER,https://secure-i4.ztat.net/detail/SO/22/1H/01/6B/11/SO221H016-B11@14.1.jpg,Trenchcoat - canvas beige,s.Oliver,FEMALE,womens-clothing-coats
-"19654,CO121H015-B11,Beige,150,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1H/01/5B/11/CO121H015-B11@14.jpg,Short coat - sand,""comma,"",FEMALE,womens-clothing-coats"
-"19655,CO121H012-K11,Blue,150,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1H/01/2K/11/CO121H012-K11@14.jpg,Trenchcoat - dark blue,""comma,"",FEMALE,womens-clothing-coats"
+19654,CO121H015-B11,Beige,150,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1H/01/5B/11/CO121H015-B11@14.jpg,Short coat - sand,"comma,",FEMALE,womens-clothing-coats
+19655,CO121H012-K11,Blue,150,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1H/01/2K/11/CO121H012-K11@14.jpg,Trenchcoat - dark blue,"comma,",FEMALE,womens-clothing-coats
 19656,EV421H01B-N11,Olive,50,SUMMER,https://secure-i6.ztat.net/detail/EV/42/1H/01/BN/11/EV421H01B-N11@18.jpg,Parka - olive,Even&Odd,FEMALE,womens-clothing-coats
 19658,RI021G003-H11,Orange,85,SUMMER,https://secure-i1.ztat.net/detail/RI/02/1G/00/3H/11/RI021G003-H11@4.2.jpg,LONG - Summer jacket - orange,Rains,unisex,womens-clothing-coats
 19659,MO421H004-802,Black,145,WINTER,https://secure-i3.ztat.net/detail/MO/42/1H/00/48/02/MO421H004-802@1.1.jpg,GONE - Down jacket - black,Modström,FEMALE,womens-clothing-coats
@@ -2415,12 +2415,12 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19662,ON321H03P-C11,Grey,55,SUMMER,https://secure-i5.ztat.net/detail/ON/32/1H/03/PC/11/ON321H03P-C11@14.jpg,ONLMILLER - Short coat - oxford tan,ONLY,FEMALE,womens-clothing-coats
 19663,ON321H03P-Q11,Black,55,SUMMER,https://secure-i5.ztat.net/detail/ON/32/1H/03/PQ/11/ON321H03P-Q11@2.jpg,ONLMILLER - Short coat - black,ONLY,FEMALE,womens-clothing-coats
 19664,BO121H011-B11,Beige,330,SUMMER,https://secure-i2.ztat.net/detail/BO/12/1H/01/1B/11/BO121H011-B11@17.jpg,OLBINA - Parka - dark beige,BOSS Orange,FEMALE,womens-clothing-coats
-"19665,CO121H012-B11,Beige,150,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1H/01/2B/11/CO121H012-B11@7.jpg,Trenchcoat - sand,""comma,"",FEMALE,womens-clothing-coats"
+19665,CO121H012-B11,Beige,150,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1H/01/2B/11/CO121H012-B11@7.jpg,Trenchcoat - sand,"comma,",FEMALE,womens-clothing-coats
 19666,ON321H03K-C11,Grey,60,SUMMER,https://secure-i4.ztat.net/detail/ON/32/1H/03/KC/11/ON321H03K-C11@18.jpg,ONLTRAVIS - Parka - grisaille,ONLY,FEMALE,womens-clothing-coats
 19667,SO221H015-K11,Blue,75,SUMMER,https://secure-i6.ztat.net/detail/SO/22/1H/01/5K/11/SO221H015-K11@14.jpg,Trenchcoat - blue,s.Oliver,FEMALE,womens-clothing-coats
 19668,BO121H012-K11,Blue,270,SUMMER,https://secure-i5.ztat.net/detail/BO/12/1H/01/2K/11/BO121H012-K11@18.jpg,OTRENCHA - Trenchcoat - medium blue,BOSS Orange,FEMALE,womens-clothing-coats
-"19669,CO121H012-Q11,Black,150,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1H/01/2Q/11/CO121H012-Q11@12.2.jpg,Trenchcoat - black,""comma,"",FEMALE,womens-clothing-coats"
-"19670,CO121H015-Q11,Black,150,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1H/01/5Q/11/CO121H015-Q11@16.jpg,Short coat - black,""comma,"",FEMALE,womens-clothing-coats"
+19669,CO121H012-Q11,Black,150,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1H/01/2Q/11/CO121H012-Q11@12.2.jpg,Trenchcoat - black,"comma,",FEMALE,womens-clothing-coats
+19670,CO121H015-Q11,Black,150,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1H/01/5Q/11/CO121H015-Q11@16.jpg,Short coat - black,"comma,",FEMALE,womens-clothing-coats
 19671,ON321H03L-A11,White,50,SUMMER,https://secure-i1.ztat.net/detail/ON/32/1H/03/LA/11/ON321H03L-A11@16.jpg,ONLSIDNEY - Short coat - cloud dancer,ONLY,FEMALE,womens-clothing-coats
 19672,ON321H03L-Q11,Black,50,SUMMER,https://secure-i3.ztat.net/detail/ON/32/1H/03/LQ/11/ON321H03L-Q11@16.jpg,ONLSIDNEY - Short coat - black,ONLY,FEMALE,womens-clothing-coats
 19673,TO221G021-Q11,Black,85,SUMMER,https://secure-i4.ztat.net/detail/TO/22/1G/02/1Q/11/TO221G021-Q11@14.jpg,EASY - Trenchcoat - black,Tom Tailor,FEMALE,womens-clothing-coats
@@ -2428,7 +2428,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19675,PE121G02K-K11,Blue,150,SUMMER,https://secure-i6.ztat.net/detail/PE/12/1G/02/KK/11/PE121G02K-K11@18.jpg,SANDY - Parka - 561indigo,Pepe Jeans,FEMALE,womens-clothing-coats
 19676,VE121H05C-B11,Beige,42,SUMMER,https://secure-i5.ztat.net/detail/VE/12/1H/05/CB/11/VE121H05C-B11@1.1.jpg,JOY - Trenchcoat - stocking beige,Vero Moda,FEMALE,womens-clothing-coats
 19677,VE121H05C-Q11,Black,42,SUMMER,https://secure-i2.ztat.net/detail/VE/12/1H/05/CQ/11/VE121H05C-Q11@1.1.jpg,JOY - Trenchcoat - black,Vero Moda,FEMALE,womens-clothing-coats
-"19678,CO121H016-B11,Beige,160,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1H/01/6B/11/CO121H016-B11@14.jpg,Short coat - beige,""comma,"",FEMALE,womens-clothing-coats"
+19678,CO121H016-B11,Beige,160,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1H/01/6B/11/CO121H016-B11@14.jpg,Short coat - beige,"comma,",FEMALE,womens-clothing-coats
 19679,V1021H023-C11,Grey,50,SUMMER,https://secure-i6.ztat.net/detail/V1/02/1H/02/3C/11/V1021H023-C11@16.jpg,VICILLE - Short coat - light grey melange,Vila,FEMALE,womens-clothing-coats
 19681,KH121G05B-H11,Orange,120,SUMMER,https://secure-i4.ztat.net/detail/KH/12/1G/05/BH/11/KH121G05B-H11@16.jpg,CALL - Parka - apricot,khujo,FEMALE,womens-clothing-coats
 19682,NA521H01G-K11,Blue,85,SUMMER,https://secure-i6.ztat.net/detail/NA/52/1H/01/GK/11/NA521H01G-K11@14.jpg,BATINA - Trenchcoat - deep blue,NAF NAF,FEMALE,womens-clothing-coats
@@ -2481,7 +2481,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19729,KH121H02E-N11,Olive,150,SUMMER,https://secure-i6.ztat.net/detail/KH/12/1H/02/EN/11/KH121H02E-N11@6.jpg,MARIS - Parka - olive,khujo,FEMALE,womens-clothing-coats
 19730,NN121H00B-Q11,Black,210,SUMMER,https://secure-i3.ztat.net/detail/NN/12/1H/00/BQ/11/NN121H00B-Q11@12.jpg,Short coat - black,Noa Noa,FEMALE,womens-clothing-coats
 19731,MI421G013-C11,Grey,95,SUMMER,https://secure-i2.ztat.net/detail/MI/42/1G/01/3C/11/MI421G013-C11@2.jpg,INA - Parka - bone,Minimum,FEMALE,womens-clothing-coats
-"19732,CO121H010-Q11,Black,150,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1H/01/0Q/11/CO121H010-Q11@14.jpg,""Short coat - black, white"",""comma,"",FEMALE,womens-clothing-coats"
+19732,CO121H010-Q11,Black,150,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1H/01/0Q/11/CO121H010-Q11@14.jpg,"Short coat - black, white","comma,",FEMALE,womens-clothing-coats
 19733,1DR21H000-B11,Beige,135,SUMMER,https://secure-i2.ztat.net/detail/1D/R2/1H/00/0B/11/1DR21H000-B11@14.jpg,STOCKHOLM - Classic coat - light beige,Dry Lake,FEMALE,womens-clothing-coats
 19734,TO121H00U-802,Black,170,WINTER,https://secure-i3.ztat.net/detail/TO/12/1H/00/U8/02/TO121H00U-802@1.1.jpg,MELINDA - Down coat - masters black,Tommy Hilfiger,FEMALE,womens-clothing-coats
 19735,EL321H00F-M11,Green,145,SUMMER,https://secure-i1.ztat.net/detail/EL/32/1H/00/FM/11/EL321H00F-M11@16.jpg,BRENDA - Parka - deep green,Elvine,FEMALE,womens-clothing-coats
@@ -2549,7 +2549,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19802,CL921C024-503,Blue,45,ALL,https://secure-i5.ztat.net/detail/CL/92/1C/02/45/03/CL921C024-503@1.1.jpg,Cocktail dress / Party dress - navy/cream,Closet,FEMALE,womens-clothing-dresses
 19803,M6121C062-402,Pink,30,ALL,https://secure-i2.ztat.net/detail/M6/12/1C/06/24/02/M6121C062-402@1.2.jpg,Dress - rose,Molly Bracken,FEMALE,womens-clothing-dresses
 19804,CL921C02L-550,Blue,50,SUMMER,https://secure-i3.ztat.net/detail/CL/92/1C/02/L5/50/CL921C02L-550@1.1.jpg,Summer dress - blue,Closet,FEMALE,womens-clothing-dresses
-"19805,CO121C03O-K11,Blue,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OK/11/CO121C03O-K11@5.jpg,Summer dress - blau,""comma,"",FEMALE,womens-clothing-dresses"
+19805,CO121C03O-K11,Blue,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OK/11/CO121C03O-K11@5.jpg,Summer dress - blau,"comma,",FEMALE,womens-clothing-dresses
 19806,CL921C01O-Q00,Blue,50,ALL,https://secure-i2.ztat.net/detail/CL/92/1C/01/OQ/00/CL921C01O-Q00@8.jpg,Cocktail dress / Party dress - navy cream,Closet,FEMALE,womens-clothing-dresses
 19807,V1021C05O-Q00,Black,21,ALL,https://secure-i4.ztat.net/detail/V1/02/1C/05/OQ/00/V1021C05O-Q00@1.1.jpg,TINNY - Jersey dress - schwarz/weiß,Vila,FEMALE,womens-clothing-dresses
 19809,SU521C01Q-802,Black,55,ALL,https://secure-i3.ztat.net/detail/SU/52/1C/01/Q8/02/SU521C01Q-802@1.1.jpg,WINGDRESS - Jersey dress - black,Supertrash,FEMALE,womens-clothing-dresses
@@ -2557,7 +2557,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19811,ZA821C000-Q00,Black,10,ALL,https://secure-i2.ztat.net/detail/ZA/82/1C/00/0Q/00/ZA821C000-Q00@6.jpg,Jersey dress - black,Zalando Essentials,FEMALE,womens-clothing-dresses
 19813,AM021C003-L11,Turquoise,140,SUMMER,https://secure-i4.ztat.net/detail/AM/02/1C/00/3L/11/AM021C003-L11@6.jpg,MUFFIN - Summer dress - turquoise,April May,FEMALE,womens-clothing-dresses
 19814,ZA821C000-K00,Blue,10,ALL,https://secure-i5.ztat.net/detail/ZA/82/1C/00/0K/00/ZA821C000-K00@1.jpg,Jersey dress - dark blue,Zalando Essentials,FEMALE,womens-clothing-dresses
-"19815,CO121C05M-Q11,Black,60,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1C/05/MQ/11/CO121C05M-Q11@7.jpg,Jersey dress - schwarz,""comma,"",FEMALE,womens-clothing-dresses"
+19815,CO121C05M-Q11,Black,60,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1C/05/MQ/11/CO121C05M-Q11@7.jpg,Jersey dress - schwarz,"comma,",FEMALE,womens-clothing-dresses
 19816,M6121C087-J11,Orange,29,SUMMER,https://secure-i6.ztat.net/detail/M6/12/1C/08/7J/11/M6121C087-J11@6.jpg,Summer dress - orange,Molly Bracken,FEMALE,womens-clothing-dresses
 19817,V1021C05O-Q01,Black,22,ALL,https://secure-i3.ztat.net/detail/V1/02/1C/05/OQ/01/V1021C05O-Q01@1.1.jpg,TINNY - Jersey dress - schwarz,Vila,FEMALE,womens-clothing-dresses
 19818,SU521C012-802,Black,55,ALL,https://secure-i1.ztat.net/detail/SU/52/1C/01/28/02/SU521C012-802@9.jpg,THOUSANDWAYS - Jersey dress - black,Supertrash,FEMALE,womens-clothing-dresses
@@ -2569,7 +2569,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19825,V1021D05G-802,Black,15,ALL,https://secure-i6.ztat.net/detail/V1/02/1D/05/G8/02/V1021D05G-802@1.2.jpg,OFFICIEL - Jersey dress - black,Vila,FEMALE,womens-clothing-dresses
 19826,SG721C02E-K11,Blue,90,ALL,https://secure-i4.ztat.net/detail/SG/72/1C/02/EK/11/SG721C02E-K11@3.jpg,Cocktail dress / Party dress - marine,Swing,FEMALE,womens-clothing-dresses
 19827,ES421C06M-B00,Beige,60,ALL,https://secure-i1.ztat.net/detail/ES/42/1C/06/MB/00/ES421C06M-B00@7.1.jpg,Shift dress - cosmopolitan beige,ESPRIT Collection,FEMALE,womens-clothing-dresses
-"19828,CO121M00B-B11,Beige,125,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1M/00/BB/11/CO121M00B-B11@3.jpg,Shift dress - beige,""comma,"",FEMALE,womens-clothing-dresses"
+19828,CO121M00B-B11,Beige,125,SUMMER,https://secure-i2.ztat.net/detail/CO/12/1M/00/BB/11/CO121M00B-B11@3.jpg,Shift dress - beige,"comma,",FEMALE,womens-clothing-dresses
 19829,13M21C000-K11,Blue,40,SUMMER,https://secure-i1.ztat.net/detail/13/M2/1C/00/0K/11/13M21C000-K11@1.jpg,ALVA - Jersey dress - blue,Mazine,FEMALE,womens-clothing-dresses
 19830,M5921C07T-K11,Blue,45,SUMMER,https://secure-i4.ztat.net/detail/M5/92/1C/07/TK/11/M5921C07T-K11@5.jpg,RININI - Jersey dress - bleu encre,Morgan,FEMALE,womens-clothing-dresses
 19831,AN921C00E-802,Black,130,ALL,https://secure-i3.ztat.net/detail/AN/92/1C/00/E8/02/AN921C00E-802@1.1.jpg,EDITH - Jersey dress - schwarz,Andrea & Renato,FEMALE,womens-clothing-dresses
@@ -2607,7 +2607,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19866,BX329F00C-Q11,Black,65,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/CQ/11/BX329F00C-Q11@9.jpg,Jersey dress - black/brilliant,Boob Design,FEMALE,womens-clothing-dresses
 19867,BX329F00B-Q11,Black,70,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/BQ/11/BX329F00B-Q11@8.jpg,Jersey dress - black,Boob Design,FEMALE,womens-clothing-dresses
 19868,V1021C09C-K12,Blue,35,SUMMER,https://secure-i2.ztat.net/detail/V1/02/1C/09/CK/12/V1021C09C-K12@13.jpg,CORSAGE - Cocktail dress / Party dress - total eclipse,Vila,FEMALE,womens-clothing-dresses
-"19869,CO121C03O-B11,Beige,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OB/11/CO121C03O-B11@14.jpg,Summer dress - beige,""comma,"",FEMALE,womens-clothing-dresses"
+19869,CO121C03O-B11,Beige,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OB/11/CO121C03O-B11@14.jpg,Summer dress - beige,"comma,",FEMALE,womens-clothing-dresses
 19870,S2921C08M-Q11,Black,80,ALL,https://secure-i2.ztat.net/detail/S2/92/1C/08/MQ/11/S2921C08M-Q11@14.2.jpg,Jersey dress - black,s.Oliver,FEMALE,womens-clothing-dresses
 19872,S2921C08N-Q11,Black,80,ALL,https://secure-i1.ztat.net/detail/S2/92/1C/08/NQ/11/S2921C08N-Q11@14.1.jpg,Jersey dress - black,Sir Oliver,FEMALE,womens-clothing-dresses
 19873,M5821I01G-K11,Blue,60,ALL,https://secure-i6.ztat.net/detail/M5/82/1I/01/GK/11/M5821I01G-K11@14.jpg,Jumper dress - marine,More & More,FEMALE,womens-clothing-dresses
@@ -2618,11 +2618,11 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19878,AN921C00E-G11,Red,125,ALL,https://secure-i5.ztat.net/detail/AN/92/1C/00/EG/11/AN921C00E-G11@14.1.jpg,EDITH - Jersey dress - red,Andrea & Renato,FEMALE,womens-clothing-dresses
 19879,M5821C049-O11,Brown,85,ALL,https://secure-i4.ztat.net/detail/M5/82/1C/04/9O/11/M5821C049-O11@14.jpg,Shift dress - original,More & More,FEMALE,womens-clothing-dresses
 19880,M5821C048-K11,Black,85,ALL,https://secure-i3.ztat.net/detail/M5/82/1C/04/8K/11/M5821C048-K11@14.jpg,Dress - marine,More & More,FEMALE,womens-clothing-dresses
-"19881,CO121C06C-Q11,Black,100,ALL,https://secure-i1.ztat.net/detail/CO/12/1C/06/CQ/11/CO121C06C-Q11@14.1.jpg,Summer dress - schwarz,""comma,"",FEMALE,womens-clothing-dresses"
-"19882,CO121C06D-Q11,Black,100,ALL,https://secure-i5.ztat.net/detail/CO/12/1C/06/DQ/11/CO121C06D-Q11@16.1.jpg,Jersey dress - black,""comma,"",FEMALE,womens-clothing-dresses"
+19881,CO121C06C-Q11,Black,100,ALL,https://secure-i1.ztat.net/detail/CO/12/1C/06/CQ/11/CO121C06C-Q11@14.1.jpg,Summer dress - schwarz,"comma,",FEMALE,womens-clothing-dresses
+19882,CO121C06D-Q11,Black,100,ALL,https://secure-i5.ztat.net/detail/CO/12/1C/06/DQ/11/CO121C06D-Q11@16.1.jpg,Jersey dress - black,"comma,",FEMALE,womens-clothing-dresses
 19883,S2921C08G-K11,Blue,110,ALL,https://secure-i6.ztat.net/detail/S2/92/1C/08/GK/11/S2921C08G-K11@14.jpg,Shift dress - blue,Sir Oliver,FEMALE,womens-clothing-dresses
 19884,ES421C082-K11,Blue,75,ALL,https://secure-i3.ztat.net/detail/ES/42/1C/08/2K/11/ES421C082-K11@14.jpg,PURE BUSINESS - Shift dress - dark navy,ESPRIT Collection,FEMALE,womens-clothing-dresses
-"19885,CO121C06E-Q11,Black,100,ALL,https://secure-i1.ztat.net/detail/CO/12/1C/06/EQ/11/CO121C06E-Q11@14.1.jpg,Summer dress - mottled black/white,""comma,"",FEMALE,womens-clothing-dresses"
+19885,CO121C06E-Q11,Black,100,ALL,https://secure-i1.ztat.net/detail/CO/12/1C/06/EQ/11/CO121C06E-Q11@14.1.jpg,Summer dress - mottled black/white,"comma,",FEMALE,womens-clothing-dresses
 19886,TW421D024-C11,Grey,29,SUMMER,https://secure-i6.ztat.net/detail/TW/42/1D/02/4C/11/TW421D024-C11@2.jpg,Jersey dress - grey melange/rose,TWINTIP,FEMALE,womens-clothing-dresses
 19887,SG721C02E-Q11,Black,90,ALL,https://secure-i6.ztat.net/detail/SG/72/1C/02/EQ/11/SG721C02E-Q11@12.jpg,Cocktail dress / Party dress - schwarz,Swing,FEMALE,womens-clothing-dresses
 19888,TW421D024-Q11,Black,29,SUMMER,https://secure-i4.ztat.net/detail/TW/42/1D/02/4Q/11/TW421D024-Q11@2.jpg,Jersey dress - black/grey melange,TWINTIP,FEMALE,womens-clothing-dresses
@@ -2683,7 +2683,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19944,M5821I01G-112,Grey,65,WINTER,https://secure-i3.ztat.net/detail/M5/82/1I/01/G1/12/M5821I01G-112@1.1.jpg,Jumper dress - dunkelgrau,More & More,FEMALE,womens-clothing-dresses
 19945,LA021C001-Q00,Black,110,SUMMER,https://secure-i4.ztat.net/detail/LA/02/1C/00/1Q/00/LA021C001-Q00@1.1.jpg,Cocktail dress / Party dress - jet black,Laona,FEMALE,womens-clothing-dresses
 19946,KA821C019-503,Blue,75,SUMMER,https://secure-i2.ztat.net/detail/KA/82/1C/01/95/03/KA821C019-503@1.jpg,LILLY - Jersey dress - dark blue,Kala,FEMALE,womens-clothing-dresses
-"19947,CO121C06F-Q11,Black,125,ALL,https://secure-i2.ztat.net/detail/CO/12/1C/06/FQ/11/CO121C06F-Q11@14.2.jpg,Shift dress - black,""comma,"",FEMALE,womens-clothing-dresses"
+19947,CO121C06F-Q11,Black,125,ALL,https://secure-i2.ztat.net/detail/CO/12/1C/06/FQ/11/CO121C06F-Q11@14.2.jpg,Shift dress - black,"comma,",FEMALE,womens-clothing-dresses
 19948,ES121C02O-K11,Blue,33,WINTER,https://secure-i3.ztat.net/detail/ES/12/1C/02/OK/11/ES121C02O-K11@4.jpg,Jersey dress - blue,Esprit,FEMALE,womens-clothing-dresses
 19949,AN621C0CI-Q00,Black,15,WINTER,https://secure-i4.ztat.net/detail/AN/62/1C/0C/IQ/00/AN621C0CI-Q00@1.1.jpg,Jumper dress - black/white,Anna Field,FEMALE,womens-clothing-dresses
 19950,AN621C0AO-G00,Red,29,WINTER,https://secure-i2.ztat.net/detail/AN/62/1C/0A/OG/00/AN621C0AO-G00@1.1.jpg,Jumper dress - red,Anna Field,FEMALE,womens-clothing-dresses
@@ -2708,7 +2708,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 19971,AN621C05X-J11,Pink,42,SUMMER,https://secure-i6.ztat.net/detail/AN/62/1C/05/XJ/11/AN621C05X-J11@18.jpg,Cocktail dress / Party dress - rose/black,Anna Field,FEMALE,womens-clothing-dresses
 19973,AN621C0PQ-K11,Blue,38,SUMMER,https://secure-i6.ztat.net/detail/AN/62/1C/0P/QK/11/AN621C0PQ-K11@18.jpg,Summer dress - navy,Anna Field,FEMALE,womens-clothing-dresses
 19975,LA221C010-Q11,Black,120,SUMMER,https://secure-i1.ztat.net/detail/LA/22/1C/01/0Q/11/LA221C010-Q11@16.jpg,Summer dress - noir,Lacoste,FEMALE,womens-clothing-dresses
-"19979,CO121C072-B11,Beige,100,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1C/07/2B/11/CO121C072-B11@14.jpg,Dress - taupe,""comma,"",FEMALE,womens-clothing-dresses"
+19979,CO121C072-B11,Beige,100,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1C/07/2B/11/CO121C072-B11@14.jpg,Dress - taupe,"comma,",FEMALE,womens-clothing-dresses
 19980,TO221C02T-G11,Red,65,SUMMER,https://secure-i5.ztat.net/detail/TO/22/1C/02/TG/11/TO221C02T-G11@16.jpg,Summer dress - smooth papaya,Tom Tailor,FEMALE,womens-clothing-dresses
 19982,NA521C0A7-A11,White,50,SUMMER,https://secure-i4.ztat.net/detail/NA/52/1C/0A/7A/11/NA521C0A7-A11@16.jpg,KIMON                  - Dress - off white,NAF NAF,FEMALE,womens-clothing-dresses
 19983,UI021C00Q-A11,White,300,SUMMER,https://secure-i2.ztat.net/detail/UI/02/1C/00/QA/11/UI021C00Q-A11@7.jpg,Occasion wear - light beige,Unique,FEMALE,womens-clothing-dresses
@@ -2776,14 +2776,14 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20049,M5041F001-Q11,Black,65,SUMMER,https://secure-i6.ztat.net/detail/M5/04/1F/00/1Q/11/M5041F001-Q11@3.jpg,FITZ ROY - Hardshell jacket - black,Millet,FEMALE,womens-clothing-jackets
 20050,DU341B00I-M11,Green,70,SUMMER,https://secure-i3.ztat.net/detail/DU/34/1B/00/IM/11/DU341B00I-M11@4.jpg,SOPHIA - Outdoor jacket - green,Duca Del Cosma,FEMALE,womens-clothing-jackets
 20051,VA441B02D-M11,Green,80,ALL,https://secure-i2.ztat.net/detail/VA/44/1B/02/DM/11/VA441B02D-M11@8.jpg,ESCAPE PRO - Hardshell jacket - green,Vaude,FEMALE,womens-clothing-jackets
-"20052,CO121M004-Q11,Black,100,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1M/00/4Q/11/CO121M004-Q11@2.jpg,Blazer - black,""comma,"",FEMALE,womens-clothing-jackets"
-"20053,CO121M005-K11,Blue,120,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1M/00/5K/11/CO121M005-K11@4.1.jpg,BLAZER - Blazer - navy,""comma,"",FEMALE,womens-clothing-jackets"
+"20052,CO121M004-Q11,Black,100,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1M/00/4Q/11/CO121M004-Q11@2.jpg,Blazer - black,"comma,",FEMALE,womens-clothing-jackets
+"20053,CO121M005-K11,Blue,120,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1M/00/5K/11/CO121M005-K11@4.1.jpg,BLAZER - Blazer - navy,"comma,",FEMALE,womens-clothing-jackets
 20054,MM421A007-802,Black,100,ALL,https://secure-i3.ztat.net/detail/MM/42/1A/00/78/02/MM421A007-802@1.1.jpg,NOOS - Blazer - black,Mexx Metropolitan,FEMALE,womens-clothing-jackets
 20055,C2341B03J-802,Black,120,ALL,https://secure-i3.ztat.net/detail/C2/34/1B/03/J8/02/C2341B03J-802@1.1.jpg,Outdoor jacket - black,Columbia,FEMALE,womens-clothing-jackets
 20056,TW441B01N-Q11,Black,42,SUMMER,https://secure-i2.ztat.net/detail/TW/44/1B/01/NQ/11/TW441B01N-Q11@1.jpg,Light jacket - black,TWINTIP,FEMALE,womens-clothing-jackets
 20057,TW441B01N-K11,Blue,42,SUMMER,https://secure-i5.ztat.net/detail/TW/44/1B/01/NK/11/TW441B01N-K11@4.jpg,Summer jacket - dark blue,TWINTIP,FEMALE,womens-clothing-jackets
 20058,M5821K00U-K11,Blue,100,ALL,https://secure-i6.ztat.net/detail/M5/82/1K/00/UK/11/M5821K00U-K11@16.jpg,SALLY - Blazer - marine,More & More,FEMALE,womens-clothing-jackets
-"20059,CO121I035-K11,Blue,34,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/03/5K/11/CO121I035-K11@15.jpg,Cape - dark blue,""comma,"",FEMALE,womens-clothing-jackets"
+"20059,CO121I035-K11,Blue,34,ALL,https://secure-i3.ztat.net/detail/CO/12/1I/03/5K/11/CO121I035-K11@15.jpg,Cape - dark blue,"comma,",FEMALE,womens-clothing-jackets
 20060,ON321G07U-B11,Brown,50,SUMMER,https://secure-i2.ztat.net/detail/ON/32/1G/07/UB/11/ON321G07U-B11@7.jpg,ALYNA - Faux leather jacket - cognac,ONLY,FEMALE,womens-clothing-jackets
 20061,SO221K05P-Q11,Black,60,ALL,https://secure-i2.ztat.net/detail/SO/22/1K/05/PQ/11/SO221K05P-Q11@13.jpg,Blazer - black,s.Oliver,FEMALE,womens-clothing-jackets
 20062,P1421G01K-802,Black,295,WINTER,https://secure-i6.ztat.net/detail/P1/42/1G/01/K8/02/P1421G01K-802@1.2.jpg,Blazer - nero,Patrizia Pepe,FEMALE,womens-clothing-jackets
@@ -2810,10 +2810,10 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20084,M5821E04U-O11,Grey,105,ALL,https://secure-i6.ztat.net/detail/M5/82/1E/04/UO/11/M5821E04U-O11@14.jpg,SINA - Blazer - grey,More & More,FEMALE,womens-clothing-jackets
 20085,M5821K00N-Q11,Black,100,ALL,https://secure-i5.ztat.net/detail/M5/82/1K/00/NQ/11/M5821K00N-Q11@14.jpg,Blazer - black,More & More,FEMALE,womens-clothing-jackets
 20086,ES421K00C-K11,Blue,100,ALL,https://secure-i4.ztat.net/detail/ES/42/1K/00/CK/11/ES421K00C-K11@14.jpg,Blazer - dark navy,ESPRIT Collection,FEMALE,womens-clothing-jackets
-"20087,CO121K003-Q11,Black,100,ALL,https://secure-i2.ztat.net/detail/CO/12/1K/00/3Q/11/CO121K003-Q11@14.jpg,Blazer - schwarz,""comma,"",FEMALE,womens-clothing-jackets"
+"20087,CO121K003-Q11,Black,100,ALL,https://secure-i2.ztat.net/detail/CO/12/1K/00/3Q/11/CO121K003-Q11@14.jpg,Blazer - schwarz,"comma,",FEMALE,womens-clothing-jackets
 20088,S2921K00A-K11,Blue,120,ALL,https://secure-i6.ztat.net/detail/S2/92/1K/00/AK/11/S2921K00A-K11@14.jpg,Blazer - blue,s.Oliver,FEMALE,womens-clothing-jackets
 20089,ES421K00B-K11,Blue,100,ALL,https://secure-i4.ztat.net/detail/ES/42/1K/00/BK/11/ES421K00B-K11@2.jpg,Blazer - dark navy,ESPRIT Collection,FEMALE,womens-clothing-jackets
-"20090,CO121K002-Q11,Black,120,ALL,https://secure-i3.ztat.net/detail/CO/12/1K/00/2Q/11/CO121K002-Q11@14.jpg,Blazer - black,""comma,"",FEMALE,womens-clothing-jackets"
+"20090,CO121K002-Q11,Black,120,ALL,https://secure-i3.ztat.net/detail/CO/12/1K/00/2Q/11/CO121K002-Q11@14.jpg,Blazer - black,"comma,",FEMALE,womens-clothing-jackets
 20091,ON321G06D-C11,Grey,32,SUMMER,https://secure-i3.ztat.net/detail/ON/32/1G/06/DC/11/ON321G06D-C11@21.jpg,BANDIT - Faux leather jacket - phantom,ONLY,FEMALE,womens-clothing-jackets
 20092,ON321G07E-C12,Grey,32,SUMMER,https://secure-i1.ztat.net/detail/ON/32/1G/07/EC/12/ON321G07E-C12@2.jpg,NEW LION - Faux leather jacket - phantom,ONLY,FEMALE,womens-clothing-jackets
 20093,ON321G08B-K11,Blue,24,SUMMER,https://secure-i2.ztat.net/detail/ON/32/1G/08/BK/11/ON321G08B-K11@2.jpg,WESTA - Denim jacket - dark blue denim,ONLY,FEMALE,womens-clothing-jackets
@@ -2822,8 +2822,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20097,ON321G07U-Q11,Black,50,SUMMER,https://secure-i5.ztat.net/detail/ON/32/1G/07/UQ/11/ON321G07U-Q11@7.jpg,ALYNA - Faux leather jacket - black,ONLY,FEMALE,womens-clothing-jackets
 20099,AD121J06X-802,Black,50,SUMMER,https://secure-i6.ztat.net/detail/AD/12/1J/06/X8/02/AD121J06X-802@1.2.jpg,FIREBIRD - Tracksuit top - schwarz,adidas Originals,FEMALE,womens-clothing-jackets
 20100,ES421K00G-K11,Blue,100,ALL,https://secure-i5.ztat.net/detail/ES/42/1K/00/GK/11/ES421K00G-K11@2.jpg,SLIM FIT - Blazer - dark navy,ESPRIT Collection,FEMALE,womens-clothing-jackets
-"20102,CO121K007-K11,Blue,75,ALL,https://secure-i4.ztat.net/detail/CO/12/1K/00/7K/11/CO121K007-K11@14.jpg,Blazer - dunkelblau,""comma,"",FEMALE,womens-clothing-jackets"
-"20103,CO121K006-K11,Blue,110,ALL,https://secure-i1.ztat.net/detail/CO/12/1K/00/6K/11/CO121K006-K11@10.jpg,Blazer - dark blue,""comma,"",FEMALE,womens-clothing-jackets"
+"20102,CO121K007-K11,Blue,75,ALL,https://secure-i4.ztat.net/detail/CO/12/1K/00/7K/11/CO121K007-K11@14.jpg,Blazer - dunkelblau,"comma,",FEMALE,womens-clothing-jackets
+"20103,CO121K006-K11,Blue,110,ALL,https://secure-i1.ztat.net/detail/CO/12/1K/00/6K/11/CO121K006-K11@10.jpg,Blazer - dark blue,"comma,",FEMALE,womens-clothing-jackets
 20104,TW441B06V-503,Blue,17,SUMMER,https://secure-i4.ztat.net/detail/TW/44/1B/06/V5/03/TW441B06V-503@12.jpg,Fleece - blue,TWINTIP,FEMALE,womens-clothing-jackets
 20105,UR621G005-Q11,Black,25,WINTER,https://secure-i2.ztat.net/detail/UR/62/1G/00/5Q/11/UR621G005-Q11@7.jpg,OLDSCHOOL - Summer jacket - black/white,Urban Classics,FEMALE,womens-clothing-jackets
 20107,M5921G01P-K11,Blue,85,SUMMER,https://secure-i2.ztat.net/detail/M5/92/1G/01/PK/11/M5921G01P-K11@7.1.jpg,Faux leather jacket - bleu jean,Morgan,FEMALE,womens-clothing-jackets
@@ -3091,7 +3091,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20397,7F121N02J-Q11,Black,150,ALL,https://secure-i3.ztat.net/detail/7F/12/1N/02/JQ/11/7F121N02J-Q11@14.jpg,Bootcut jeans - portland black,7 for all mankind,FEMALE,womens-clothing-jeans
 20398,7F121N02G-K11,Blue,150,ALL,https://secure-i6.ztat.net/detail/7F/12/1N/02/GK/11/7F121N02G-K11@14.jpg,ROXANNE - Slim fit jeans - long beach dark,7 for all mankind,FEMALE,womens-clothing-jeans
 20399,ED121N012-K11,Blue,39,ALL,https://secure-i3.ztat.net/detail/ED/12/1N/01/2K/11/ED121N012-K11@14.jpg,Slim fit jeans - dark stone,edc by Esprit,FEMALE,womens-clothing-jeans
-"20400,CO121M009-Q11,Black,65,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1M/00/9Q/11/CO121M009-Q11@5.jpg,Pencil skirt - black,""comma,"",FEMALE,womens-clothing-skirts"
+"20400,CO121M009-Q11,Black,65,SUMMER,https://secure-i6.ztat.net/detail/CO/12/1M/00/9Q/11/CO121M009-Q11@5.jpg,Pencil skirt - black,"comma,",FEMALE,womens-clothing-skirts
 20401,ES421M005-B00,Beige,47,ALL,https://secure-i3.ztat.net/detail/ES/42/1M/00/5B/00/ES421M005-B00@5.jpg,Pleated skirt - cosmopolitan beige,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20402,MM421B008-503,Blue,40,ALL,https://secure-i5.ztat.net/detail/MM/42/1B/00/85/03/MM421B008-503@2.jpg,Pencil skirt - navy,Mexx Metropolitan,FEMALE,womens-clothing-skirts
 20403,MA621B01P-953,Blue,44,ALL,https://secure-i2.ztat.net/detail/MA/62/1B/01/P9/53/MA621B01P-953@1.1.jpg,ALICE - Denim skirt - deep miami,Mavi,FEMALE,womens-clothing-skirts
@@ -3105,7 +3105,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20416,AN621B00Z-113,Grey,29,ALL,https://secure-i2.ztat.net/detail/AN/62/1B/00/Z1/13/AN621B00Z-113@1.1.jpg,Pencil skirt - grey,Anna Field,FEMALE,womens-clothing-skirts
 20417,RT421B007-K11,Blue,50,SUMMER,https://secure-i6.ztat.net/detail/RT/42/1B/00/7K/11/RT421B007-K11@7.jpg,GARDA - Pencil skirt - blue,Sportalm,FEMALE,womens-clothing-skirts
 20418,ZA821B00B-Q14,Black,17,ALL,https://secure-i6.ztat.net/detail/ZA/82/1B/00/BQ/14/ZA821B00B-Q14@12.jpg,2 PACK - Pencil skirt - black/white,Zalando Essentials,FEMALE,womens-clothing-skirts
-"20419,CO121M00A-K11,Blue,65,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1M/00/AK/11/CO121M00A-K11@6.jpg,A-line skirt - blue,""comma,"",FEMALE,womens-clothing-skirts"
+"20419,CO121M00A-K11,Blue,65,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1M/00/AK/11/CO121M00A-K11@6.jpg,A-line skirt - blue,"comma,",FEMALE,womens-clothing-skirts
 20420,ES421B02C-K11,Blue,55,ALL,https://secure-i1.ztat.net/detail/ES/42/1B/02/CK/11/ES421B02C-K11@13.jpg,Pleated skirt - dark navy,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20421,ES421B02C-B11,Beige,55,ALL,https://secure-i5.ztat.net/detail/ES/42/1B/02/CB/11/ES421B02C-B11@12.jpg,Pleated skirt - cosmopolitan beige,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20422,ES421B02B-B11,Beige,55,ALL,https://secure-i2.ztat.net/detail/ES/42/1B/02/BB/11/ES421B02B-B11@14.jpg,Pencil skirt - cosmopolitan beige,ESPRIT Collection,FEMALE,womens-clothing-skirts
@@ -3122,7 +3122,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20434,ZA821B00E-Q11,Black,13,ALL,https://secure-i2.ztat.net/detail/ZA/82/1B/00/EQ/11/ZA821B00E-Q11@14.jpg,Mini skirt - black/ black,Zalando Essentials,FEMALE,womens-clothing-skirts
 20435,ES421B022-Q11,Black,55,ALL,https://secure-i1.ztat.net/detail/ES/42/1B/02/2Q/11/ES421B022-Q11@14.1.jpg,Pencil skirt - black,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20436,M5821B02L-O11,Brown,42,ALL,https://secure-i3.ztat.net/detail/M5/82/1B/02/LO/11/M5821B02L-O11@14.jpg,Pencil skirt - original,More & More,FEMALE,womens-clothing-skirts
-"20437,CO121B01Q-Q11,Black,75,ALL,https://secure-i2.ztat.net/detail/CO/12/1B/01/QQ/11/CO121B01Q-Q11@14.jpg,Pencil skirt - anthrazit,""comma,"",FEMALE,womens-clothing-skirts"
+"20437,CO121B01Q-Q11,Black,75,ALL,https://secure-i2.ztat.net/detail/CO/12/1B/01/QQ/11/CO121B01Q-Q11@14.jpg,Pencil skirt - anthrazit,"comma,",FEMALE,womens-clothing-skirts
 20438,ES421B022-K11,Blue,55,ALL,https://secure-i1.ztat.net/detail/ES/42/1B/02/2K/11/ES421B022-K11@14.1.jpg,Pencil skirt - dark navy,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20439,S2921B02U-K11,Blue,65,ALL,https://secure-i1.ztat.net/detail/S2/92/1B/02/UK/11/S2921B02U-K11@13.jpg,Pencil skirt - blue,Sir Oliver,FEMALE,womens-clothing-skirts
 20440,ZA821B00C-Q12,Black,15,ALL,https://secure-i4.ztat.net/detail/ZA/82/1B/00/CQ/12/ZA821B00C-Q12@17.jpg,2 PACK - Mini skirt - black/dark grey,Zalando Essentials,FEMALE,womens-clothing-skirts
@@ -3243,7 +3243,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20558,MA321B03B-B11,Beige,115,SUMMER,https://secure-i2.ztat.net/detail/MA/32/1B/03/BB/11/MA321B03B-B11@14.jpg,Wrap skirt - classical camel,Marc O'Polo,FEMALE,womens-clothing-skirts
 20559,M5921B023-G11,Red,25,SUMMER,https://secure-i5.ztat.net/detail/M5/92/1B/02/3G/11/M5921B023-G11@13.jpg,JACINO - Denim skirt - rouge,Morgan,FEMALE,womens-clothing-skirts
 20560,TI521B00O-Q11,Black,85,SUMMER,https://secure-i6.ztat.net/detail/TI/52/1B/00/OQ/11/TI521B00O-Q11@16.jpg,AGNA - Mini skirt - black,Tiger of Sweden,FEMALE,womens-clothing-skirts
-"20561,CO121B01Z-K11,Blue,75,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1B/01/ZK/11/CO121B01Z-K11@16.jpg,Pencil skirt - dark blue,""comma,"",FEMALE,womens-clothing-skirts"
+"20561,CO121B01Z-K11,Blue,75,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1B/01/ZK/11/CO121B01Z-K11@16.jpg,Pencil skirt - dark blue,"comma,",FEMALE,womens-clothing-skirts
 20562,AN621B03K-Q11,Black,21,SUMMER,https://secure-i6.ztat.net/detail/AN/62/1B/03/KQ/11/AN621B03K-Q11@12.jpg,Pencil skirt - black,Anna Field,FEMALE,womens-clothing-skirts
 20563,TI821B00F-Q11,Black,450,SUMMER,https://secure-i1.ztat.net/detail/TI/82/1B/00/FQ/11/TI821B00F-Q11@14.jpg,A-line skirt - black,Tibi,FEMALE,womens-clothing-skirts
 20564,KA321B00J-Q11,Black,17,WINTER,https://secure-i3.ztat.net/detail/KA/32/1B/00/JQ/11/KA321B00J-Q11@6.1.jpg,MARIA - Pencil skirt - black,Kaffe,FEMALE,womens-clothing-skirts
@@ -3494,12 +3494,12 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20810,ON321D085-909,Black,20,ALL,https://secure-i1.ztat.net/detail/ON/32/1D/08/59/09/ON321D085-909@1.1.jpg,LIVE LOVE 3 PACK - Top - black,ONLY,FEMALE,womens-clothing-tops
 20811,ES121D080-K11,Blue,15,SUMMER,https://secure-i5.ztat.net/detail/ES/12/1D/08/0K/11/ES121D080-K11@4.1.jpg,CARMEN - Basic T-shirt - cinder blue,Esprit,FEMALE,womens-clothing-tops
 20812,S5621D00T-A11,White,21,SUMMER,https://secure-i5.ztat.net/detail/S5/62/1D/00/TA/11/S5621D00T-A11@5.jpg,Print T-shirt - white,School Rag,FEMALE,womens-clothing-tops
-"20813,CO121D02S-Q11,Black,28,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1D/02/SQ/11/CO121D02S-Q11@5.jpg,Basic T-shirt - black,""comma,"",FEMALE,womens-clothing-tops"
+"20813,CO121D02S-Q11,Black,28,SUMMER,https://secure-i4.ztat.net/detail/CO/12/1D/02/SQ/11/CO121D02S-Q11@5.jpg,Basic T-shirt - black,"comma,",FEMALE,womens-clothing-tops
 20816,MM421D00I-Q11,Black,17,ALL,https://secure-i6.ztat.net/detail/MM/42/1D/00/IQ/11/MM421D00I-Q11@3.jpg,Top - black,Mexx Metropolitan,FEMALE,womens-clothing-tops
 20817,MM421D00O-Q11,Black,22,ALL,https://secure-i4.ztat.net/detail/MM/42/1D/00/OQ/11/MM421D00O-Q11@5.jpg,Basic T-shirt - black,Mexx Metropolitan,FEMALE,womens-clothing-tops
 20818,AN621D06G-Q11,Black,17,ALL,https://secure-i3.ztat.net/detail/AN/62/1D/06/GQ/11/AN621D06G-Q11@6.1.jpg,Top - black,Anna Field,FEMALE,womens-clothing-tops
 20820,VE121D0F6-A11,White,14,ALL,https://secure-i5.ztat.net/detail/VE/12/1D/0F/6A/11/VE121D0F6-A11@3.jpg,BOCA - Basic T-shirt - snow white,Vero Moda,FEMALE,womens-clothing-tops
-"20821,CO121D02N-K11,Blue,34,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1D/02/NK/11/CO121D02N-K11@1.jpg,Basic T-shirt - blue,""comma,"",FEMALE,womens-clothing-tops"
+"20821,CO121D02N-K11,Blue,34,SUMMER,https://secure-i3.ztat.net/detail/CO/12/1D/02/NK/11/CO121D02N-K11@1.jpg,Basic T-shirt - blue,"comma,",FEMALE,womens-clothing-tops
 20822,RM021D001-C11,Grey,41,ALL,https://secure-i2.ztat.net/detail/RM/02/1D/00/1C/11/RM021D001-C11@7.jpg,Top - grey melange,Rosemunde,FEMALE,womens-clothing-tops
 20823,RM021D003-J11,Pink,50,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/3J/11/RM021D003-J11@7.jpg,Top - soft rose,Rosemunde,FEMALE,womens-clothing-tops
 20824,RM021D001-J11,Pink,41,ALL,https://secure-i1.ztat.net/detail/RM/02/1D/00/1J/11/RM021D001-J11@7.jpg,Top - soft rose,Rosemunde,FEMALE,womens-clothing-tops
@@ -3598,7 +3598,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 20935,S5321D00D-802,Black,60,ALL,https://secure-i2.ztat.net/detail/S5/32/1D/00/D8/02/S5321D00D-802@1.jpg,ELVIRA - Long sleeved top - black,Schiesser Revival,FEMALE,womens-clothing-tops
 20936,MO421F003-002,White,21,ALL,https://secure-i3.ztat.net/detail/MO/42/1F/00/30/02/MO421F003-002@9.jpg,TRICK - Basic T-shirt - white,Modström,FEMALE,womens-clothing-tops
 20937,MO421F003-802,Black,21,ALL,https://secure-i5.ztat.net/detail/MO/42/1F/00/38/02/MO421F003-802@5.jpg,TRICK - Basic T-shirt - black,Modström,FEMALE,womens-clothing-tops
-"20938,CO121D02N-Q11,Black,34,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1D/02/NQ/11/CO121D02N-Q11@3.jpg,Basic T-shirt - black,""comma,"",FEMALE,womens-clothing-tops"
+"20938,CO121D02N-Q11,Black,34,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1D/02/NQ/11/CO121D02N-Q11@3.jpg,Basic T-shirt - black,"comma,",FEMALE,womens-clothing-tops
 20940,ME421D00N-802,Black,17,ALL,https://secure-i3.ztat.net/detail/ME/42/1D/00/N8/02/ME421D00N-802@1.1.jpg,NOOS - Long sleeved top - black,Mexx,FEMALE,womens-clothing-tops
 20941,GS121D01R-002,White,23,ALL,https://secure-i4.ztat.net/detail/GS/12/1D/01/R0/02/GS121D01R-002@1.2.jpg,BASE DEEP - Basic T-shirt - white,G-Star,FEMALE,womens-clothing-tops
 20943,S5321K017-002,White,41,ALL,https://secure-i5.ztat.net/detail/S5/32/1K/01/70/02/S5321K017-002@1.1.jpg,PAULINE - Top - white,Schiesser Revival,FEMALE,womens-clothing-tops
