@@ -24,15 +24,12 @@ import com.uwetrottmann.androidutils.Maps;
 import com.uwetrottmann.shopr.R;
 import com.uwetrottmann.shopr.ShoprApp;
 import com.uwetrottmann.shopr.adapters.ItemAdapter;
-import com.uwetrottmann.shopr.adapters.ItemAdapter.OnItemCritiqueListener;
-import com.uwetrottmann.shopr.adapters.ItemAdapter.OnItemDisplayListener;
 import com.uwetrottmann.shopr.algorithm.AdaptiveSelection;
 import com.uwetrottmann.shopr.algorithm.Query;
 import com.uwetrottmann.shopr.algorithm.model.Item;
 import com.uwetrottmann.shopr.context.model.ScenarioContext;
 import com.uwetrottmann.shopr.eval.Statistics;
 import com.uwetrottmann.shopr.loaders.ItemLoader;
-import com.uwetrottmann.shopr.ui.MainActivity.LocationUpdateEvent;
 
 import java.util.List;
 import java.util.Map;
@@ -44,7 +41,7 @@ import de.greenrobot.event.EventBus;
  * vote button.
  */
 public class ItemListFragment extends Fragment implements LoaderCallbacks<List<Item>>,
-        OnItemCritiqueListener, OnItemDisplayListener {
+        ItemAdapter.OnItemCritiqueListener, ItemAdapter.OnItemDisplayListener {
 
     public static final String TAG = "Item List";
 
@@ -92,7 +89,7 @@ public class ItemListFragment extends Fragment implements LoaderCallbacks<List<I
     public void onStart() {
         super.onStart();
 
-        EventBus.getDefault().registerSticky(this, LocationUpdateEvent.class);
+        EventBus.getDefault().registerSticky(this, MainActivity.LocationUpdateEvent.class);
     }
 
     @Override
@@ -157,7 +154,7 @@ public class ItemListFragment extends Fragment implements LoaderCallbacks<List<I
 
     /**
      * Post {@link ShopUpdateEvent} based on current list of recommendations.
-     * 
+     *
      * @param data the collection of shop data that should be updated
      */
     private void onUpdateShops(List<Item> data) {
@@ -224,7 +221,7 @@ public class ItemListFragment extends Fragment implements LoaderCallbacks<List<I
      * Wird beim Start aufgerufen.
      * @param event Location Update
      */
-    public void onEvent(LocationUpdateEvent event) {
+    public void onEvent(MainActivity.LocationUpdateEvent event) {
         if (!mIsInitialized) {
             Log.d(TAG, "Received location update, requerying");
             mIsInitialized = true;
@@ -233,6 +230,8 @@ public class ItemListFragment extends Fragment implements LoaderCallbacks<List<I
     }
 
     private void onInitializeItems() {
+        AdaptiveSelection adaptiveSelection = AdaptiveSelection.get();
+        adaptiveSelection.resetAlreadySeen();
         Bundle args = new Bundle();
         args.putBoolean("is init", true);
         //Here we have a loader with a unique ID, optional arguments and the implementation of the callbacks (this class)
