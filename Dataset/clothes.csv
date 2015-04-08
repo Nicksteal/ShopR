@@ -1528,7 +1528,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18683,LA242B00J-802,Black,50,SUMMER,https://secure-i6.ztat.net/detail/L/A/LA242B00J-802@1.2.jpg,Sports shorts - noir,Lacoste,MALE,mens-clothing-shorts
 18684,BO122A02G-A11,White,70,SUMMER,https://secure-i4.ztat.net/detail/BO/12/2A/02/GA/11/BO122A02G-A11@1.jpg,SCHINO - Shorts - white,BOSS Orange,MALE,mens-clothing-shorts
 18685,S3722F00C-K11,Blue,80,SUMMER,https://secure-i6.ztat.net/detail/S3/72/2F/00/CK/11/S3722F00C-K11@3.jpg,FIGHTER - Shorts - navy,Schott NYC,MALE,mens-clothing-shorts
-18686,DI622B004-606,Beige,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/46/06/DI622B004-606@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - khaki",Dickies,MALE,mens-clothing-shorts
+18686,DI622B004-606,Beige,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/46/06/DI622B004-606@1.1.jpg,13\" MULTI POCKET WORK SHORT - Shorts - khaki,Dickies,MALE,mens-clothing-shorts
 18687,P5222F00S-K11,Blue,60,SUMMER,https://secure-i4.ztat.net/detail/P5/22/2F/00/SK/11/P5222F00S-K11@21.jpg,Shorts - dress blues,Original Penguin,MALE,mens-clothing-shorts
 18688,FR322F00P-C11,Grey,60,SUMMER,https://secure-i1.ztat.net/detail/FR/32/2F/00/PC/11/FR322F00P-C11@10.jpg,PAMCA - Shorts - sport grey melange,Franklin & Marshall,MALE,mens-clothing-shorts
 18689,FR322F00P-G11,Red,60,SUMMER,https://secure-i4.ztat.net/detail/FR/32/2F/00/PG/11/FR322F00P-G11@13.jpg,PAMCA - Shorts - red melange,Franklin & Marshall,MALE,mens-clothing-shorts
@@ -1567,8 +1567,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18722,GS122F065-K11,Blue,80,SUMMER,https://secure-i6.ztat.net/detail/GS/12/2F/06/5K/11/GS122F065-K11@14.jpg,BRONSON - Shorts - mazarine blue,G-Star,MALE,mens-clothing-shorts
 18723,G1622F00O-M11,Green,85,SUMMER,https://secure-i6.ztat.net/detail/G1/62/2F/00/OM/11/G1622F00O-M11@12.jpg,ALBERT - Shorts - dunkelgrün,GAS,MALE,mens-clothing-shorts
 18724,P6822F00K-G11,Red,42,SUMMER,https://secure-i1.ztat.net/detail/P6/82/2F/00/KG/11/P6822F00K-G11@6.1.jpg,Shorts - biking red,Petrol Industries,MALE,mens-clothing-shorts
-18725,DI622B004-909,Black,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/49/09/DI622B004-909@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - black",Dickies,MALE,mens-clothing-shorts
-18726,DI622B004-503,Blue,35,SUMMER,https://secure-i5.ztat.net/detail/DI/62/2B/00/45/03/DI622B004-503@1.1.jpg,"13\"" MULTI POCKET WORK SHORT - Shorts - navy blue",Dickies,MALE,mens-clothing-shorts
+18725,DI622B004-909,Black,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2B/00/49/09/DI622B004-909@1.1.jpg,13\" MULTI POCKET WORK SHORT - Shorts - black,Dickies,MALE,mens-clothing-shorts
+18726,DI622B004-503,Blue,35,SUMMER,https://secure-i5.ztat.net/detail/DI/62/2B/00/45/03/DI622B004-503@1.1.jpg,13\" MULTI POCKET WORK SHORT - Shorts - navy blue,Dickies,MALE,mens-clothing-shorts
 18727,PU142B0EM-802,Black,12,WINTER,https://secure-i3.ztat.net/detail/PU/14/2B/0E/M8/02/PU142B0EM-802@1.1.jpg,ESSENTIAL - Sports shorts - black,Puma,MALE,mens-clothing-shorts
 18728,P1422F00O-K11,Blue,140,SUMMER,https://secure-i4.ztat.net/detail/P1/42/2F/00/OK/11/P1422F00O-K11@14.jpg,Shorts - wave indigo,Patrizia Pepe,MALE,mens-clothing-shorts
 18729,BO122F03P-B11,Beige,100,SUMMER,https://secure-i6.ztat.net/detail/BO/12/2F/03/PB/11/BO122F03P-B11@14.jpg,SCHWINN - Shorts - beige,BOSS Orange,MALE,mens-clothing-shorts
@@ -1619,7 +1619,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18774,1MI22F00I-N11,Olive,85,SUMMER,https://secure-i4.ztat.net/detail/1M/I2/2F/00/IN/11/1MI22F00I-N11@6.jpg,Shorts - army,Michael Kors,MALE,mens-clothing-shorts
 18775,C1422A018-K12,Blue,46,WINTER,https://secure-i3.ztat.net/detail/C1/42/2A/01/8K/12/C1422A018-K12@3.jpg,PRESENTER BERMUDA DURANGO - Shorts - blue,Carhartt,MALE,mens-clothing-shorts
 18776,H2742E002-O11,Brown,65,WINTER,https://secure-i3.ztat.net/detail/H2/74/2E/00/2O/11/H2742E002-O11@5.jpg,RUGGED CREST - Shorts - brown,Haglöfs,MALE,mens-clothing-shorts
-18777,DI622A00X-C11,Grey,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/00/XC/11/DI622A00X-C11@3.jpg,"13\"" SLIM FIT WORK SHORT - Shorts - charcoal grey",Dickies,MALE,mens-clothing-shorts
+18777,DI622A00X-C11,Grey,35,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/00/XC/11/DI622A00X-C11@3.jpg,13\" SLIM FIT WORK SHORT - Shorts - charcoal grey,Dickies,MALE,mens-clothing-shorts
 18778,DI622A012-N11,Olive,45,SUMMER,https://secure-i1.ztat.net/detail/DI/62/2A/01/2N/11/DI622A012-N11@7.jpg,NEW YORK - Shorts - dark olive,Dickies,MALE,mens-clothing-shorts
 18779,DI622A012-Q11,Black,45,SUMMER,https://secure-i3.ztat.net/detail/DI/62/2A/01/2Q/11/DI622A012-Q11@4.jpg,NEW YORK - Shorts - black,Dickies,MALE,mens-clothing-shorts
 18780,DI622A012-T11,Multi-coloured,45,WINTER,https://secure-i4.ztat.net/detail/DI/62/2A/01/2T/11/DI622A012-T11@2.1.jpg,NEW YORK - Shorts - multicoloured,Dickies,MALE,mens-clothing-shorts
@@ -1629,7 +1629,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category
 18784,AL522B005-604,Olive,55,SUMMER,https://secure-i5.ztat.net/detail/AL/52/2B/00/56/04/AL522B005-604@1.jpg,JET - Shorts - oliv,Alpha Industries,MALE,mens-clothing-shorts
 18785,AL522B005-909,Black,55,SUMMER,https://secure-i1.ztat.net/detail/AL/52/2B/00/59/09/AL522B005-909@1.1.jpg,JET - Cargo trousers - schwarz,Alpha Industries,MALE,mens-clothing-shorts
 18786,AL522B005-704,Beige,55,SUMMER,https://secure-i6.ztat.net/detail/AL/52/2B/00/57/04/AL522B005-704@1.jpg,Shorts - beige,Alpha Industries,MALE,mens-clothing-shorts
-18787,DI622A00X-Q11,Black,35,SUMMER,https://secure-i6.ztat.net/detail/DI/62/2A/00/XQ/11/DI622A00X-Q11@2.jpg,"13\"" SLIM FIT WORK SHORT - Shorts - black",Dickies,MALE,mens-clothing-shorts
+18787,DI622A00X-Q11,Black,35,SUMMER,https://secure-i6.ztat.net/detail/DI/62/2A/00/XQ/11/DI622A00X-Q11@2.jpg,13\" SLIM FIT WORK SHORT - Shorts - black,Dickies,MALE,mens-clothing-shorts
 18788,JJ542E00C-M11,Green,13,WINTER,https://secure-i1.ztat.net/detail/JJ/54/2E/00/CM/11/JJ542E00C-M11@6.1.jpg,Shorts - forest night,Jack & Jones Tech,MALE,mens-clothing-shorts
 18789,PU142B0DO-C11,Grey,23,WINTER,https://secure-i3.ztat.net/detail/PU/14/2B/0D/OC/11/PU142B0DO-C11@2.jpg,Shorts - medium gray heather,Puma,MALE,mens-clothing-shorts
 18790,GS122E013-N11,Olive,45,WINTER,https://secure-i4.ztat.net/detail/GS/12/2E/01/3N/11/GS122E013-N11@2.1.jpg,ROVIC - Shorts - oliv,G-Star,MALE,mens-clothing-shorts
