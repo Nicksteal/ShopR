@@ -9,21 +9,21 @@ import java.util.List;
 public class AdaptiveSelectionSimilarity {
 
     public static double similarity(Attributes first, Attributes second) {
-        List<Attribute> attrsFirst = first.getAllAttributes();
+        List<Attributes.Attribute> attrsSecond = second.getAllAttributes();
 
         int count = 0;
         double similarity = 0;
 
         // sum up similarity values for all attributes
-        for (Attribute attrFirst : attrsFirst) {
+        for (Attributes.Attribute attrSecond : attrsSecond) {
             /*
              * The query does only store new vectors for a feature once it has
              * been critiqued (others remain null). This speeds up processing by
              * avoiding useless comparisons (calculating similarity for
              * un-critiqued features).
              */
-            Attribute attrSecond = second.getAttributeById(attrFirst.id());
-            if (attrSecond != null) {
+            Attributes.Attribute attrFirst = first.getAttributeById(attrSecond.id());
+            if (attrFirst != null) {
                 count++;
                 similarity += attributeSimilarity(attrFirst, attrSecond);
             }
@@ -34,10 +34,10 @@ public class AdaptiveSelectionSimilarity {
             return 0;
         }
 
-        // average
-        similarity /= count;
+//        Log.d("Attr Sim", "" + second.getAllAttributesString() + (similarity / count));
 
-        return similarity;
+        // average
+        return similarity / count;
     }
 
     /**
@@ -53,25 +53,27 @@ public class AdaptiveSelectionSimilarity {
         if (valueWeightsFirst==null||valueWeightsSecond==null) return 0;
 
         if (valueWeightsFirst.length != valueWeightsSecond.length) {
-            throw new IllegalArgumentException(
-                    "Attribute value weight vectors must be of same size.");
+            throw new IllegalArgumentException("Attribute value weight vectors must be of same size.");
         }
 
         // sum up deltas
         int count = 0;
         for (int i = 0; i < valueWeightsFirst.length; i++) {
-            if (valueWeightsFirst[i] == 0 && valueWeightsSecond[i] == 0) {
+            if ( valueWeightsSecond[i] == 0.0) {
                 // skip if both weights are 0
                 continue;
             }
             count++;
-            similarity += 1 - Math.abs(valueWeightsFirst[i] - valueWeightsSecond[i]);
+//            Log.d("Weights", "Query: " + valueWeightsFirst[i] + " Item:" +valueWeightsSecond[i]);
+            similarity += valueWeightsFirst.length * (1 - Math.abs(valueWeightsFirst[i] - valueWeightsSecond[i]));
         }
 
-        // average
-        similarity /= count;
+//        if (similarity > 0){
+//            Log.d("Attr Sim", " " + second.currentValue() + " Sim:" + similarity + " Res:" +(similarity / count));
+//        }
 
-        return similarity;
+        // average
+        return similarity / count;
     }
 
 }

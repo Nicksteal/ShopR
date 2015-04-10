@@ -73,11 +73,11 @@ public class AdaptiveSelection {
         List<Item> recommendations;
         // using adaptive selection (diversity on negative progress)
 
-        double alpha = 0.997;
+        double alpha = 0.95;
 
         recommendations = itemRecommend(mCaseBase, mQuery, mNumRecommendations, BOUND_DEFAULT, mCurrentCritique, NUM_RECOMMENDATIONS_PRESELECTION, mAlreadySeenItems, alpha);
 
-        mCurrentRecommendations = recommendations;
+        setCurrentRecommendations(recommendations);
 
         addItemsToAlreadySeenItems(recommendations);
 
@@ -86,6 +86,10 @@ public class AdaptiveSelection {
 
     public List<Item> getCurrentRecommendations() {
         return mCurrentRecommendations;
+    }
+
+    public void setCurrentRecommendations(List<Item> currentRecommendations){
+        this.mCurrentRecommendations=currentRecommendations;
     }
 
     /**
@@ -134,19 +138,20 @@ public class AdaptiveSelection {
              * decreasing similarity to current query. Return top k items.
              */
             long start = System.currentTimeMillis();
-            recommendations = BoundedGreedySelection.boundedGreedySelection(query, caseBase, numItems, bound, alpha, alreadySeenItems);
+            recommendations = BoundedGreedySelection.boundedGreedySelection(query, caseBase, numItemsPreSelection, bound, alpha, alreadySeenItems);
             Log.d("AdaptiveSelection", "" + (System.currentTimeMillis() - start) + " ms");
-
         } else {
             /*
              * Negative progress: user disliked one or more of the features of
              * one recommended item. Or: first run.
              * REFOCUS: show diverse recommendations
              */
-            recommendations = BoundedGreedySelection.boundedGreedySelection(query, caseBase, numItems, bound, ALPHA_BOUNDED_GREEDY_REFOCUS, alreadySeenItems);
+            recommendations = BoundedGreedySelection.boundedGreedySelection(query, caseBase, numItemsPreSelection, bound, ALPHA_BOUNDED_GREEDY_REFOCUS, alreadySeenItems);
         }
 
-//        Utils.dumpToConsole(recommendations, query);
+        Utils.dumpToConsole(recommendations, query);
+
+//        recommendations = ContextualPostFiltering.postFilterItems(recommendations, numItems);
 
 //        Utils.dumpToConsole(recommendations, query);
 

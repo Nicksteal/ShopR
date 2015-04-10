@@ -19,7 +19,7 @@ public class BoundedGreedySelection {
      * recommendations.
      */
     public static List<Item> boundedGreedySelection(Query query, List<Item> caseBase, int limit, int bound, double alpha, Map<Integer, Integer> alreadySeenItems) {
-        caseBase = Utils.sortBySimilarityToQuery(query, caseBase);
+        caseBase = Utils.sortBySimilarityToQuery(query, caseBase, alreadySeenItems);
 
         // Get first b*k items
         int numItems = limit * bound;
@@ -46,10 +46,8 @@ public class BoundedGreedySelection {
         for (int i = 0; i < numRecs; i++) {
             sortByQuality(limitedCaseBase, lastAdded, alpha, i);
 
-            do {
-                // get top item, remove it from remaining cases
-                lastAdded = limitedCaseBase.remove(0);
-            } while (alreadySeenItems.get(lastAdded.id()) != null); // if item is not found, we may display it
+            // get top item, remove it from remaining cases
+            lastAdded = limitedCaseBase.remove(0);
             recommendations.add(lastAdded);
         }
 
