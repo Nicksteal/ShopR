@@ -324,7 +324,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17399,SU621I00U-K11,Blue,34,WINTER,https://secure-i4.ztat.net/detail/SU/62/1I/00/UK/11/SU621I00U-K11@14.jpg,Jumper - blue,Sublevel,FEMALE,womens-clothing-hoodies
 17400,SU621I00U-B11,Beige,27,WINTER,https://secure-i1.ztat.net/detail/SU/62/1I/00/UB/11/SU621I00U-B11@14.jpg,Jumper - beige,Sublevel,FEMALE,womens-clothing-hoodies
 17401,DS821J009-C11,Grey,27,WINTER,https://secure-i3.ztat.net/detail/DS/82/1J/00/9C/11/DS821J009-C11@2.jpg,NIXIE - Hoodie - grey,Desires,FEMALE,womens-clothing-hoodies
-17402,BX329J000-K12,Blue,50,WINTER,https://secure-i2.ztat.net/detail/BX/32/9J/00/0K/12/BX329J000-K12@21.jpg,Hoodie - blue,Boob Design,FEMALE,womens-clothing-hoodies
 17403,TW421J01E-K11,Blue,19,WINTER,https://secure-i2.ztat.net/detail/TW/42/1J/01/EK/11/TW421J01E-K11@14.jpg,Hoodie - dark blue,TWINTIP,FEMALE,womens-clothing-hoodies
 17404,ON321J07F-G11,Red,22,WINTER,https://secure-i5.ztat.net/detail/ON/32/1J/07/FG/11/ON321J07F-G11@14.jpg,ASHTON - Hoodie - tawny port,ONLY,FEMALE,womens-clothing-hoodies
 17405,TW421J015-Q11,Black,25,WINTER,https://secure-i5.ztat.net/detail/TW/42/1J/01/5Q/11/TW421J015-Q11@13.jpg,Hoodie - black,TWINTIP,FEMALE,womens-clothing-hoodies
@@ -365,8 +364,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17440,FR321J01R-A11,Beige,55,WINTER,https://secure-i3.ztat.net/detail/FR/32/1J/01/RA/11/FR321J01R-A11@2.jpg,Hoodie - beige,Franklin & Marshall,FEMALE,womens-clothing-hoodies
 17441,EV421J03Q-C11,Grey,17,WINTER,https://secure-i5.ztat.net/detail/EV/42/1J/03/QC/11/EV421J03Q-C11@15.jpg,Hoodie - grey melange,Even&Odd,FEMALE,womens-clothing-hoodies
 17442,2NA21J042-C11,Grey,65,WINTER,https://secure-i3.ztat.net/detail/2N/A2/1J/04/2C/11/2NA21J042-C11@14.1.jpg,FROTZELINCHEN XII - Hoodie - grey,Naketano,FEMALE,womens-clothing-hoodies
-17443,BX329J000-G11,Red,55,WINTER,https://secure-i1.ztat.net/detail/BX/32/9J/00/0G/11/BX329J000-G11@21.jpg,Hoodie - red,Boob Design,FEMALE,womens-clothing-hoodies
-17444,BX329J000-J11,Pink,55,WINTER,https://secure-i4.ztat.net/detail/BX/32/9J/00/0J/11/BX329J000-J11@21.jpg,Hoodie - pink,Boob Design,FEMALE,womens-clothing-hoodies
 17445,BE621J03F-C11,Grey,42,WINTER,https://secure-i3.ztat.net/detail/BE/62/1J/03/FC/11/BE621J03F-C11@14.jpg,YOPORT - Hoodie - stormcloud marl,Bench,FEMALE,womens-clothing-hoodies
 17446,TW421J01J-Q11,Black,29,WINTER,https://secure-i3.ztat.net/detail/TW/42/1J/01/JQ/11/TW421J01J-Q11@14.jpg,Hoodie - black,TWINTIP,FEMALE,womens-clothing-hoodies
 17447,V1921J009-C11,Grey,32,WINTER,https://secure-i3.ztat.net/detail/V1/92/1J/00/9C/11/V1921J009-C11@2.jpg,Hoodie - grey,Volcom,FEMALE,womens-clothing-hoodies
@@ -417,7 +414,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17492,ES421I02V-714,Grey,20,ALL,https://secure-i1.ztat.net/detail/ES/42/1I/02/V7/14/ES421I02V-714@1.1.jpg,Jumper - grey,ESPRIT Collection,FEMALE,womens-clothing-jumpers
 17493,VE121I0BJ-Q11,Black,29,ALL,https://secure-i5.ztat.net/detail/VE/12/1I/0B/JQ/11/VE121I0BJ-Q11@5.jpg,MACRO - Jumper - black,Vero Moda,FEMALE,womens-clothing-jumpers
 17494,VE121I0BJ-C11,Grey,29,ALL,https://secure-i1.ztat.net/detail/VE/12/1I/0B/JC/11/VE121I0BJ-C11@4.1.jpg,MACRO - Jumper - medium grey melange,Vero Moda,FEMALE,womens-clothing-jumpers
-17495,RM021D007-J11,Pink,75,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/7J/11/RM021D007-J11@14.jpg,Jumper - soft rose,Rosemunde,FEMALE,womens-clothing-jumpers
+17495,RM021D007-J11,Pink,75,ALL,https://secure-i5.ztat.net/detail/RM/02/1D/00/7J/11/RM021D007-J11@14.jpg,Jumper - soft rose,Rosemunde,FEMALE,womens-clothing-jumpers,1
 17496,ES121I03L-502,Blue,25,ALL,https://secure-i6.ztat.net/detail/ES/12/1I/03/L5/02/ES121I03L-502@1.1.jpg,Jumper - blue,Esprit,FEMALE,womens-clothing-jumpers
 17497,QS121I04U-A11,White,25,ALL,https://secure-i3.ztat.net/detail/QS/12/1I/04/UA/11/QS121I04U-A11@2.jpg,Jumper - white,s.Oliver Denim,FEMALE,womens-clothing-jumpers
 17498,SU521D012-K11,Blue,38,ALL,https://secure-i1.ztat.net/detail/SU/52/1D/01/2K/11/SU521D012-K11@12.jpg,TODROS - Jumper - navy,Supertrash,FEMALE,womens-clothing-jumpers
@@ -593,7 +590,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17669,B2521I02M-602,Green,34,WINTER,https://secure-i5.ztat.net/detail/B2/52/1I/02/M6/02/B2521I02M-602@1.1.jpg,Jumper - sapin,Best Mountain,FEMALE,womens-clothing-jumpers
 17670,S7021I01H-304,Red,34,WINTER,https://secure-i6.ztat.net/detail/S7/02/1I/01/H3/04/S7021I01H-304@1.1.jpg,Jumper - red,Suncoo,FEMALE,womens-clothing-jumpers
 17671,S3621I028-909,Black,28,WINTER,https://secure-i1.ztat.net/detail/S3/62/1I/02/89/09/S3621I028-909@1.1.jpg,Jumper - black,See u Soon,FEMALE,womens-clothing-jumpers
-17672,BX329J000-Q11,Black,60,ALL,https://secure-i1.ztat.net/detail/BX/32/9J/00/0Q/11/BX329J000-Q11@1.jpg,Sweatshirt - black,Boob Design,FEMALE,womens-clothing-sweatshirts
 17674,UR621J002-850,Black,34,ALL,https://secure-i5.ztat.net/detail/UR/62/1J/00/28/50/UR621J002-850@9.jpg,Light jacket - black/white,Urban Classics,FEMALE,womens-clothing-sweatshirts
 17675,EV421I02N-214,Orange,29,ALL,https://secure-i6.ztat.net/detail/EV/42/1I/02/N2/14/EV421I02N-214@1.1.jpg,Tracksuit top - apricot melange,Even&Odd,FEMALE,womens-clothing-sweatshirts
 17676,UR621J003-802,Black,25,ALL,https://secure-i3.ztat.net/detail/UR/62/1J/00/38/02/UR621J003-802@1.1.jpg,Tracksuit top - black,Urban Classics,FEMALE,womens-clothing-sweatshirts
@@ -1333,10 +1329,10 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 18486,SO422E00D-C11,Grey,50,ALL,https://secure-i4.ztat.net/detail/SO/42/2E/00/DC/11/SO422E00D-C11@1.1.jpg,MARK - Chinos - grau,Solid,MALE,mens-clothing-chinos
 18487,TO222E01F-K11,Blue,55,ALL,https://secure-i1.ztat.net/detail/TO/22/2E/01/FK/11/TO222E01F-K11@14.jpg,TRAVIS - Chinos - navy,Tom Tailor,MALE,mens-clothing-chinos
 18488,JA222E00Q-B11,Beige,39,ALL,https://secure-i5.ztat.net/detail/JA/22/2E/00/QB/11/JA222E00Q-B11@3.jpg,Chinos - white pepper,Jack & Jones,MALE,mens-clothing-chinos
-18489,JA222E00P-K11,Blue,40,ALL,https://secure-i4.ztat.net/detail/JA/22/2E/00/PK/11/JA222E00P-K11@4.jpg,Chinos - dark navy,Jack & Jones,MALE,mens-clothing-chinos
+18489,JA222E00P-K11,Blue,40,ALL,https://secure-i4.ztat.net/detail/JA/22/2E/00/PK/11/JA222E00P-K11@4.jpg,Chinos - dark navy,Jack & Jones,MALE,mens-clothing-chinos,1
 18490,BO122A01W-Q11,Black,100,ALL,https://secure-i4.ztat.net/detail/BO/12/2A/01/WQ/11/BO122A01W-Q11@6.jpg,SCHINO  - Chinos - black,BOSS Orange,MALE,mens-clothing-chinos
 18491,DO822A01G-802,Black,80,ALL,https://secure-i3.ztat.net/detail/DO/82/2A/01/G8/02/DO822A01G-802@1.1.jpg,SF KHAKI - Chinos - black,DOCKERS,MALE,mens-clothing-chinos
-18492,F1422A00C-802,Black,90,ALL,https://secure-i3.ztat.net/detail/F1/42/2A/00/C8/02/F1422A00C-802@1.1.jpg,SAMUEL - Chinos - black,Filippa K,MALE,mens-clothing-chinos
+18492,F1422A00C-802,Black,90,ALL,https://secure-i3.ztat.net/detail/F1/42/2A/00/C8/02/F1422A00C-802@1.1.jpg,SAMUEL - Chinos - black,Filippa K,MALE,mens-clothing-chinos,1
 18493,DI622X00Q-858,Black,45,ALL,https://secure-i4.ztat.net/detail/DI/62/2X/00/Q8/58/DI622X00Q-858@1.1.jpg,SLIM STRAIGHT WORK PANT - Chinos - schwarz,Dickies,MALE,mens-clothing-chinos
 18494,DI622X00N-802,Black,45,ALL,https://secure-i3.ztat.net/detail/DI/62/2X/00/N8/02/DI622X00N-802@1.1.jpg,ORIGINAL 874 WORK PANT - Trousers - black,Dickies,MALE,mens-clothing-chinos
 18495,DO822A01G-503,Blue,80,ALL,https://secure-i5.ztat.net/detail/DO/82/2A/01/G5/03/DO822A01G-503@1.1.jpg,SF KHAKI - Trousers - dockers navy,DOCKERS,MALE,mens-clothing-chinos
@@ -2604,8 +2600,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 19862,V1021C0CW-C11,Grey,28,ALL,https://secure-i2.ztat.net/detail/V1/02/1C/0C/WC/11/V1021C0CW-C11@12.jpg,VINAJA - Jersey dress - light grey melange,Vila,FEMALE,womens-clothing-dresses
 19863,V1021C0CW-Q11,Black,28,ALL,https://secure-i6.ztat.net/detail/V1/02/1C/0C/WQ/11/V1021C0CW-Q11@12.jpg,VINAJA - Jersey dress - black,Vila,FEMALE,womens-clothing-dresses
 19865,M5821C047-Q11,Black,75,ALL,https://secure-i4.ztat.net/detail/M5/82/1C/04/7Q/11/M5821C047-Q11@14.jpg,Jumper dress - black,More & More,FEMALE,womens-clothing-dresses
-19866,BX329F00C-Q11,Black,65,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/CQ/11/BX329F00C-Q11@9.jpg,Jersey dress - black/brilliant,Boob Design,FEMALE,womens-clothing-dresses
-19867,BX329F00B-Q11,Black,70,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/BQ/11/BX329F00B-Q11@8.jpg,Jersey dress - black,Boob Design,FEMALE,womens-clothing-dresses
 19868,V1021C09C-K12,Blue,35,SUMMER,https://secure-i2.ztat.net/detail/V1/02/1C/09/CK/12/V1021C09C-K12@13.jpg,CORSAGE - Cocktail dress / Party dress - total eclipse,Vila,FEMALE,womens-clothing-dresses
 19869,CO121C03O-B11,Beige,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OB/11/CO121C03O-B11@14.jpg,Summer dress - beige,"comma,",FEMALE,womens-clothing-dresses
 19870,S2921C08M-Q11,Black,80,ALL,https://secure-i2.ztat.net/detail/S2/92/1C/08/MQ/11/S2921C08M-Q11@14.2.jpg,Jersey dress - black,s.Oliver,FEMALE,womens-clothing-dresses
@@ -2754,7 +2748,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20026,T3341B008-301,Red,120,ALL,https://secure-i3.ztat.net/detail/T3/34/1B/00/83/01/T3341B008-301@1.1.jpg,MEMBRAIN - Outdoor jacket - rot,Tao,FEMALE,womens-clothing-jackets
 20027,VA441B01L-K11,Lilac,55,ALL,https://secure-i2.ztat.net/detail/VA/44/1B/01/LK/11/VA441B01L-K11@7.jpg,ESCAPE LIGHT - Outdoor jacket - royal violet,Vaude,FEMALE,womens-clothing-jackets
 20028,F1421G004-503,Blue,250,ALL,https://secure-i4.ztat.net/detail/F1/42/1G/00/45/03/F1421G004-503@1.2.jpg,JACKIE COOL - Blazer - navy,Filippa K,FEMALE,womens-clothing-jackets
-20029,ON321G06A-Q00,Black,38,ALL,https://secure-i1.ztat.net/detail/ON/32/1G/06/AQ/00/ON321G06A-Q00@24.jpg,BANDIT - Faux leather jacket - black,ONLY,FEMALE,womens-clothing-jackets
+20029,ON321G06A-Q00,Black,38,ALL,https://secure-i1.ztat.net/detail/ON/32/1G/06/AQ/00/ON321G06A-Q00@24.jpg,BANDIT - Faux leather jacket - black,ONLY,FEMALE,womens-clothing-jackets,1
 20030,ES421M003-Q00,Black,70,ALL,https://secure-i5.ztat.net/detail/ES/42/1M/00/3Q/00/ES421M003-Q00@4.jpg,Blazer - black,ESPRIT Collection,FEMALE,womens-clothing-jackets
 20031,JA441F00N-K12,Blue,50,SUMMER,https://secure-i6.ztat.net/detail/JA/44/1F/00/NK/12/JA441F00N-K12@7.jpg,AMBER ROAD - Outdoor jacket - shady blue,Jack Wolfskin,FEMALE,womens-clothing-jackets
 20032,JA441F004-K11,Blue,90,SUMMER,https://secure-i2.ztat.net/detail/JA/44/1F/00/4K/11/JA441F004-K11@4.jpg,MELLOW RANGE - Hardshell jacket - shady blue,Jack Wolfskin,FEMALE,womens-clothing-jackets
@@ -2789,7 +2783,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20062,P1421G01K-802,Black,295,WINTER,https://secure-i6.ztat.net/detail/P1/42/1G/01/K8/02/P1421G01K-802@1.2.jpg,Blazer - nero,Patrizia Pepe,FEMALE,womens-clothing-jackets
 20063,M5921G01O-Q11,Black,65,WINTER,https://secure-i5.ztat.net/detail/M5/92/1G/01/OQ/11/M5921G01O-Q11@7.jpg,VELAO - Faux leather jacket - noir,Morgan,FEMALE,womens-clothing-jackets
 20064,ON321E02O-K11,Blue,26,SUMMER,https://secure-i4.ztat.net/detail/ON/32/1E/02/OK/11/ON321E02O-K11@7.jpg,ONLWESTA - Denim jacket - medium blue denim,ONLY,FEMALE,womens-clothing-jackets
-20066,SC921G004-909,Black,310,SUMMER,https://secure-i1.ztat.net/detail/SC/92/1G/00/49/09/SC921G004-909@1.1.jpg,Leather jacket - black,Schott NYC,FEMALE,womens-clothing-jackets
+20066,SC921G004-909,Black,310,SUMMER,https://secure-i1.ztat.net/detail/SC/92/1G/00/49/09/SC921G004-909@1.1.jpg,Leather jacket - black,Schott NYC,FEMALE,womens-clothing-jackets,1
 20067,T3341B00A-301,Red,165,ALL,https://secure-i3.ztat.net/detail/T3/34/1B/00/A3/01/T3341B00A-301@1.1.jpg,PALADIN - Outdoor jacket - venere,Tao,FEMALE,womens-clothing-jackets
 20068,M5821K00T-K11,Blue,110,ALL,https://secure-i5.ztat.net/detail/M5/82/1K/00/TK/11/M5821K00T-K11@14.jpg,SALLY - Blazer - marine,More & More,FEMALE,womens-clothing-jackets
 20069,M5821K00T-Q11,Black,110,ALL,https://secure-i5.ztat.net/detail/M5/82/1K/00/TQ/11/M5821K00T-Q11@14.jpg,SALLY - Blazer - black,More & More,FEMALE,womens-clothing-jackets
@@ -2911,7 +2905,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20198,1FN21L00G-Q11,Black,190,SUMMER,https://secure-i2.ztat.net/detail/1F/N2/1L/00/GQ/11/1FN21L00G-Q11@16.jpg,POLLY - Leather jacket - black,Freaky Nation,FEMALE,womens-clothing-jackets
 20199,AD541F020-C11,Grey,90,SUMMER,https://secure-i3.ztat.net/detail/AD/54/1F/02/0C/11/AD541F020-C11@16.jpg,EVERYDAY  - Outdoor jacket - flash orange,adidas Performance,FEMALE,womens-clothing-jackets
 20200,ON321A0AX-K11,Blue,29,ALL,https://secure-i6.ztat.net/detail/ON/32/1A/0A/XK/11/ON321A0AX-K11@5.jpg,SKINNY REG. SOFT ULTIMATE PIM205 - Slim fit jeans - dark blue,ONLY,FEMALE,womens-clothing-jeans
-20201,LT121A00I-955,Black,70,ALL,https://secure-i6.ztat.net/detail/LT/12/1A/00/I9/55/LT121A00I-955@9.jpg,VALERIE - Bootcut jeans - black wash,LTB,FEMALE,womens-clothing-jeans
+20201,LT121A00I-955,Black,70,ALL,https://secure-i6.ztat.net/detail/LT/12/1A/00/I9/55/LT121A00I-955@9.jpg,VALERIE - Bootcut jeans - black wash,LTB,FEMALE,womens-clothing-jeans,1
 20202,MA621A042-951,Blue,60,ALL,https://secure-i4.ztat.net/detail/MA/62/1A/04/29/51/MA621A042-951@1.1.jpg,OLIVIA - Straight leg jeans - light brushed,Mavi,FEMALE,womens-clothing-jeans
 20203,ES121N00F-K11,Blue,39,ALL,https://secure-i2.ztat.net/detail/ES/12/1N/00/FK/11/ES121N00F-K11@7.1.jpg,Straight leg jeans - cinder blue,Esprit,FEMALE,womens-clothing-jeans
 20204,ED121N008-K11,Blue,29,ALL,https://secure-i4.ztat.net/detail/ED/12/1N/00/8K/11/ED121N008-K11@4.jpg,Straight leg jeans - stone,edc by Esprit,FEMALE,womens-clothing-jeans
@@ -2924,7 +2918,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20211,ON321A08Q-953,Blue,27,ALL,https://secure-i4.ztat.net/detail/ON/32/1A/08/Q9/53/ON321A08Q-953@10.jpg,ULTIMATE - Slim fit jeans - dark blue denim,ONLY,FEMALE,womens-clothing-jeans
 20212,CI221N002-K11,Blue,200,ALL,https://secure-i5.ztat.net/detail/CI/22/1N/00/2K/11/CI221N002-K11@4.1.jpg,AVA - Straight leg jeans - blue denim,Citizens of Humanity,FEMALE,womens-clothing-jeans
 20213,SU521A01C-802,Black,55,ALL,https://secure-i3.ztat.net/detail/SU/52/1A/01/C8/02/SU521A01C-802@1.1.jpg,PEPPY - Slim fit jeans - black,Supertrash,FEMALE,womens-clothing-jeans
-20214,BX329A000-K11,Blue,50,ALL,https://secure-i3.ztat.net/detail/BX/32/9A/00/0K/11/BX329A000-K11@5.jpg,Slim fit jeans - washed blue,Boob Design,FEMALE,womens-clothing-jeans
 20215,ED121N009-K11,Blue,39,ALL,https://secure-i4.ztat.net/detail/ED/12/1N/00/9K/11/ED121N009-K11@7.jpg,Bootcut jeans - dark stone,edc by Esprit,FEMALE,womens-clothing-jeans
 20216,CI221A01I-K00,Blue,185,ALL,https://secure-i6.ztat.net/detail/CI/22/1A/01/IK/00/CI221A01I-K00@1.3.jpg,AVEDON - Slim fit jeans - denim blue,Citizens of Humanity,FEMALE,womens-clothing-jeans
 20217,ED121N006-K12,Blue,29,ALL,https://secure-i3.ztat.net/detail/ED/12/1N/00/6K/12/ED121N006-K12@2.jpg,Slim fit jeans - rinse,edc by Esprit,FEMALE,womens-clothing-jeans
@@ -3132,7 +3125,6 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20444,MO421B00I-Q12,Black,18,ALL,https://secure-i2.ztat.net/detail/MO/42/1B/00/IQ/12/MO421B00I-Q12@2.jpg,TUTTI - Mini skirt - black,Modström,FEMALE,womens-clothing-skirts
 20445,ZA821B009-Q11,Black,17,ALL,https://secure-i1.ztat.net/detail/ZA/82/1B/00/9Q/11/ZA821B009-Q11@2.jpg,A-line skirt - black,Zalando Essentials,FEMALE,womens-clothing-skirts
 20446,CS029E003-M11,Green,43,SUMMER,https://secure-i3.ztat.net/detail/CS/02/9E/00/3M/11/CS029E003-M11@1.2.jpg,Denim skirt - green,Christoff,FEMALE,womens-clothing-skirts
-20447,BX329E000-Q11,Black,38,ALL,https://secure-i5.ztat.net/detail/BX/32/9E/00/0Q/11/BX329E000-Q11@6.3.jpg,ONCE-ON-NEVER-OFF - Pencil skirt - black,Boob Design,FEMALE,womens-clothing-skirts
 20448,ES421B02C-Q11,Black,55,ALL,https://secure-i2.ztat.net/detail/ES/42/1B/02/CQ/11/ES421B02C-Q11@12.jpg,Pleated skirt - black,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20449,AN621B020-Q11,Black,17,WINTER,https://secure-i2.ztat.net/detail/AN/62/1B/02/0Q/11/AN621B020-Q11@1.1.jpg,Pencil skirt - black/white,Anna Field,FEMALE,womens-clothing-skirts
 20450,PC721B00C-Q11,Black,42,SUMMER,https://secure-i2.ztat.net/detail/PC/72/1B/00/CQ/11/PC721B00C-Q11@7.1.jpg,RAVENNA - Mini skirt - carbon,Opus,FEMALE,womens-clothing-skirts
@@ -3416,7 +3408,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20731,TO271B00M-002,White,60,ALL,https://secure-i5.ztat.net/detail/TO/27/1B/00/M0/02/TO271B00M-002@1.1.jpg,BASIC VELOURS - Dressing gown - weiß,Tom Tailor,unisex,womens-clothing-swimwear
 20732,B3521L017-404,Lilac,15,SUMMER,https://secure-i5.ztat.net/detail/B3/52/1L/01/74/04/B3521L017-404@1.1.jpg,DORA ISCOLOR - Bikini bottoms - violet silke,Banana Moon,FEMALE,womens-clothing-swimwear
 20733,B3521L00Y-909,Black,41,SUMMER,https://secure-i1.ztat.net/detail/B3/52/1L/00/Y9/09/B3521L00Y-909@1.1.jpg,BORO - Bikini top - black,Banana Moon,FEMALE,womens-clothing-swimwear
-20734,C3841B01N-917,Multi-coloured,60,ALL,https://secure-i1.ztat.net/detail/C3/84/1B/01/N9/17/C3841B01N-917@1.2.jpg,MUSIC - Bikini - multi stripe,Chiemsee,FEMALE,womens-clothing-swimwear
+20734,C3841B01N-917,Multi-coloured,60,ALL,https://secure-i1.ztat.net/detail/C3/84/1B/01/N9/17/C3841B01N-917@1.2.jpg,MUSIC - Bikini - multi stripe,Chiemsee,FEMALE,womens-clothing-swimwear,1
 20735,C3841B01M-917,Multi-coloured,55,ALL,https://secure-i1.ztat.net/detail/C3/84/1B/01/M9/17/C3841B01M-917@1.2.jpg,MUSIC - Bikini - multicoloured,Chiemsee,FEMALE,womens-clothing-swimwear
 20736,BU341B002-505,Turquoise,23,ALL,https://secure-i6.ztat.net/detail/BU/34/1B/00/25/05/BU341B002-505@1.2.jpg,VICHY - Bikini top - turquoise,Buffalo,FEMALE,womens-clothing-swimwear
 20737,2VE41B02E-501,Brown,24,ALL,https://secure-i1.ztat.net/detail/2V/E4/1B/02/E5/01/2VE41B02E-501@1.1.jpg,COUNTRY - Bikini top - brown,Venice Beach,FEMALE,womens-clothing-swimwear
@@ -3579,7 +3571,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20916,S5321K010-002,White,46,ALL,https://secure-i5.ztat.net/detail/S5/32/1K/01/00/02/S5321K010-002@1.1.jpg,HANNA - Vest - weiß,Schiesser Revival,FEMALE,womens-clothing-tops
 20917,S5321D00D-003,White,60,ALL,https://secure-i4.ztat.net/detail/S5/32/1D/00/D0/03/S5321D00D-003@1.1.jpg,ELVIRA - Long sleeved top - white,Schiesser Revival,FEMALE,womens-clothing-tops
 20918,GS121D01R-112,Grey,23,ALL,https://secure-i3.ztat.net/detail/GS/12/1D/01/R1/12/GS121D01R-112@1.1.jpg,BASE DEEP - Basic T-shirt - grey,G-Star,FEMALE,womens-clothing-tops
-20919,VE121D07N-002,White,11,SUMMER,https://secure-i5.ztat.net/detail/VE/12/1D/07/N0/02/VE121D07N-002@1.1.jpg,LUKAS LOVE - Basic T-shirt - optical white,Vero Moda,FEMALE,womens-clothing-tops
+20919,VE121D07N-002,White,11,SUMMER,https://secure-i5.ztat.net/detail/VE/12/1D/07/N0/02/VE121D07N-002@1.1.jpg,LUKAS LOVE - Basic T-shirt - optical white,Vero Moda,FEMALE,womens-clothing-tops,1
 20920,S5321K00C-002,White,46,ALL,https://secure-i5.ztat.net/detail/S5/32/1K/00/C0/02/S5321K00C-002@1.1.jpg,LENA - Basic T-shirt - white,Schiesser Revival,FEMALE,womens-clothing-tops
 20921,S5321K004-802,Black,41,ALL,https://secure-i4.ztat.net/detail/S5/32/1K/00/48/02/S5321K004-802@1.jpg,PAULA - Vest - schwarz,Schiesser Revival,FEMALE,womens-clothing-tops
 20922,S5321D005-802,Black,37,ALL,https://secure-i5.ztat.net/detail/S5/32/1D/00/58/02/S5321D005-802@1.jpg,AGATHE - Vest - schwarz,Schiesser Revival,FEMALE,womens-clothing-tops
@@ -3885,7 +3877,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 21238,LT122A010-953,Blue,60,ALL,https://secure-i3.ztat.net/detail/LT/12/2A/01/09/53/LT122A010-953@12.jpg,TINMAN - Bootcut jeans - dark blue used,LTB,MALE,mens-clothing-jeans
 21239,7F122A00W-909,Black,140,ALL,https://secure-i1.ztat.net/detail/7F/12/2A/00/W9/09/7F122A00W-909@1.1.jpg,SLIMMY - Slim fit jeans - black,7 for all mankind,MALE,mens-clothing-jeans
 21240,HI122A01W-952,Blue,75,ALL,https://secure-i4.ztat.net/detail/HI/12/2A/01/W9/52/HI122A01W-952@20.jpg,WILSON - Straight leg jeans - la mid rigid,Hilfiger Denim,MALE,mens-clothing-jeans
-21241,7F122A00V-502,Blue,160,ALL,https://secure-i6.ztat.net/detail/7F/12/2A/00/V5/02/7F122A00V-502@1.1.jpg,SLIMMY - Slim fit jeans - venice ligh,7 for all mankind,MALE,mens-clothing-jeans
+21241,7F122A00V-502,Blue,160,ALL,https://secure-i6.ztat.net/detail/7F/12/2A/00/V5/02/7F122A00V-502@1.1.jpg,SLIMMY - Slim fit jeans - venice ligh,7 for all mankind,MALE,mens-clothing-jeans,1
 21242,WR122A01B-952,Blue,65,ALL,https://secure-i3.ztat.net/detail/WR/12/2A/01/B9/52/WR122A01B-952@1.1.jpg,ARIZONA STRETCH - Straight leg jeans - burnt blue,Wrangler,MALE,mens-clothing-jeans
 21243,LE222A02J-954,Grey,85,ALL,https://secure-i1.ztat.net/detail/LE/22/2A/02/J9/54/LE222A02J-954@1.1.jpg,511 SLIM - Slim fit jeans - new grey,Levi's®,MALE,mens-clothing-jeans
 21244,WR122A01D-951,Blue,65,ALL,https://secure-i4.ztat.net/detail/WR/12/2A/01/D9/51/WR122A01D-951@1.1.jpg,TEXAS STRETCH - Straight leg jeans - worn broke,Wrangler,MALE,mens-clothing-jeans
@@ -3915,7 +3907,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 21268,LE422A03R-K00,Blue,75,ALL,https://secure-i1.ztat.net/detail/LE/42/2A/03/RK/00/LE422A03R-K00@4.jpg,POWELL - Slim fit jeans - blue stream,Lee,MALE,mens-clothing-jeans
 21269,LT122A01U-952,Blue,60,ALL,https://secure-i3.ztat.net/detail/LT/12/2A/01/U9/52/LT122A01U-952@21.jpg,RODEN - Bootcut jeans - giotto,LTB,MALE,mens-clothing-jeans
 21270,7F122A00U-902,Blue,140,ALL,https://secure-i2.ztat.net/detail/7F/12/2A/00/U9/02/7F122A00U-902@1.1.jpg,SLIMMY - Slim fit jeans - hollywood,7 for all mankind,MALE,mens-clothing-jeans
-21271,LE222A01W-952,Blue,90,ALL,https://secure-i3.ztat.net/detail/LE/22/2A/01/W9/52/LE222A01W-952@1.1.jpg,511 SLIM - Slim fit jeans - rain shower,Levi's®,MALE,mens-clothing-jeans
+21271,LE222A01W-952,Blue,90,ALL,https://secure-i3.ztat.net/detail/LE/22/2A/01/W9/52/LE222A01W-952@1.1.jpg,511 SLIM - Slim fit jeans - rain shower,Levi's®,MALE,mens-clothing-jeans,1
 21272,BU122B001-903,Blue,90,ALL,https://secure-i6.ztat.net/detail/BU/12/2B/00/19/03/BU122B001-903@19.jpg,Straight leg jeans - darkblue,Bugatti,MALE,mens-clothing-jeans
 21273,LE222A034-953,Blue,80,ALL,https://secure-i2.ztat.net/detail/LE/22/2A/03/49/53/LE222A034-953@1.1.jpg,511 SLIM - Slim fit jeans - radio 5,Levi's®,MALE,mens-clothing-jeans
 21274,WR122A02A-952,Blue,65,ALL,https://secure-i3.ztat.net/detail/WR/12/2A/02/A9/52/WR122A02A-952@1.1.jpg,ARIZONA STRETCH - Straight leg jeans - the wanderer,Wrangler,MALE,mens-clothing-jeans
@@ -4057,7 +4049,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 21411,LE222G00P-952,Blue,95,ALL,https://secure-i3.ztat.net/detail/LE/22/2G/00/P9/52/LE222G00P-952@1.1.jpg,THE TRUCKER - Denim jacket - blue,Levi's®,MALE,mens-clothing-jackets
 21412,JA222H01A-K11,Blue,55,ALL,https://secure-i5.ztat.net/detail/JA/22/2H/01/AK/11/JA222H01A-K11@3.jpg,Denim jacket - medium blue denim,Jack & Jones,MALE,mens-clothing-jackets
 21413,JL142B03J-Q11,Black,100,SUMMER,https://secure-i4.ztat.net/detail/JL/14/2B/03/JQ/11/JL142B03J-Q11@3.jpg,JARVIS - Fleece - black,J.LINDEBERG,MALE,mens-clothing-jackets
-21414,SD022G002-Q11,Black,730,ALL,https://secure-i2.ztat.net/detail/SD/02/2G/00/2Q/11/SD022G002-Q11@1.1.jpg,613 - Leather jacket - black,Schott Made in USA,MALE,mens-clothing-jackets
+21414,SD022G002-Q11,Black,730,ALL,https://secure-i2.ztat.net/detail/SD/02/2G/00/2Q/11/SD022G002-Q11@1.1.jpg,613 - Leather jacket - black,Schott Made in USA,MALE,mens-clothing-jackets,1
 21415,AM122G005-304,Red,100,ALL,https://secure-i6.ztat.net/detail/AM/12/2G/00/53/04/AM122G005-304@1.1.jpg,BOMBERS - Light jacket - bordeaux,Schott NYC,MALE,mens-clothing-jackets
 21416,UR622G002-850,Black,33,ALL,https://secure-i6.ztat.net/detail/UR/62/2G/00/28/50/UR622G002-850@1.1.jpg,CONTRAST WINDRUNNER - Summer jacket - black,Urban Classics,MALE,mens-clothing-jackets
 21417,LY222G00B-K11,Blue,100,ALL,https://secure-i2.ztat.net/detail/LY/22/2G/00/BK/11/LY222G00B-K11@6.jpg,Summer jacket - shallow end,Lyle & Scott,MALE,mens-clothing-jackets
@@ -4390,7 +4382,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 21831,TI522F011-K11,Blue,65,ALL,https://secure-i3.ztat.net/detail/TI/52/2F/01/1K/11/TI522F011-K11@8.3.jpg,STEEL SLIM FIT - Shirt - blue,Tiger of Sweden,MALE,mens-clothing-shirts
 21832,TI522F014-002,White,100,ALL,https://secure-i5.ztat.net/detail/TI/52/2F/01/40/02/TI522F014-002@1.1.jpg,STEEL SLIM FIT - Shirt - pure white,Tiger of Sweden,MALE,mens-clothing-shirts
 21833,F1422E005-502,Blue,90,ALL,https://secure-i6.ztat.net/detail/F1/42/2E/00/55/02/F1422E005-502@1.1.jpg,SLIM FIT - Shirt - light blue,Filippa K,MALE,mens-clothing-shirts
-21834,OL422F01C-002,White,45,ALL,https://secure-i4.ztat.net/detail/OL/42/2F/01/C0/02/OL422F01C-002@1.2.jpg,MODERN FIT - Formal shirt - weiss,Olymp Luxor,MALE,mens-clothing-shirts
+21834,OL422F01C-002,White,45,ALL,https://secure-i4.ztat.net/detail/OL/42/2F/01/C0/02/OL422F01C-002@1.2.jpg,MODERN FIT - Formal shirt - weiss,Olymp Luxor,MALE,mens-clothing-shirts,1
 21835,BO122F02U-A11,White,95,ALL,https://secure-i2.ztat.net/detail/BO/12/2F/02/UA/11/BO122F02U-A11@25.jpg,ESLIME - Formal shirt - white,BOSS Orange,MALE,mens-clothing-shirts
 21836,S2922D01C-Q11,Black,32,ALL,https://secure-i3.ztat.net/detail/S2/92/2D/01/CQ/11/S2922D01C-Q11@1.jpg,SLIM FIT - Formal shirt - black,Sir Oliver,MALE,mens-clothing-shirts
 21837,ES422F03Y-802,Black,20,ALL,https://secure-i3.ztat.net/detail/ES/42/2F/03/Y8/02/ES422F03Y-802@1.1.jpg,SLIM FIT - Formal shirt - black,ESPRIT Collection,MALE,mens-clothing-shirts
@@ -4415,7 +4407,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 21856,SU022D000-K11,Blue,45,SUMMER,https://secure-i5.ztat.net/detail/SU/02/2D/00/0K/11/SU022D000-K11@4.1.jpg,GOLDSMITH - Shirt - blue,Soulland,MALE,mens-clothing-shirts
 21857,3SE22F00U-002,White,40,ALL,https://secure-i5.ztat.net/detail/3S/E2/2F/00/U0/02/3SE22F00U-002@1.1.jpg,UNO SUPER SLIM - Formal shirt - white,Seidensticker Uno Super Slim,MALE,mens-clothing-shirts
 21858,S2922D01C-A11,White,32,ALL,https://secure-i6.ztat.net/detail/S2/92/2D/01/CA/11/S2922D01C-A11@2.jpg,Formal shirt - white,Sir Oliver,MALE,mens-clothing-shirts
-21859,ES422F03Y-501,Blue,29,ALL,https://secure-i1.ztat.net/detail/ES/42/2F/03/Y5/01/ES422F03Y-501@1.1.jpg,SLIM FIT - Formal shirt - skyway,ESPRIT Collection,MALE,mens-clothing-shirts
+21859,ES422F03Y-501,Blue,29,ALL,https://secure-i1.ztat.net/detail/ES/42/2F/03/Y5/01/ES422F03Y-501@1.1.jpg,SLIM FIT - Formal shirt - skyway,ESPRIT Collection,MALE,mens-clothing-shirts,1
 21860,SI722D00W-Q11,Black,55,SUMMER,https://secure-i3.ztat.net/detail/SI/72/2D/00/WQ/11/SI722D00W-Q11@4.jpg,Shirt - black,Signum,MALE,mens-clothing-shirts
 21861,SI722F01A-K11,Blue,33,SUMMER,https://secure-i5.ztat.net/detail/SI/72/2F/01/AK/11/SI722F01A-K11@3.jpg,Shirt - blau/weiss,Signum,MALE,mens-clothing-shirts
 21862,BT522F009-A11,White,50,SUMMER,https://secure-i2.ztat.net/detail/BT/52/2F/00/9A/11/BT522F009-A11@5.1.jpg,SKINNY FIT - Shirt - white,Ben Sherman Tailoring,MALE,mens-clothing-shirts
@@ -4672,7 +4664,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 22118,S5322K00A-503,Blue,50,ALL,https://secure-i3.ztat.net/detail/S5/32/2K/00/A5/03/S5322K00A-503@1.jpg,KARL HEINZ - Long sleeved top - indigo,Schiesser Revival,MALE,mens-clothing-t-shirts
 22119,GS1-xzw-0051-99,White,28,ALL,https://secure-i3.ztat.net/detail/GS/1X/ZW/00/51/99/GS1-xzw-0051-99@1.2.jpg,Long sleeved top - white,G-Star,MALE,mens-clothing-t-shirts
 22120,GS1-xzw-0054-99,White,30,ALL,https://secure-i1.ztat.net/detail/GS/1X/ZW/00/54/99/GS1-xzw-0054-99@1.jpg,T-Shirt - white,G-Star,MALE,mens-clothing-t-shirts
-22121,TI522O002-Q11,Black,50,ALL,https://secure-i6.ztat.net/detail/TI/52/2O/00/2Q/11/TI522O002-Q11@3.1.jpg,LEGACY - Basic T-shirt - black,Tiger of Sweden,MALE,mens-clothing-t-shirts
+22121,TI522O002-Q11,Black,50,ALL,https://secure-i6.ztat.net/detail/TI/52/2O/00/2Q/11/TI522O002-Q11@3.1.jpg,LEGACY - Basic T-shirt - black,Tiger of Sweden,MALE,mens-clothing-t-shirts,1
 22122,SE622O00H-Q11,Black,14,ALL,https://secure-i1.ztat.net/detail/SE/62/2O/00/HQ/11/SE622O00H-Q11@1.jpg,Basic T-shirt - black,Selected Homme,MALE,mens-clothing-t-shirts
 22123,TI522O002-K11,Blue,50,ALL,https://secure-i3.ztat.net/detail/TI/52/2O/00/2K/11/TI522O002-K11@1.jpg,LEGACY - Basic T-shirt - light ink,Tiger of Sweden,MALE,mens-clothing-t-shirts
 22124,GS122O00L-C11,Grey,28,ALL,https://secure-i4.ztat.net/detail/GS/12/2O/00/LC/11/GS122O00L-C11@11.jpg,BASE - Long sleeved top - heather,G-Star,MALE,mens-clothing-t-shirts
@@ -5036,8 +5028,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 155,IC221A01O-Q11,Black,32,SUMMER,https://i3.ztat.net/detail/IC/22/1A/01/OQ/11/IC221A01O-Q11@6.1.jpg,X DARL - Trousers - black,ICHI,FEMALE,womens-clothing-trousers,0
 157,OA121A000-Q11,Black,150,SUMMER,https://i1.ztat.net/detail/OA/12/1A/00/0Q/11/OA121A000-Q11@7.jpg,Trousers - schwarz,Oakwood,FEMALE,womens-clothing-trousers,0
 158,1FN21A000-Q00,Black,251,SUMMER,https://i6.ztat.net/detail/1F/N2/1A/00/0Q/00/1FN21A000-Q00@2.jpg,CATWOMAN - Leather trousers - black,Freaky Nation,FEMALE,womens-clothing-trousers,0
-160,OA121A002-909,Black,385,SUMMER,https://i1.ztat.net/detail/OA/12/1A/00/29/09/OA121A002-909@1.1.jpg,asteroid - Leggings - schwarz,Oakwood,FEMALE,womens-clothing-trousers,0
-161,BE821A003-802,Black,85,SUMMER,https://i3.ztat.net/detail/B/E/BE821A003-802@1.jpg,KELLY - Trousers - black,bellybutton,FEMALE,womens-clothing-trousers,0
+160,OA121A002-909,Black,385,SUMMER,https://i1.ztat.net/detail/OA/12/1A/00/29/09/OA121A002-909@1.1.jpg,asteroid - Leggings - schwarz,Oakwood,FEMALE,womens-clothing-trousers,1
 162,ES421A01L-K11,Blue,60,ALL,https://i5.ztat.net/detail/ES/42/1A/01/LK/11/ES421A01L-K11@2.jpg,Trousers - dark navy,ESPRIT Collection,FEMALE,womens-clothing-trousers,0
 163,GS121A08W-Q00,Black,110,SUMMER,https://i1.ztat.net/detail/GS/12/1A/08/WQ/00/GS121A08W-Q00@2.jpg,LYNN SKINNY - Trousers - black,G-Star,FEMALE,womens-clothing-trousers,0
 164,4BE21A03X-K11,Blue,35,SUMMER,https://i6.ztat.net/detail/4B/E2/1A/03/XK/11/4BE21A03X-K11@3.jpg,Trousers - darkblue,Benetton,FEMALE,womens-clothing-trousers,0
@@ -5164,3 +5155,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 288,ON321A0DO-A11,White,20,SUMMER,https://i4.ztat.net/detail/ON/32/1A/0D/OA/11/ON321A0DO-A11@16.jpg,ONLSPRINGA  - Trousers - cloud dancer,ONLY,FEMALE,womens-clothing-trousers,0
 289,ON321A0DP-Q11,Black,26,SUMMER,https://i6.ztat.net/detail/ON/32/1A/0D/PQ/11/ON321A0DP-Q11@2.jpg,ONLMONKEY - Trousers - black,ONLY,FEMALE,womens-clothing-trousers,0
 290,ON321A0DP-A11,White,26,SUMMER,https://i1.ztat.net/detail/ON/32/1A/0D/PA/11/ON321A0DP-A11@14.jpg,ONLMONKEY - Trousers - cloud dancer,ONLY,FEMALE,womens-clothing-trousers,0
+291,OB121A02V-Q11,Black,35,SUMMER,https://i4.ztat.net/detail/OB/12/1A/02/VQ/11/OB121A02V-Q11@6.jpg,ANA BERRY - Leggings - black,Object,FEMALE,womens-clothing-trousers,1
+292,SL321A00G-802,Black,544,WINTER,https://i3.ztat.net/detail/SL/32/1A/00/G8/02/SL321A00G-802@1.1.jpg,Leather trousers - schwarz,SLY 010,FEMALE,womens-clothing-trousers,1
+293,GU121A041-K00,Blue,68,SUMMER,https://i4.ztat.net/detail/GU/12/1A/04/1K/00/GU121A041-K00@1.jpg,INAS - Trousers - blue,Guess,FEMALE,womens-clothing-trousers,1
+294,OA121S000-Q11,Black,84,WINTER,https://i5.ztat.net/detail/OA/12/1S/00/0Q/11/OA121S000-Q11@14.jpg,Leather trousers - black,Oakwood,FEMALE,womens-clothing-trousers,1
+295,DA821A000-A00,White,80,SUMMER,https://i2.ztat.net/detail/DA/82/1A/00/0A/00/DA821A000-A00@7.1.jpg,Trousers - white,Daniel Hechter,FEMALE,womens-clothing-trousers,1
