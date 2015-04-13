@@ -38,22 +38,22 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.COMMA, Value.VILA);
         sSimilarValues.addEdge(Value.COMMA, Value.SELECTED_HOMME);
         sSimilarValues.addEdge(Value.LEVI_S, Value.S_OLIVER);
-        sSimilarValues.addEdge(Value.LEVI_S, Value.NEW_YORKER);
+//        sSimilarValues.addEdge(Value.LEVI_S, Value.NEW_YORKER);
         sSimilarValues.addEdge(Value.LEVI_S, Value.ESPRIT);
         sSimilarValues.addEdge(Value.LEVI_S, Value.SCOTCH_N_SODA);
         sSimilarValues.addEdge(Value.LEVI_S, Value.G_STAR);
         sSimilarValues.addEdge(Value.LEVI_S, Value.PEPE);
-        sSimilarValues.addEdge(Value.PRADA, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.PRADA, Value.LAGERFELD);
-        sSimilarValues.addEdge(Value.PRADA, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.PRADA, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.PRADA, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.PRADA, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.PRADA, Value.GUCCI);
-        sSimilarValues.addEdge(Value.PRADA, Value.VERSACE);
-        sSimilarValues.addEdge(Value.PRADA, Value.CHANEL);
-        sSimilarValues.addEdge(Value.PRADA, Value.BRAX);
-        sSimilarValues.addEdge(Value.PRADA, Value.BOSS_ORANGE);
+//        sSimilarValues.addEdge(Value.PRADA, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.PRADA, Value.LAGERFELD);
+//        sSimilarValues.addEdge(Value.PRADA, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.PRADA, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.PRADA, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.PRADA, Value.TIGER_OF_SWEDEN);
+//        sSimilarValues.addEdge(Value.PRADA, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.PRADA, Value.VERSACE);
+//        sSimilarValues.addEdge(Value.PRADA, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.PRADA, Value.BRAX);
+//        sSimilarValues.addEdge(Value.PRADA, Value.BOSS_ORANGE);
         sSimilarValues.addEdge(Value.MARC_O_POLO, Value.COMMA);
         sSimilarValues.addEdge(Value.MARC_O_POLO, Value.PIER_ONE);
         sSimilarValues.addEdge(Value.MARC_O_POLO, Value.FILIPPA_K);
@@ -63,36 +63,36 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.EVEN_N_ODD, Value.VERO_MODA);
         sSimilarValues.addEdge(Value.ANNA_FIELD, Value.MORE_N_MORE);
         sSimilarValues.addEdge(Value.ANNA_FIELD, Value.RAINS);
-        sSimilarValues.addEdge(Value.INNOCENT, Value.LIVINGDEADSOULS);
-        sSimilarValues.addEdge(Value.INNOCENT, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.INNOCENT, Value.HELLBUNNY);
-        sSimilarValues.addEdge(Value.INNOCENT, Value.SPIRAL);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.PRADA);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.J_CREW);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.OLYMP_LEVEL_5);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.GUCCI);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.CHANEL);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.LACOSTE);
-        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.BOSS_ORANGE);
-        sSimilarValues.addEdge(Value.J_CREW, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.J_CREW, Value.LACOSTE);
-        sSimilarValues.addEdge(Value.J_CREW, Value.BRAX);
+//        sSimilarValues.addEdge(Value.INNOCENT, Value.LIVINGDEADSOULS);
+//        sSimilarValues.addEdge(Value.INNOCENT, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.INNOCENT, Value.HELLBUNNY);
+//        sSimilarValues.addEdge(Value.INNOCENT, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.PRADA);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.J_CREW);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.OLYMP_LEVEL_5);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.LACOSTE);
+//        sSimilarValues.addEdge(Value.RALPH_LAUREN, Value.BOSS_ORANGE);
+//        sSimilarValues.addEdge(Value.J_CREW, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.J_CREW, Value.LACOSTE);
+//        sSimilarValues.addEdge(Value.J_CREW, Value.BRAX);
         sSimilarValues.addEdge(Value.DOCKERS, Value.NAF_NAF);
         sSimilarValues.addEdge(Value.DOCKERS, Value.VOSSEN);
         sSimilarValues.addEdge(Value.MAVI, Value.KAFFE);
         sSimilarValues.addEdge(Value.JACK_N_JONES, Value.URBAN_CLASSICS);
         sSimilarValues.addEdge(Value.OAKWOOD, Value.NAF_NAF);
         sSimilarValues.addEdge(Value.OAKWOOD, Value.ROSEMUNDE);
-        sSimilarValues.addEdge(Value.LAGERFELD, Value.PRADA);
-        sSimilarValues.addEdge(Value.LAGERFELD, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.LAGERFELD, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.LAGERFELD, Value.PRADA);
+//        sSimilarValues.addEdge(Value.LAGERFELD, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.LAGERFELD, Value.C_DIOR);
         sSimilarValues.addEdge(Value.LAGERFELD, Value.SELECTED_HOMME);
         sSimilarValues.addEdge(Value.LAGERFELD, Value.VERSACE);
         sSimilarValues.addEdge(Value.LAGERFELD, Value.SWING);
-        sSimilarValues.addEdge(Value.NIKE, Value.REEBOK);
+//        sSimilarValues.addEdge(Value.NIKE, Value.REEBOK);
         sSimilarValues.addEdge(Value.NIKE, Value.PUMA);
         sSimilarValues.addEdge(Value.NIKE, Value.ADIDAS);
         sSimilarValues.addEdge(Value.KAFFE, Value.MAVI);
@@ -102,26 +102,26 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.PIER_ONE, Value.TIGER_OF_SWEDEN);
         sSimilarValues.addEdge(Value.PIER_ONE, Value.SELECTED_HOMME);
         sSimilarValues.addEdge(Value.PIER_ONE, Value.SWING);
-        sSimilarValues.addEdge(Value.BOOM_BAP, Value.VOLCOM);
-        sSimilarValues.addEdge(Value.H_N_M, Value.CALVIN_KLEIN);
-        sSimilarValues.addEdge(Value.H_N_M, Value.SUPERDRY);
+//        sSimilarValues.addEdge(Value.BOOM_BAP, Value.VOLCOM);
+//        sSimilarValues.addEdge(Value.H_N_M, Value.CALVIN_KLEIN);
+//        sSimilarValues.addEdge(Value.H_N_M, Value.SUPERDRY);
         sSimilarValues.addEdge(Value.BENETTON, Value.VERO_MODA);
-        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.INNOCENT);
-        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.CUPCAKECULT);
-        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.HELLBUNNY);
-        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.INNOCENT);
+//        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.CUPCAKECULT);
+//        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.HELLBUNNY);
+//        sSimilarValues.addEdge(Value.LIVINGDEADSOULS, Value.SPIRAL);
         sSimilarValues.addEdge(Value.TOMMY_HILFIGER, Value.TOM_TAILOR);
         sSimilarValues.addEdge(Value.TOMMY_HILFIGER, Value.CALVIN_KLEIN);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.PRADA);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.PRADA);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.GUCCI);
         sSimilarValues.addEdge(Value.HUGO_BOSS, Value.VERSACE);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.CHANEL);
         sSimilarValues.addEdge(Value.HUGO_BOSS, Value.LACOSTE);
-        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.BRAX);
+//        sSimilarValues.addEdge(Value.HUGO_BOSS, Value.BRAX);
         sSimilarValues.addEdge(Value.HUGO_BOSS, Value.BOSS_ORANGE);
         sSimilarValues.addEdge(Value.SELECTED_FEMME, Value.COMMA);
         sSimilarValues.addEdge(Value.SELECTED_FEMME, Value.PIER_ONE);
@@ -129,32 +129,32 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.SELECTED_FEMME, Value.SELECTED_HOMME);
         sSimilarValues.addEdge(Value.SELECTED_FEMME, Value.SWING);
         sSimilarValues.addEdge(Value.DC, Value.DICKIES);
-        sSimilarValues.addEdge(Value.DC, Value.ETNIES);
+//        sSimilarValues.addEdge(Value.DC, Value.ETNIES);
         sSimilarValues.addEdge(Value.DC, Value.MAZINE);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.PRADA);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.LAGERFELD);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.GUCCI);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.VERSACE);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.CHANEL);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.BRAX);
-        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.BOSS_ORANGE);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.PRADA);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.LAGERFELD);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.TIGER_OF_SWEDEN);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.VERSACE);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.BRAX);
+//        sSimilarValues.addEdge(Value.LOUIS_VUITTON, Value.BOSS_ORANGE);
         sSimilarValues.addEdge(Value.S_OLIVER, Value.LEVI_S);
         sSimilarValues.addEdge(Value.SEIDENSTICKER, Value.RENE_LEZARD);
         sSimilarValues.addEdge(Value.OPUS, Value.VILA);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.PRADA);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.LAGERFELD);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.GUCCI);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.VERSACE);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.SWING);
-        sSimilarValues.addEdge(Value.C_DIOR, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.PRADA);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.LAGERFELD);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.TIGER_OF_SWEDEN);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.VERSACE);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.SWING);
+//        sSimilarValues.addEdge(Value.C_DIOR, Value.CHANEL);
         sSimilarValues.addEdge(Value.WRANGLER, Value.BEN_SHERMAN);
         sSimilarValues.addEdge(Value.ROXY, Value.BILLABONG);
         sSimilarValues.addEdge(Value.NAF_NAF, Value.MORE_N_MORE);
@@ -166,77 +166,77 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.FILIPPA_K, Value.COMMA);
         sSimilarValues.addEdge(Value.FILIPPA_K, Value.MARC_O_POLO);
         sSimilarValues.addEdge(Value.FILIPPA_K, Value.SWING);
-        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.LIVINGDEADSOULS);
-        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.SPIRAL);
-        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.BYE_BYE_KITTY);
-        sSimilarValues.addEdge(Value.FJÄLLRÄVEN, Value.DIESEL);
+//        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.LIVINGDEADSOULS);
+//        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.CUPCAKECULT, Value.BYE_BYE_KITTY);
+//        sSimilarValues.addEdge(Value.FJÄLLRÄVEN, Value.DIESEL);
         sSimilarValues.addEdge(Value.BEN_SHERMAN, Value.WRANGLER);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.INNOCENT);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.LIVINGDEADSOULS);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.CUPCAKECULT);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.HELLBUNNY);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.SPIRAL);
-        sSimilarValues.addEdge(Value.HRLONDON, Value.BYE_BYE_KITTY);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.INNOCENT);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.LIVINGDEADSOULS);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.CUPCAKECULT);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.HELLBUNNY);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.HRLONDON, Value.BYE_BYE_KITTY);
         sSimilarValues.addEdge(Value.RENE_LEZARD, Value.SEIDENSTICKER);
         sSimilarValues.addEdge(Value.RENE_LEZARD, Value.SWING);
-        sSimilarValues.addEdge(Value.NEW_YORKER, Value.LEVI_S);
-        sSimilarValues.addEdge(Value.NEW_YORKER, Value.ESPRIT);
-        sSimilarValues.addEdge(Value.NEW_YORKER, Value.SCOTCH_N_SODA);
-        sSimilarValues.addEdge(Value.NEW_YORKER, Value.PEPE);
+//        sSimilarValues.addEdge(Value.NEW_YORKER, Value.LEVI_S);
+//        sSimilarValues.addEdge(Value.NEW_YORKER, Value.ESPRIT);
+//        sSimilarValues.addEdge(Value.NEW_YORKER, Value.SCOTCH_N_SODA);
+//        sSimilarValues.addEdge(Value.NEW_YORKER, Value.PEPE);
         sSimilarValues.addEdge(Value.JOOP, Value.COMMA);
         sSimilarValues.addEdge(Value.JOOP, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.JOOP, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.JOOP, Value.CHANEL);
         sSimilarValues.addEdge(Value.CONVERSE, Value.ORLEBAR_BROWN);
-        sSimilarValues.addEdge(Value.CONVERSE, Value.ETNIES);
-        sSimilarValues.addEdge(Value.HELLBUNNY, Value.INNOCENT);
-        sSimilarValues.addEdge(Value.HELLBUNNY, Value.LIVINGDEADSOULS);
-        sSimilarValues.addEdge(Value.HELLBUNNY, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.HELLBUNNY, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.CONVERSE, Value.ETNIES);
+//        sSimilarValues.addEdge(Value.HELLBUNNY, Value.INNOCENT);
+//        sSimilarValues.addEdge(Value.HELLBUNNY, Value.LIVINGDEADSOULS);
+//        sSimilarValues.addEdge(Value.HELLBUNNY, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.HELLBUNNY, Value.SPIRAL);
         sSimilarValues.addEdge(Value.TOM_TAILOR, Value.TOMMY_HILFIGER);
         sSimilarValues.addEdge(Value.TOM_TAILOR, Value.CALVIN_KLEIN);
         sSimilarValues.addEdge(Value.TOM_TAILOR, Value.ZALANDO);
-        sSimilarValues.addEdge(Value.DIESEL, Value.FJÄLLRÄVEN);
-        sSimilarValues.addEdge(Value.REEBOK, Value.NIKE);
-        sSimilarValues.addEdge(Value.REEBOK, Value.PUMA);
-        sSimilarValues.addEdge(Value.REEBOK, Value.ADIDAS);
+//        sSimilarValues.addEdge(Value.DIESEL, Value.FJÄLLRÄVEN);
+//        sSimilarValues.addEdge(Value.REEBOK, Value.NIKE);
+//        sSimilarValues.addEdge(Value.REEBOK, Value.PUMA);
+//        sSimilarValues.addEdge(Value.REEBOK, Value.ADIDAS);
         sSimilarValues.addEdge(Value.CAMEL_ACTIVE, Value.MORGAN);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.INNOCENT);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.LIVINGDEADSOULS);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.CUPCAKECULT);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.HELLBUNNY);
-        sSimilarValues.addEdge(Value.SPIRAL, Value.BYE_BYE_KITTY);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.INNOCENT);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.LIVINGDEADSOULS);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.CUPCAKECULT);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.HELLBUNNY);
+//        sSimilarValues.addEdge(Value.SPIRAL, Value.BYE_BYE_KITTY);
         sSimilarValues.addEdge(Value.DICKIES, Value.DC);
         sSimilarValues.addEdge(Value.DICKIES, Value.TWINTIP);
-        sSimilarValues.addEdge(Value.DICKIES, Value.ETNIES);
+//        sSimilarValues.addEdge(Value.DICKIES, Value.ETNIES);
         sSimilarValues.addEdge(Value.DICKIES, Value.LRG);
         sSimilarValues.addEdge(Value.DICKIES, Value.MAZINE);
         sSimilarValues.addEdge(Value.ESPRIT, Value.LEVI_S);
-        sSimilarValues.addEdge(Value.ESPRIT, Value.NEW_YORKER);
+//        sSimilarValues.addEdge(Value.ESPRIT, Value.NEW_YORKER);
         sSimilarValues.addEdge(Value.ESPRIT, Value.SCOTCH_N_SODA);
         sSimilarValues.addEdge(Value.ESPRIT, Value.G_STAR);
         sSimilarValues.addEdge(Value.ESPRIT, Value.PEPE);
-        sSimilarValues.addEdge(Value.OLYMP_LEVEL_5, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.OLYMP_LEVEL_5, Value.RALPH_LAUREN);
         sSimilarValues.addEdge(Value.OLYMP_LEVEL_5, Value.BOSS_ORANGE);
         sSimilarValues.addEdge(Value.TWINTIP, Value.DICKIES);
-        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.PRADA);
+//        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.PRADA);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.MARC_O_POLO);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.PIER_ONE);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.SELECTED_FEMME);
-        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.C_DIOR);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.JOOP);
-        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.GUCCI);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.SELECTED_HOMME);
         sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.SWING);
-        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.TIGER_OF_SWEDEN, Value.CHANEL);
         sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.LEVI_S);
-        sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.NEW_YORKER);
+//        sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.NEW_YORKER);
         sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.ESPRIT);
         sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.G_STAR);
         sSimilarValues.addEdge(Value.SCOTCH_N_SODA, Value.PEPE);
-        sSimilarValues.addEdge(Value.CALVIN_KLEIN, Value.H_N_M);
+//        sSimilarValues.addEdge(Value.CALVIN_KLEIN, Value.H_N_M);
         sSimilarValues.addEdge(Value.CALVIN_KLEIN, Value.TOMMY_HILFIGER);
         sSimilarValues.addEdge(Value.CALVIN_KLEIN, Value.TOM_TAILOR);
         sSimilarValues.addEdge(Value.CALVIN_KLEIN, Value.ZALANDO);
@@ -245,14 +245,14 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.VILA, Value.NAF_NAF);
         sSimilarValues.addEdge(Value.VILA, Value.FORVERT);
         sSimilarValues.addEdge(Value.VOSSEN, Value.DOCKERS);
-        sSimilarValues.addEdge(Value.GUCCI, Value.PRADA);
-        sSimilarValues.addEdge(Value.GUCCI, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.GUCCI, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.GUCCI, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.GUCCI, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.GUCCI, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.GUCCI, Value.VERSACE);
-        sSimilarValues.addEdge(Value.GUCCI, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.PRADA);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.TIGER_OF_SWEDEN);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.VERSACE);
+//        sSimilarValues.addEdge(Value.GUCCI, Value.CHANEL);
         sSimilarValues.addEdge(Value.ORLEBAR_BROWN, Value.CONVERSE);
         sSimilarValues.addEdge(Value.ORLEBAR_BROWN, Value.MAZINE);
         sSimilarValues.addEdge(Value.G_STAR, Value.LEVI_S);
@@ -266,38 +266,38 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.SELECTED_HOMME, Value.TIGER_OF_SWEDEN);
         sSimilarValues.addEdge(Value.SELECTED_HOMME, Value.SWING);
         sSimilarValues.addEdge(Value.SELECTED_HOMME, Value.ROSEMUNDE);
-        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.CUPCAKECULT);
-        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.HRLONDON);
-        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.SPIRAL);
-        sSimilarValues.addEdge(Value.VANS, Value.ETNIES);
+//        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.CUPCAKECULT);
+//        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.HRLONDON);
+//        sSimilarValues.addEdge(Value.BYE_BYE_KITTY, Value.SPIRAL);
+//        sSimilarValues.addEdge(Value.VANS, Value.ETNIES);
         sSimilarValues.addEdge(Value.VANS, Value.CARHARTT);
-        sSimilarValues.addEdge(Value.ETNIES, Value.DC);
-        sSimilarValues.addEdge(Value.ETNIES, Value.CONVERSE);
-        sSimilarValues.addEdge(Value.ETNIES, Value.DICKIES);
-        sSimilarValues.addEdge(Value.ETNIES, Value.VANS);
-        sSimilarValues.addEdge(Value.ETNIES, Value.MAZINE);
-        sSimilarValues.addEdge(Value.VERSACE, Value.PRADA);
+//        sSimilarValues.addEdge(Value.ETNIES, Value.DC);
+//        sSimilarValues.addEdge(Value.ETNIES, Value.CONVERSE);
+//        sSimilarValues.addEdge(Value.ETNIES, Value.DICKIES);
+//        sSimilarValues.addEdge(Value.ETNIES, Value.VANS);
+//        sSimilarValues.addEdge(Value.ETNIES, Value.MAZINE);
+//        sSimilarValues.addEdge(Value.VERSACE, Value.PRADA);
         sSimilarValues.addEdge(Value.VERSACE, Value.LAGERFELD);
         sSimilarValues.addEdge(Value.VERSACE, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.VERSACE, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.VERSACE, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.VERSACE, Value.GUCCI);
-        sSimilarValues.addEdge(Value.VERSACE, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.VERSACE, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.VERSACE, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.VERSACE, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.VERSACE, Value.CHANEL);
         sSimilarValues.addEdge(Value.CARHARTT, Value.VANS);
         sSimilarValues.addEdge(Value.URBAN_CLASSICS, Value.JACK_N_JONES);
-        sSimilarValues.addEdge(Value.SUPERDRY, Value.H_N_M);
+//        sSimilarValues.addEdge(Value.SUPERDRY, Value.H_N_M);
         sSimilarValues.addEdge(Value.LRG, Value.DICKIES);
         sSimilarValues.addEdge(Value.LRG, Value.MAZINE);
         sSimilarValues.addEdge(Value.MAZINE, Value.DC);
         sSimilarValues.addEdge(Value.MAZINE, Value.DICKIES);
         sSimilarValues.addEdge(Value.MAZINE, Value.ORLEBAR_BROWN);
-        sSimilarValues.addEdge(Value.MAZINE, Value.ETNIES);
+//        sSimilarValues.addEdge(Value.MAZINE, Value.ETNIES);
         sSimilarValues.addEdge(Value.MAZINE, Value.LRG);
         sSimilarValues.addEdge(Value.RAINS, Value.ANNA_FIELD);
         sSimilarValues.addEdge(Value.SWING, Value.LAGERFELD);
         sSimilarValues.addEdge(Value.SWING, Value.PIER_ONE);
         sSimilarValues.addEdge(Value.SWING, Value.SELECTED_FEMME);
-        sSimilarValues.addEdge(Value.SWING, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.SWING, Value.C_DIOR);
         sSimilarValues.addEdge(Value.SWING, Value.FILIPPA_K);
         sSimilarValues.addEdge(Value.SWING, Value.RENE_LEZARD);
         sSimilarValues.addEdge(Value.SWING, Value.TIGER_OF_SWEDEN);
@@ -307,80 +307,83 @@ public class Label extends GenericAttribute {
         sSimilarValues.addEdge(Value.MORGAN, Value.ROSEMUNDE);
         sSimilarValues.addEdge(Value.BILLABONG, Value.ROXY);
         sSimilarValues.addEdge(Value.PUMA, Value.NIKE);
-        sSimilarValues.addEdge(Value.PUMA, Value.REEBOK);
+//        sSimilarValues.addEdge(Value.PUMA, Value.REEBOK);
         sSimilarValues.addEdge(Value.PUMA, Value.ADIDAS);
-        sSimilarValues.addEdge(Value.CHANEL, Value.PRADA);
-        sSimilarValues.addEdge(Value.CHANEL, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.CHANEL, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.CHANEL, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.CHANEL, Value.C_DIOR);
-        sSimilarValues.addEdge(Value.CHANEL, Value.JOOP);
-        sSimilarValues.addEdge(Value.CHANEL, Value.TIGER_OF_SWEDEN);
-        sSimilarValues.addEdge(Value.CHANEL, Value.GUCCI);
-        sSimilarValues.addEdge(Value.CHANEL, Value.VERSACE);
-        sSimilarValues.addEdge(Value.CHANEL, Value.LACOSTE);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.PRADA);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.C_DIOR);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.JOOP);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.TIGER_OF_SWEDEN);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.GUCCI);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.VERSACE);
+//        sSimilarValues.addEdge(Value.CHANEL, Value.LACOSTE);
         sSimilarValues.addEdge(Value.VERO_MODA, Value.EVEN_N_ODD);
         sSimilarValues.addEdge(Value.VERO_MODA, Value.BENETTON);
-        sSimilarValues.addEdge(Value.LACOSTE, Value.RALPH_LAUREN);
-        sSimilarValues.addEdge(Value.LACOSTE, Value.J_CREW);
+//        sSimilarValues.addEdge(Value.LACOSTE, Value.RALPH_LAUREN);
+//        sSimilarValues.addEdge(Value.LACOSTE, Value.J_CREW);
         sSimilarValues.addEdge(Value.LACOSTE, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.LACOSTE, Value.CHANEL);
-        sSimilarValues.addEdge(Value.LACOSTE, Value.BRAX);
+//        sSimilarValues.addEdge(Value.LACOSTE, Value.CHANEL);
+//        sSimilarValues.addEdge(Value.LACOSTE, Value.BRAX);
         sSimilarValues.addEdge(Value.LACOSTE, Value.BOSS_ORANGE);
-        sSimilarValues.addEdge(Value.VOLCOM, Value.BOOM_BAP);
+//        sSimilarValues.addEdge(Value.VOLCOM, Value.BOOM_BAP);
         sSimilarValues.addEdge(Value.FORVERT, Value.VILA);
-        sSimilarValues.addEdge(Value.BRAX, Value.PRADA);
-        sSimilarValues.addEdge(Value.BRAX, Value.J_CREW);
-        sSimilarValues.addEdge(Value.BRAX, Value.HUGO_BOSS);
-        sSimilarValues.addEdge(Value.BRAX, Value.LOUIS_VUITTON);
-        sSimilarValues.addEdge(Value.BRAX, Value.LACOSTE);
-        sSimilarValues.addEdge(Value.BRAX, Value.BOSS_ORANGE);
+//        sSimilarValues.addEdge(Value.BRAX, Value.PRADA);
+//        sSimilarValues.addEdge(Value.BRAX, Value.J_CREW);
+//        sSimilarValues.addEdge(Value.BRAX, Value.HUGO_BOSS);
+//        sSimilarValues.addEdge(Value.BRAX, Value.LOUIS_VUITTON);
+//        sSimilarValues.addEdge(Value.BRAX, Value.LACOSTE);
+//        sSimilarValues.addEdge(Value.BRAX, Value.BOSS_ORANGE);
     }
 
 
     public enum Value implements AttributeValue {
-        A0039_ITALY("0039 Italy"),
+        //        A0039_ITALY("0039 Italy"),
         A55_DSL("55 DSL"),
         A7_FOR_ALL_MANKIND("7 for all mankind"),
         AAIKO("Aaiko"),
+        ADD ("ADD"),
         ADIDAS("Adidas"),
-        ALLEGRA_K("Allegra K"),
+        AG_ADRIANO_GOLDSCHMIED("AG Adriano Goldschmied"),
+        //        ALLEGRA_K("Allegra K"),
         ALPHA_INDUSTRIES("Alpha Industries"),
         ALYSI("Alysi"),
         AMERICAN_APPAREL("American Apparel"),
         AMERICAN_COLLEGE("American College"),
         AMERICAN_VINTAGE("American Vintage"),
         ANA_ALCAZAR("Ana Alcazar"),
-        ANDREA_N_RENATO("Andrea & Renato"), 
+        ANDREA_N_RENATO("Andrea & Renato"),
         ANERKJENDT("Anerkjendt"),
         ANNA_FIELD("Anna Field"),
         ANNA_SCOTT("Anna Scott"),
         ANTONY_MORATO("Antony Morato"),
         APRICO("aprico"),
         APRIL_MAY("April May"),
-        ARMOR_LUX("Armor lux"),
-        ARMY_OF_ME("Army of Me"), 
+        //        ARMOR_LUX("Armor lux"),
+        ARMY_OF_ME("Army of Me"),
         ATELIER_GARDEUR("Atelier Gardeur"),
         BAMBAM("BamBam"),
         BANANA_MOON("Banana Moon"),
         BCBGENERATION("BCBGeneration"),
         BEACH_PANTIES("Beach Panties"),
         BELLFIELD("Bellfield"),
-        BELLYBUTTON("bellybutton"),
+        //        BELLYBUTTON("bellybutton"),
         BEN_SHERMAN("Ben Sherman"),
         BENCH("Bench"),
         BENETTON("Benetton"),
         BEST_MOUNTAIN("Best Mountain"),
+        BIK_BOK("Bik Bok"),
         BIKINI_BAR("Bikini Bar"),
         BILLABONG("Billabong"),
         BITCHING_N_JUNKFOOD("Bitching & Junkfood"),
         BJOERN_BORG("Björn Borg"),
         BOOB_DESIGN("Boob Design"),
-        BOOM_BAP("Boom Bap"),
+        //        BOOM_BAP("Boom Bap"),
         BOSS_ORANGE("BOSS Orange"),
         BOXEUR_DES_RUES("Boxeur Des Rues"),
         BP_STUDIO("BP Studio"),
-        BRAX("Brax"),
+        //        BRAX("Brax"),
         BREAD_N_BOXERS("Bread & Boxers"),
         BRIGITTE_BARDOT("Brigitte Bardot"),
         BRIXTOL("Brixtol"),
@@ -393,19 +396,19 @@ public class Label extends GenericAttribute {
         BUGATTI("Bugatti"),
         BURTON("Burton"),
         BYBLOS("Byblos"),
-        BYE_BYE_KITTY("Bye bye Kitty"),
-        C_DIOR("C. Dior"),
+        //        BYE_BYE_KITTY("Bye bye Kitty"),
+//        C_DIOR("C. Dior"),
         CARHARTT("Carhartt"),
         CALANDO("CALANDO"),
-        CALVIN_KLEIN("Calvin Klein"), 
+        CALVIN_KLEIN("Calvin Klein"),
         CAMEL_ACTIVE("camel active"),
         CANADIAN_CLASSICS("Canadian Classics"),
-        CECEBA("Ceceba"), 
+        CECEBA("Ceceba"),
         CELIO("CELIO"),
         CENTZS("CENTŽS"),
         CENTS("CENT´S"),
         CHAMPION("Champion"),
-        CHANEL("Chanel"),
+        //        CHANEL("Chanel"),
         CHEAP_MONDAY("Cheap Monday"),
         CHEVIGNON("Chevignon"),
         CHIEMSEE("Chiemsee"),
@@ -417,22 +420,22 @@ public class Label extends GenericAttribute {
         CMP_F_LLI_CAMPAGNOLO("CMP F.lli Campagnolo"),
         CO("Co"),
         COAST("Coast"),
-        COLUMBIA("Columbia"), 
+        COLUMBIA("Columbia"),
         COMMA("comma,"),
         CONVERSE("Converse"),
         CREAM("Cream"),
         CROSS_JEANSWEAR("Cross Jeanswear"),
-        CUPCAKECULT("Cupcakecult"),
+        //        CUPCAKECULT("Cupcakecult"),
         CRAGHOPPERS("Craghoppers"),
         CRIMINAL_DAMAGE("Criminal Damage"),
         CULTURE("Culture"),
         D_GNAK("D.GNAK"),
         DAGMAR("Dagmar"),
-        DALE_OF_NORWAY("Dale of Norway"),
+        //        DALE_OF_NORWAY("Dale of Norway"),
         DANIEL_HECHTER("Daniel Hechter"),
         DANTE6("Dante6"),
         DC("DC"),
-        DENIM("Denim"),
+        //        DENIM("Denim"),
         DEPT("DEPT"),
         DERBE("Derbe"),
         DEREK_LAM_10_CROSBY("Derek Lam 10 Crosby"),
@@ -449,37 +452,40 @@ public class Label extends GenericAttribute {
         DUCA_DEL_COSMA("Duca Del Cosma"),
         ELEVEN_PARIS("Eleven Paris"),
         ELEMENT("Element"),
+        ELISABETTA_FRANCHI("Elisabetta Franchi"),
         ELVINE("Elvine"),
         EMILY_VAN_DEN_BERGH("Emily van den Bergh"),
         EMOI_EN_PLUS("Emoi en Plus"),
-        ESCADA("Escada"), 
+        ESCADA("Escada"),
         ESPRIT("Esprit"),
-        ESSENTIEL_ANTWERP("Essentiel Antwerp"),
-        ETERNA("Eterna"), 
-        ETNIES("Etnies"),
+        //        ESSENTIEL_ANTWERP("Essentiel Antwerp"),
+        ETERNA("Eterna"),
+        //        ETNIES("Etnies"),
         EVEN_N_ODD("Even&Odd"),
-        EVISU("Evisu"), 
-        EXPRESSO("Expresso"), 
-        EZEKIEL("Ezekiel"), 
+        EVISU("Evisu"),
+        EXPRESSO("Expresso"),
+        EZEKIEL("Ezekiel"),
         FAME_ON_YOU_PARIS("FAME ON YOU PARIS"),
         FARAH_VINTAGE("Farah Vintage"),
         FEVER_LONDON("Fever London"),
         FILIPPA_K("Filippa K"),
-        FIRETRAP("Firetrap"), 
-        FJÄLLRÄVEN("Fjällräven"),
+        FIVEUNITS("Fiveunits"),
+        FIRETRAP("Firetrap"),
+        //        FJÄLLRÄVEN("Fjällräven"),
         FLOWERS_FOR_FRIENDS("flowers for friends"),
-        FOREVER_21("Forever 21"),
+        //        FOREVER_21("Forever 21"),
         FORVERT("Forvert"),
         FRAAS("Fraas"),
         FRACOMINA("Fracomina"),
         FRANCIS_LEON("Francis Leon"),
-        FRANKIE_GARAGE("Frankie Garage"), 
+        //        FRANKIE_GARAGE("Frankie Garage"),
         FRANKLIN_N_MARSHALL("Franklin & Marshall"),
         FREAKY_NATION("Freaky Nation"),
         FREE_PEOPLE("Free People"),
         FREEMAN_T_PORTER("Freeman T. Porter"),
+        FRENCH_CONNECTION("French Connection"),
         FRIEDA_N_FREDDIES("Frieda & Freddies"),
-        FROCK_AND_FRILL("Frock and Frill"),
+        //        FROCK_AND_FRILL("Frock and Frill"),
         G_STAR("G-Star"),
         GAASTRA("Gaastra"),
         GANT("Gant"),
@@ -490,25 +496,25 @@ public class Label extends GenericAttribute {
         GIPSY("Gipsy"),
         GLAMOROUS("Glamorous"),
         GLOBE("Globe"),
-        GLOVERALL("Gloverall"), 
+        GLOVERALL("Gloverall"),
         GOOSECRAFT("Goosecraft"),
-        GORE_RUNNING_WEAR("Gore Running Wear"),
+        //        GORE_RUNNING_WEAR("Gore Running Wear"),
         GSUS_SINDUSTRIES("Gsus sindustries"),
-        GUCCI("Gucci"),
+        //        GUCCI("Gucci"),
         GUESS("Guess"),
         GWYNEDDS("Gwynedds"),
-        H_N_M("H & M"),
+        //        H_N_M("H & M"),
         HAGLOEFS("Haglöfs"),
         HAMAKI_HO("Hamaki-Ho"),
         HANRO("Hanro"),
         HARDY_AMIES("Hardy Amies"),
         HARRINGTON("HARRINGTON"),
-        HELLBUNNY("Hellbunny"),
+        //        HELLBUNNY("Hellbunny"),
         HELLY_HANSEN("Helly Hansen"),
         HETREGO("Hetregó"),
         HOM("HOM"),
-        HOODLAMB("Hoodlamb"),
-        HRLONDON("Hrlondon"),
+        //        HOODLAMB("Hoodlamb"),
+//        HRLONDON("Hrlondon"),
         HUGO_BOSS("Hugo Boss"),
         HUMAN_SCALES("Human Scales"),
         HURLEY("Hurley"),
@@ -518,10 +524,10 @@ public class Label extends GenericAttribute {
         ICHI("ICHI"),
         IKKS("IKKS"),
         INDI_N_COLD("Indi & Cold"),
-        INNOCENT("Innocent"),
+        //        INNOCENT("Innocent"),
         INWEAR("InWear"),
         IVKO("Ivko"),
-        J_CREW("J Crew"),
+        //        J_CREW("J Crew"),
         J_LINDEBERG("J.LINDEBERG"),
         JACK_WOLFSKIN("Jack Wolfskin"),
         JACK_N_JONES("Jack & Jones"),
@@ -529,7 +535,7 @@ public class Label extends GenericAttribute {
         JEFF("Jeff"),
         JOCKEY("Jockey"),
         JOFAMA("Jofama"),
-        JOHN_VARVATOS_STAR_USA("John Varvatos Star U.S.A."), 
+        JOHN_VARVATOS_STAR_USA("John Varvatos Star U.S.A."),
         JOOP("JOOP!"),
         JUNAROSE("Junarose"),
         JUST_CAVALLI("Just Cavalli"),
@@ -545,7 +551,7 @@ public class Label extends GenericAttribute {
         KILIAN_KERNER_SENSES("Kilian Kerner Senses"),
         KING_LOUIE("King Louie"),
         KIOMI("KIOMI"),
-        KIWI_SAINT_TROPEZ("Kiwi Saint Tropez"),
+        //        KIWI_SAINT_TROPEZ("Kiwi Saint Tropez"),
         KNOWLEDGE_COTTON_APPAREL("Knowledge Cotton Apparel"),
         KOOKAI("Kookai"),
         KORINTAGE_BY_SERGE_PARIENTE("Korintage by Serge Pariente"),
@@ -562,28 +568,28 @@ public class Label extends GenericAttribute {
         LES_ECLAIRES_BORN_IN_FRANCE("Les Eclaires Born in France"),
         LEVI_S("Levi's"),
         LIEBESKIND("Liebeskind"),
-        LIGHTNING_BOLT("Lightning Bolt"), 
-        LINGADORE("LingaDore"), 
+        LIGHTNING_BOLT("Lightning Bolt"),
+        LINGADORE("LingaDore"),
         LIPSY("Lipsy"),
         LIST("List"),
         LITTLE_MARCEL("Little Marcel"),
         LITTLE_MISTRESS("Little Mistress"),
         LITTLE_WHITE_LIES("Little White Lies"),
         LIU_JO_JEANS("Liu Jo Jeans"),
-        LIVIA("Livia"), 
-        LIVINGDEADSOULS("Livingdeadsouls"),
+        LIVIA("Livia"),
+        //        LIVINGDEADSOULS("Livingdeadsouls"),
         LJUNG("Ljung"),
         LK_BENNETT("LK Bennett"),
         LOGOSHIRT("LOGOSHIRT"),
         LOREAK_MENDIAN("Loreak Mendian"),
         LOUCHE("Louche"),
-        LOUIS_VUITTON("Louis Vuitton"),
+        //        LOUIS_VUITTON("Louis Vuitton"),
         LRG("LRG"),
         LTB("LTB"),
         LYLE_N_SCOTT("Lyle & Scott"),
         MADS_NORGAARD("Mads Nørgaard"),
-        MAKIA("Makia"), 
-        MAMA_LICIOUS("Mama Licious"),
+        MAKIA("Makia"),
+        //        MAMA_LICIOUS("Mama Licious"),
         MANGANO("Mangano"),
         MARC_O_POLO("Marc O'Polo"),
         MARCIANO_GUESS("MARCIANO GUESS"),
@@ -597,24 +603,25 @@ public class Label extends GenericAttribute {
         MBYM("mbyM"),
         MCGREGOR("McGregor"),
         MELTIN_POT("Meltin Pot"),
-        MERC("Merc"), 
+        MERC("Merc"),
         MEXX("Mexx"),
         MICHAEL_KORS("Michael Kors"),
-        MILLET("Millet"), 
+        MILLET("Millet"),
         MINIMUM("Minimum"),
         MINUS("Minus"),
-        MISS_MISS("Miss Miss"),
+        //        MISS_MISS("Miss Miss"),
         MISTER_MARCEL("Mister Marcel"),
         MITCHELL_N_NESS("Mitchell & Ness"),
         MKT_STUDIO("MKT Studio"),
-	    MODSTROEM("Modström"),
+        MODSTROEM("Modström"),
         MOLLY_BRACKEN("Molly Bracken"),
-        MOM2MOM("Mom2moM"),
+        //        MOM2MOM("Mom2moM"),
         MORE_N_MORE("More & More"),
         MORGAN("Morgan"),
         MORRIS("Morris"),
-	    MOEVE("Möve"),
-	    MUSTANG("Mustang"),
+        MOS_MOSH("Mos Mosh"),
+        MOEVE("Möve"),
+        MUSTANG("Mustang"),
         MUUBAA("muubaa"),
         MYMO("myMo"),
         NAF_NAF("NAF NAF"),
@@ -624,28 +631,28 @@ public class Label extends GenericAttribute {
         NEEDLE_N_THREAD("Needle & Thread"),
         NELL_N_ME("Nell & Me"),
         NEW_LOOK("New Look"),
-        NEW_YORKER("New Yorker"),
+        //        NEW_YORKER("New Yorker"),
         NIKE("Nike"),
         NIKITA("Nikita"),
         NIXON("Nixon"),
         NOA_NOA("Noa Noa"),
-        NOISY_MAY("Noisy May"), 
-        NOPPIES("Noppies"),
-        NUDIE("Nudie"), 
+        NOISY_MAY("Noisy May"),
+        //        NOPPIES("Noppies"),
+        NUDIE("Nudie"),
         NUEMPH("Nümph"),
         O_2ND("O'2nd"),
         O_NEILL("O'Neill"),
         OAKLEY("Oakley"),
         OAKWOOD("Oakwood"),
         OBJECT("Object"),
-        ODLO("ODLO"), 
+        ODLO("ODLO"),
         OLYMP_LEVEL_5("Olymp Level 5"),
         OLYMP_LUXOR("Olymp Luxor"),
         ONE_GREEN_ELEPHANT("One Green Elephant"),
-        ONEPIECE("Onepiece"), 
+        ONEPIECE("Onepiece"),
         ONLY("ONLY"),
         ONLY_N_SONS("Only & Sons"),
-        OPENING_CEREMONY("Opening Ceremony"),
+        //        OPENING_CEREMONY("Opening Ceremony"),
         OPUS("Opus"),
         ORIGINAL_PENGUIN("Original Penguin"),
         ORLEBAR_BROWN("Orlebar Brown"),
@@ -662,25 +669,25 @@ public class Label extends GenericAttribute {
         PIECES("Pieces"),
         PIER_ONE("Pier One"),
         PIERRE_BALMAIN("Pierre Balmain"),
-        PRADA("Prada"),
+        //        PRADA("Prada"),
         PRAIO("Praio"),
         PRINCESS_GOES_HOLLYWOOD("Princess goes Hollywood"),
         PUMA("Puma"),
-        QUEEN_MUM("Queen Mum"),
+        //        QUEEN_MUM("Queen Mum"),
         QUIKSILVER("Quiksilver"),
         R95TH("R95th"),
         RAGWEAR("Ragwear"),
-        RALPH_LAUREN("Ralph Lauren"),
+        //        RALPH_LAUREN("Ralph Lauren"),
         RAINS("Rains"),
         REDSKINS("Redskins"),
         REDSOUL("REDSOUL"),
-        REEBOK("Reebok"),
-        REELL("REELL"), 
+        //        REEBOK("Reebok"),
+        REELL("REELL"),
         REGATTA("Regatta"),
         RELIGION("Religion"),
         RELISH("Relish"),
         RENE_DERHY("René Derhy"),
-	    RENE_LEZARD("René Lezard"),
+        RENE_LEZARD("René Lezard"),
         REPEAT("Repeat"),
         REPLAY("Replay"),
         RESTEROEDS("Resteröds"),
@@ -690,6 +697,7 @@ public class Label extends GenericAttribute {
         RIVER_ISLAND("River Island"),
         ROBINSON_LES_BAINS("Robinson Les Bains"),
         ROCKANDBLUE("ROCKANDBLUE"),
+        RODEBJER("Rodebjer"),
         ROSE_A_POIS("Rosé a Pois"),
         ROSEMUNDE("Rosemunde"),
         ROXY("Roxy"),
@@ -704,16 +712,17 @@ public class Label extends GenericAttribute {
         SCOTCH_N_SODA("Scotch & Soda"),
         SEAFOLLY("Seafolly"),
         SECOND_FEMALE("Second Female"),
-        SEE_U_SOON("See u Soon"), 
+        SEE_U_SOON("See u Soon"),
         SELECTED_FEMME("Selected Femme"),
         SELECTED_HOMME("Selected Homme"),
         SEIDENSTICKER("Seidensticker"),
         SERGE_BLANCO("Serge Blanco"),
         SET("SET"),
-        SHINE_ORIGINAL("Shine Original"),
+        //        SHINE_ORIGINAL("Shine Original"),
         SIGNUM("Signum"),
         SILVIAN_HEACH("Silvian Heach"),
         SISLEY("Sisley"),
+        SLY_010("SLY 010"),
         SMASH("Smash"),
         SOAKED_IN_LUXURY("Soaked in Luxury"),
         SOFT_REBELS("Soft Rebels"),
@@ -722,7 +731,7 @@ public class Label extends GenericAttribute {
         SOULLAND("Soulland"),
         SOYACONCEPT("Soyaconcept"),
         SPARKZ("Sparkz"),
-        SPIRAL("Spiral"),
+        //        SPIRAL("Spiral"),
         SPOOKS("Spooks"),
         SPORTALM("Sportalm"),
         ST_EMILE("St. Emile"),
@@ -732,8 +741,9 @@ public class Label extends GenericAttribute {
         STRAND("Strand"),
         SUBLEVEL("Sublevel"),
         SUNCOO("Suncoo"),
+        SUNSEEKER("Sunseeker"),
         SUNSPEL("Sunspel"),
-        SUPERDRY("Superdry"),
+        //        SUPERDRY("Superdry"),
         SUPERTRASH("Supertrash"),
         SWEET_PANTS("Sweet Pants"),
         SWEET_YEARS("Sweet Years"),
@@ -754,6 +764,7 @@ public class Label extends GenericAttribute {
         TOM_JOULE("Tom Joule"),
         TOM_TAILOR("Tom Tailor"),
         TOMMY_HILFIGER("Tommy Hilfiger"),
+        TRAMONTANA("Tramontana"),
         TRUE_RELIGION("True Religion"),
         TWENTY8TWELVE("Twenty8Twelve"),
         TWINTIP("TWINTIP"),
@@ -770,7 +781,7 @@ public class Label extends GenericAttribute {
         VENICE_BEACH("Venice Beach"),
         VERSACE("Versace"),
         VERO_MODA("Vero Moda"),
-        VERONIQUE_BRANQUINHO("Veronique Branquinho"),
+        //        VERONIQUE_BRANQUINHO("Veronique Branquinho"),
         VILA("Vila"),
         VOI_JEANS("Voi Jeans"),
         VOLCOM("Volcom"),
