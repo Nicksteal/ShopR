@@ -324,6 +324,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17399,SU621I00U-K11,Blue,34,WINTER,https://secure-i4.ztat.net/detail/SU/62/1I/00/UK/11/SU621I00U-K11@14.jpg,Jumper - blue,Sublevel,FEMALE,womens-clothing-hoodies
 17400,SU621I00U-B11,Beige,27,WINTER,https://secure-i1.ztat.net/detail/SU/62/1I/00/UB/11/SU621I00U-B11@14.jpg,Jumper - beige,Sublevel,FEMALE,womens-clothing-hoodies
 17401,DS821J009-C11,Grey,27,WINTER,https://secure-i3.ztat.net/detail/DS/82/1J/00/9C/11/DS821J009-C11@2.jpg,NIXIE - Hoodie - grey,Desires,FEMALE,womens-clothing-hoodies
+17402,BX329J000-K12,Blue,50,WINTER,https://secure-i2.ztat.net/detail/BX/32/9J/00/0K/12/BX329J000-K12@21.jpg,Hoodie - blue,Boob Design,FEMALE,womens-clothing-hoodies
 17403,TW421J01E-K11,Blue,19,WINTER,https://secure-i2.ztat.net/detail/TW/42/1J/01/EK/11/TW421J01E-K11@14.jpg,Hoodie - dark blue,TWINTIP,FEMALE,womens-clothing-hoodies
 17404,ON321J07F-G11,Red,22,WINTER,https://secure-i5.ztat.net/detail/ON/32/1J/07/FG/11/ON321J07F-G11@14.jpg,ASHTON - Hoodie - tawny port,ONLY,FEMALE,womens-clothing-hoodies
 17405,TW421J015-Q11,Black,25,WINTER,https://secure-i5.ztat.net/detail/TW/42/1J/01/5Q/11/TW421J015-Q11@13.jpg,Hoodie - black,TWINTIP,FEMALE,womens-clothing-hoodies
@@ -364,6 +365,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17440,FR321J01R-A11,Beige,55,WINTER,https://secure-i3.ztat.net/detail/FR/32/1J/01/RA/11/FR321J01R-A11@2.jpg,Hoodie - beige,Franklin & Marshall,FEMALE,womens-clothing-hoodies
 17441,EV421J03Q-C11,Grey,17,WINTER,https://secure-i5.ztat.net/detail/EV/42/1J/03/QC/11/EV421J03Q-C11@15.jpg,Hoodie - grey melange,Even&Odd,FEMALE,womens-clothing-hoodies
 17442,2NA21J042-C11,Grey,65,WINTER,https://secure-i3.ztat.net/detail/2N/A2/1J/04/2C/11/2NA21J042-C11@14.1.jpg,FROTZELINCHEN XII - Hoodie - grey,Naketano,FEMALE,womens-clothing-hoodies
+17443,BX329J000-G11,Red,55,WINTER,https://secure-i1.ztat.net/detail/BX/32/9J/00/0G/11/BX329J000-G11@21.jpg,Hoodie - red,Boob Design,FEMALE,womens-clothing-hoodies
+17444,BX329J000-J11,Pink,55,WINTER,https://secure-i4.ztat.net/detail/BX/32/9J/00/0J/11/BX329J000-J11@21.jpg,Hoodie - pink,Boob Design,FEMALE,womens-clothing-hoodies
 17445,BE621J03F-C11,Grey,42,WINTER,https://secure-i3.ztat.net/detail/BE/62/1J/03/FC/11/BE621J03F-C11@14.jpg,YOPORT - Hoodie - stormcloud marl,Bench,FEMALE,womens-clothing-hoodies
 17446,TW421J01J-Q11,Black,29,WINTER,https://secure-i3.ztat.net/detail/TW/42/1J/01/JQ/11/TW421J01J-Q11@14.jpg,Hoodie - black,TWINTIP,FEMALE,womens-clothing-hoodies
 17447,V1921J009-C11,Grey,32,WINTER,https://secure-i3.ztat.net/detail/V1/92/1J/00/9C/11/V1921J009-C11@2.jpg,Hoodie - grey,Volcom,FEMALE,womens-clothing-hoodies
@@ -590,6 +593,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 17669,B2521I02M-602,Green,34,WINTER,https://secure-i5.ztat.net/detail/B2/52/1I/02/M6/02/B2521I02M-602@1.1.jpg,Jumper - sapin,Best Mountain,FEMALE,womens-clothing-jumpers
 17670,S7021I01H-304,Red,34,WINTER,https://secure-i6.ztat.net/detail/S7/02/1I/01/H3/04/S7021I01H-304@1.1.jpg,Jumper - red,Suncoo,FEMALE,womens-clothing-jumpers
 17671,S3621I028-909,Black,28,WINTER,https://secure-i1.ztat.net/detail/S3/62/1I/02/89/09/S3621I028-909@1.1.jpg,Jumper - black,See u Soon,FEMALE,womens-clothing-jumpers
+17672,BX329J000-Q11,Black,60,ALL,https://secure-i1.ztat.net/detail/BX/32/9J/00/0Q/11/BX329J000-Q11@1.jpg,Sweatshirt - black,Boob Design,FEMALE,womens-clothing-sweatshirts
 17674,UR621J002-850,Black,34,ALL,https://secure-i5.ztat.net/detail/UR/62/1J/00/28/50/UR621J002-850@9.jpg,Light jacket - black/white,Urban Classics,FEMALE,womens-clothing-sweatshirts
 17675,EV421I02N-214,Orange,29,ALL,https://secure-i6.ztat.net/detail/EV/42/1I/02/N2/14/EV421I02N-214@1.1.jpg,Tracksuit top - apricot melange,Even&Odd,FEMALE,womens-clothing-sweatshirts
 17676,UR621J003-802,Black,25,ALL,https://secure-i3.ztat.net/detail/UR/62/1J/00/38/02/UR621J003-802@1.1.jpg,Tracksuit top - black,Urban Classics,FEMALE,womens-clothing-sweatshirts
@@ -2600,6 +2604,8 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 19862,V1021C0CW-C11,Grey,28,ALL,https://secure-i2.ztat.net/detail/V1/02/1C/0C/WC/11/V1021C0CW-C11@12.jpg,VINAJA - Jersey dress - light grey melange,Vila,FEMALE,womens-clothing-dresses
 19863,V1021C0CW-Q11,Black,28,ALL,https://secure-i6.ztat.net/detail/V1/02/1C/0C/WQ/11/V1021C0CW-Q11@12.jpg,VINAJA - Jersey dress - black,Vila,FEMALE,womens-clothing-dresses
 19865,M5821C047-Q11,Black,75,ALL,https://secure-i4.ztat.net/detail/M5/82/1C/04/7Q/11/M5821C047-Q11@14.jpg,Jumper dress - black,More & More,FEMALE,womens-clothing-dresses
+19866,BX329F00C-Q11,Black,65,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/CQ/11/BX329F00C-Q11@9.jpg,Jersey dress - black/brilliant,Boob Design,FEMALE,womens-clothing-dresses
+19867,BX329F00B-Q11,Black,70,ALL,https://secure-i2.ztat.net/detail/BX/32/9F/00/BQ/11/BX329F00B-Q11@8.jpg,Jersey dress - black,Boob Design,FEMALE,womens-clothing-dresses
 19868,V1021C09C-K12,Blue,35,SUMMER,https://secure-i2.ztat.net/detail/V1/02/1C/09/CK/12/V1021C09C-K12@13.jpg,CORSAGE - Cocktail dress / Party dress - total eclipse,Vila,FEMALE,womens-clothing-dresses
 19869,CO121C03O-B11,Beige,80,SUMMER,https://secure-i1.ztat.net/detail/CO/12/1C/03/OB/11/CO121C03O-B11@14.jpg,Summer dress - beige,"comma,",FEMALE,womens-clothing-dresses
 19870,S2921C08M-Q11,Black,80,ALL,https://secure-i2.ztat.net/detail/S2/92/1C/08/MQ/11/S2921C08M-Q11@14.2.jpg,Jersey dress - black,s.Oliver,FEMALE,womens-clothing-dresses
@@ -2918,6 +2924,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20211,ON321A08Q-953,Blue,27,ALL,https://secure-i4.ztat.net/detail/ON/32/1A/08/Q9/53/ON321A08Q-953@10.jpg,ULTIMATE - Slim fit jeans - dark blue denim,ONLY,FEMALE,womens-clothing-jeans
 20212,CI221N002-K11,Blue,200,ALL,https://secure-i5.ztat.net/detail/CI/22/1N/00/2K/11/CI221N002-K11@4.1.jpg,AVA - Straight leg jeans - blue denim,Citizens of Humanity,FEMALE,womens-clothing-jeans
 20213,SU521A01C-802,Black,55,ALL,https://secure-i3.ztat.net/detail/SU/52/1A/01/C8/02/SU521A01C-802@1.1.jpg,PEPPY - Slim fit jeans - black,Supertrash,FEMALE,womens-clothing-jeans
+20214,BX329A000-K11,Blue,50,ALL,https://secure-i3.ztat.net/detail/BX/32/9A/00/0K/11/BX329A000-K11@5.jpg,Slim fit jeans - washed blue,Boob Design,FEMALE,womens-clothing-jeans
 20215,ED121N009-K11,Blue,39,ALL,https://secure-i4.ztat.net/detail/ED/12/1N/00/9K/11/ED121N009-K11@7.jpg,Bootcut jeans - dark stone,edc by Esprit,FEMALE,womens-clothing-jeans
 20216,CI221A01I-K00,Blue,185,ALL,https://secure-i6.ztat.net/detail/CI/22/1A/01/IK/00/CI221A01I-K00@1.3.jpg,AVEDON - Slim fit jeans - denim blue,Citizens of Humanity,FEMALE,womens-clothing-jeans
 20217,ED121N006-K12,Blue,29,ALL,https://secure-i3.ztat.net/detail/ED/12/1N/00/6K/12/ED121N006-K12@2.jpg,Slim fit jeans - rinse,edc by Esprit,FEMALE,womens-clothing-jeans
@@ -3125,6 +3132,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 20444,MO421B00I-Q12,Black,18,ALL,https://secure-i2.ztat.net/detail/MO/42/1B/00/IQ/12/MO421B00I-Q12@2.jpg,TUTTI - Mini skirt - black,Modström,FEMALE,womens-clothing-skirts
 20445,ZA821B009-Q11,Black,17,ALL,https://secure-i1.ztat.net/detail/ZA/82/1B/00/9Q/11/ZA821B009-Q11@2.jpg,A-line skirt - black,Zalando Essentials,FEMALE,womens-clothing-skirts
 20446,CS029E003-M11,Green,43,SUMMER,https://secure-i3.ztat.net/detail/CS/02/9E/00/3M/11/CS029E003-M11@1.2.jpg,Denim skirt - green,Christoff,FEMALE,womens-clothing-skirts
+20447,BX329E000-Q11,Black,38,ALL,https://secure-i5.ztat.net/detail/BX/32/9E/00/0Q/11/BX329E000-Q11@6.3.jpg,ONCE-ON-NEVER-OFF - Pencil skirt - black,Boob Design,FEMALE,womens-clothing-skirts
 20448,ES421B02C-Q11,Black,55,ALL,https://secure-i2.ztat.net/detail/ES/42/1B/02/CQ/11/ES421B02C-Q11@12.jpg,Pleated skirt - black,ESPRIT Collection,FEMALE,womens-clothing-skirts
 20449,AN621B020-Q11,Black,17,WINTER,https://secure-i2.ztat.net/detail/AN/62/1B/02/0Q/11/AN621B020-Q11@1.1.jpg,Pencil skirt - black/white,Anna Field,FEMALE,womens-clothing-skirts
 20450,PC721B00C-Q11,Black,42,SUMMER,https://secure-i2.ztat.net/detail/PC/72/1B/00/CQ/11/PC721B00C-Q11@7.1.jpg,RAVENNA - Mini skirt - carbon,Opus,FEMALE,womens-clothing-skirts
