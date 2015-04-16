@@ -1,699 +1,699 @@
-ItemID,TimeOfTheDay,DayOfTheWeek,Temperature,Weather,Company
-1989,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
+1985,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
 106,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-1723,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-2149,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-3530,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-1074,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-4170,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-776,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-2187,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-3480,Afternoon,Workday,> 30° C,Raining,Alone
-775,Afternoon,Workday,> 30° C,Raining,Alone
-4854,Afternoon,Workday,> 30° C,Raining,Alone
-563,Afternoon,Workday,> 30° C,Raining,Alone
+1719,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+2145,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+3522,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+1070,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+4162,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+772,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+2183,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+3472,Afternoon,Workday,> 30° C,Raining,Alone
+771,Afternoon,Workday,> 30° C,Raining,Alone
+4846,Afternoon,Workday,> 30° C,Raining,Alone
+560,Afternoon,Workday,> 30° C,Raining,Alone
 290,Afternoon,Workday,< 0° C,Raining,With Family
-2987,Afternoon,Workday,< 0° C,Raining,With Family
+2980,Afternoon,Workday,< 0° C,Raining,With Family
 242,Afternoon,Workday,< 0° C,Raining,With Family
-2134,Afternoon,Workday,< 0° C,Raining,With Family
-735,Afternoon,Workday,< 0° C,Raining,With Family
-2576,Afternoon,Workday,between 20° and 25° C,Sunny,Alone
-1554,Afternoon,Workday,between 20° and 25° C,Sunny,Alone
-451,Afternoon,Workday,< 0° C,Snowing,With Family
-4353,Afternoon,Workday,< 0° C,Snowing,With Family
-359,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
-4730,Evening,Workday,> 30° C,Raining,With Family
-3724,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-1852,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-2282,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-683,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-3917,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-917,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-3877,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-3052,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-1139,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-4213,Evening,Workday,< 0° C,Snowing,Alone
-4497,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-3814,Evening,Workday,< 0° C,Cloudy,With Family
+2130,Afternoon,Workday,< 0° C,Raining,With Family
+731,Afternoon,Workday,< 0° C,Raining,With Family
+2572,Afternoon,Workday,between 20° and 25° C,Sunny,Alone
+1550,Afternoon,Workday,between 20° and 25° C,Sunny,Alone
+448,Afternoon,Workday,< 0° C,Snowing,With Family
+4345,Afternoon,Workday,< 0° C,Snowing,With Family
+358,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
+4722,Evening,Workday,> 30° C,Raining,With Family
+3716,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+1848,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+2278,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+679,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+3909,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+913,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+3869,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
+3045,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
+1135,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
+4205,Evening,Workday,< 0° C,Snowing,Alone
+4489,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+3806,Evening,Workday,< 0° C,Cloudy,With Family
 22,Evening,Workday,between 25° and 30° C,Partly cloudy,Alone
-3925,Evening,Workday,between 10° and 15° C,Cloudy,With Family
-4409,Evening,Workday,between 10° and 15° C,Cloudy,With Family
-4478,Evening,Workday,between 10° and 15° C,Cloudy,With Family
+3917,Evening,Workday,between 10° and 15° C,Cloudy,With Family
+4401,Evening,Workday,between 10° and 15° C,Cloudy,With Family
+4470,Evening,Workday,between 10° and 15° C,Cloudy,With Family
 9,Evening,Workday,between 15° and 20° C,Partly cloudy,With Family
-1758,Evening,Workday,between 15° and 20° C,Partly cloudy,With Family
+1754,Evening,Workday,between 15° and 20° C,Partly cloudy,With Family
 98,Evening,Workday,between 15° and 20° C,Partly cloudy,With Family
-1608,Evening,Workday,between 20° and 25° C,Sunny,Alone
+1604,Evening,Workday,between 20° and 25° C,Sunny,Alone
 129,Evening,Workday,> 30° C,Very cloudy,Alone
-2247,Evening,Workday,between 0° and 5° C,Very cloudy,With (a) friend(s)
-3789,Evening,Workday,between 0° and 5° C,Very cloudy,With (a) friend(s)
-3739,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-2026,Evening,Workday,between 0° and 5° C,Partly cloudy,With (a) friend(s)
-1001,Evening,Workday,> 30° C,Cloudy,Alone
-2062,Evening,Workday,< 0° C,Very cloudy,With (a) friend(s)
-4737,Evening,Workday,> 30° C,Cloudy,Alone
-3466,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
-3464,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
-2193,Evening,Workday,between 10° and 15° C,Raining,With Family
-3703,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3940,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2544,Evening,Workday,between 5° and 10° C,Raining,Alone
-1052,Evening,Workday,between 10° and 15° C,Sunny,Alone
-1139,Evening,Workday,between 25° and 30° C,Sunny,Alone
-4861,Evening,Workday,between 25° and 30° C,Sunny,Alone
-3355,Evening,Workday,> 30° C,Very cloudy,With Family
-3231,Evening,Workday,> 30° C,Partly cloudy,With Family
+2243,Evening,Workday,between 0° and 5° C,Very cloudy,With (a) friend(s)
+3781,Evening,Workday,between 0° and 5° C,Very cloudy,With (a) friend(s)
+3731,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+2022,Evening,Workday,between 0° and 5° C,Partly cloudy,With (a) friend(s)
+997,Evening,Workday,> 30° C,Cloudy,Alone
+2058,Evening,Workday,< 0° C,Very cloudy,With (a) friend(s)
+4729,Evening,Workday,> 30° C,Cloudy,Alone
+3458,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+3456,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+2189,Evening,Workday,between 10° and 15° C,Raining,With Family
+3695,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+3932,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2540,Evening,Workday,between 5° and 10° C,Raining,Alone
+1048,Evening,Workday,between 10° and 15° C,Sunny,Alone
+1135,Evening,Workday,between 25° and 30° C,Sunny,Alone
+4853,Evening,Workday,between 25° and 30° C,Sunny,Alone
+3347,Evening,Workday,> 30° C,Very cloudy,With Family
+3223,Evening,Workday,> 30° C,Partly cloudy,With Family
 289,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-4437,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-3912,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-1967,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-712,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-2830,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
-556,Evening,Workday,between 15° and 20° C,Raining,Alone
-3797,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+4429,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+3904,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+1963,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+708,Evening,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+2824,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
+553,Evening,Workday,between 15° and 20° C,Raining,Alone
+3789,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
 91,Evening,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-1367,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+1363,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
 318,Evening,Workday,between 0° and 5° C,Raining,With (a) friend(s)
-566,Evening,Workday,> 30° C,Raining,Alone
-1257,Evening,Workday,> 30° C,Raining,Alone
-4144,Evening,Workday,between 0° and 5° C,Sunny,With (a) friend(s)
-4027,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-3784,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-2909,Evening,Workday,> 30° C,Raining,Alone
-682,Evening,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+563,Evening,Workday,> 30° C,Raining,Alone
+1253,Evening,Workday,> 30° C,Raining,Alone
+4136,Evening,Workday,between 0° and 5° C,Sunny,With (a) friend(s)
+4019,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+3776,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+2903,Evening,Workday,> 30° C,Raining,Alone
+678,Evening,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
 194,Evening,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-1448,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4538,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-1867,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-932,Evening,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-1711,Evening,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-747,Evening,Workday,between 20° and 25° C,Raining,Alone
-1313,Evening,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
-4680,Evening,Workday,> 30° C,Partly cloudy,Alone
-3789,Evening,Workday,between 0° and 5° C,Cloudy,With Family
-435,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-2868,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-2678,Evening,Workday,> 30° C,Partly cloudy,With (a) friend(s)
-4449,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-3906,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-3226,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-573,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-2895,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-1040,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
-4170,Evening,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-1419,Evening,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+1444,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4530,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+1863,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+928,Evening,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+1707,Evening,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+743,Evening,Workday,between 20° and 25° C,Raining,Alone
+1309,Evening,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4672,Evening,Workday,> 30° C,Partly cloudy,Alone
+3781,Evening,Workday,between 0° and 5° C,Cloudy,With Family
+432,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+2862,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+2672,Evening,Workday,> 30° C,Partly cloudy,With (a) friend(s)
+4441,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+3898,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+3218,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+570,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+2889,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+1036,Evening,Workday,between 15° and 20° C,Very cloudy,With Family
+4162,Evening,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+1415,Evening,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
 58,Evening,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-3972,Evening,Workday,< 0° C,Partly cloudy,Alone
-845,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-2692,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-869,Evening,Workday,between 25° and 30° C,Cloudy,Alone
-1233,Evening,Workday,between 25° and 30° C,Cloudy,Alone
-3613,Evening,Workday,between 25° and 30° C,Cloudy,Alone
-1263,Evening,Workday,between 25° and 30° C,Raining,With Family
-776,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
-505,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
-1941,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
-2003,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
-1844,Evening,Workday,between 0° and 5° C,Cloudy,With Family
-4425,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-1697,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-363,Evening,Workday,< 0° C,Very cloudy,With (a) friend(s)
-2222,Evening,Workday,between 25° and 30° C,Very cloudy,Alone
-3508,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+3964,Evening,Workday,< 0° C,Partly cloudy,Alone
+841,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+2686,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+865,Evening,Workday,between 25° and 30° C,Cloudy,Alone
+1229,Evening,Workday,between 25° and 30° C,Cloudy,Alone
+3605,Evening,Workday,between 25° and 30° C,Cloudy,Alone
+1259,Evening,Workday,between 25° and 30° C,Raining,With Family
+772,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
+502,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
+1937,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
+1999,Evening,Workday,between 10° and 15° C,Partly cloudy,With Family
+1840,Evening,Workday,between 0° and 5° C,Cloudy,With Family
+4417,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+1693,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+362,Evening,Workday,< 0° C,Very cloudy,With (a) friend(s)
+2218,Evening,Workday,between 25° and 30° C,Very cloudy,Alone
+3500,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
 279,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-2355,Evening,Workday,between 0° and 5° C,Snowing,With Family
-1155,Evening,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-2550,Evening,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-3528,Evening,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-2720,Evening,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-3240,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+2351,Evening,Workday,between 0° and 5° C,Snowing,With Family
+1151,Evening,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+2546,Evening,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+3520,Evening,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+2714,Evening,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+3232,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
 169,Evening,Workday,between 20° and 25° C,Sunny,With Family
-4074,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
-2017,Evening,Workday,between 0° and 5° C,Snowing,Alone
-1138,Evening,Workday,between 0° and 5° C,Snowing,Alone
-3696,Evening,Workday,between 0° and 5° C,Snowing,Alone
-2418,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-4331,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-2247,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4484,Evening,Workday,between 5° and 10° C,Sunny,With Family
-750,Evening,Workday,> 30° C,Partly cloudy,With Family
-3347,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
-3449,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+4066,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
+2013,Evening,Workday,between 0° and 5° C,Snowing,Alone
+1134,Evening,Workday,between 0° and 5° C,Snowing,Alone
+3688,Evening,Workday,between 0° and 5° C,Snowing,Alone
+2414,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+4323,Evening,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+2243,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4476,Evening,Workday,between 5° and 10° C,Sunny,With Family
+746,Evening,Workday,> 30° C,Partly cloudy,With Family
+3339,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+3441,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
 108,Evening,Workday,between 0° and 5° C,Sunny,With Family
-3522,Evening,Workday,between 25° and 30° C,Partly cloudy,With (a) friend(s)
-1256,Evening,Workday,between 20° and 25° C,Cloudy,With Family
-822,Evening,Workday,between 20° and 25° C,Cloudy,With Family
-4531,Evening,Workday,between 20° and 25° C,Cloudy,With Family
-3135,Evening,Workday,between 20° and 25° C,Cloudy,With Family
+3514,Evening,Workday,between 25° and 30° C,Partly cloudy,With (a) friend(s)
+1252,Evening,Workday,between 20° and 25° C,Cloudy,With Family
+818,Evening,Workday,between 20° and 25° C,Cloudy,With Family
+4523,Evening,Workday,between 20° and 25° C,Cloudy,With Family
+3127,Evening,Workday,between 20° and 25° C,Cloudy,With Family
 318,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
 74,Evening,Workday,between 25° and 30° C,Very cloudy,Alone
-1999,Evening,Workday,between 25° and 30° C,Very cloudy,Alone
-2836,Evening,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-704,Evening,Workday,between 25° and 30° C,Sunny,With Family
-1095,Evening,Workday,between 25° and 30° C,Sunny,With Family
-3463,Evening,Workday,between 25° and 30° C,Sunny,With Family
-3547,Evening,Workday,between 25° and 30° C,Sunny,With Family
-2631,Evening,Workday,> 30° C,Sunny,Alone
-2956,Evening,Workday,between 10° and 15° C,Very cloudy,With Family
-4397,Evening,Workday,between 10° and 15° C,Very cloudy,With Family
-405,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4511,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-1330,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2764,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-904,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2285,Evening,Workday,between 25° and 30° C,Raining,Alone
-1227,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
-564,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
-2341,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
-899,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
-1598,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-2264,Midday,Workday,< 0° C,Very cloudy,With Family
-2917,Midday,Workday,< 0° C,Very cloudy,With Family
-1543,Midday,Workday,> 30° C,Very cloudy,With Family
-925,Midday,Workday,between 0° and 5° C,Raining,With (a) friend(s)
-3018,Midday,Workday,between 0° and 5° C,Raining,With (a) friend(s)
-3617,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-634,Midday,Workday,between 15° and 20° C,Raining,Alone
-2303,Midday,Workday,between 15° and 20° C,Raining,Alone
-1471,Midday,Workday,between 5° and 10° C,Partly cloudy,With Family
-1362,Midday,Workday,between 5° and 10° C,Partly cloudy,With Family
-2277,Midday,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-3695,Midday,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-2725,Midday,Workday,> 30° C,Partly cloudy,With (a) friend(s)
-1288,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
-2914,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
-3249,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
-1249,Midday,Workday,between 20° and 25° C,Sunny,Alone
-1887,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-1345,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-2964,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
-2423,Midday,Workday,between 10° and 15° C,Cloudy,Alone
-464,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
-1729,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-3271,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-1015,Midday,Workday,between 15° and 20° C,Partly cloudy,With Family
-1354,Midday,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-4258,Midday,Workday,between 10° and 15° C,Partly cloudy,With Family
-2971,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
-431,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
-3452,Midday,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-3264,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
-3695,Midday,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-3770,Midday,Workday,< 0° C,Snowing,Alone
-4329,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
-3947,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
-3127,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-1264,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
-1931,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
-556,Midday,Workday,between 10° and 15° C,Raining,With Family
-3964,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
-4792,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
+1995,Evening,Workday,between 25° and 30° C,Very cloudy,Alone
+2830,Evening,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+700,Evening,Workday,between 25° and 30° C,Sunny,With Family
+1091,Evening,Workday,between 25° and 30° C,Sunny,With Family
+3455,Evening,Workday,between 25° and 30° C,Sunny,With Family
+3539,Evening,Workday,between 25° and 30° C,Sunny,With Family
+2625,Evening,Workday,> 30° C,Sunny,Alone
+2949,Evening,Workday,between 10° and 15° C,Very cloudy,With Family
+4389,Evening,Workday,between 10° and 15° C,Very cloudy,With Family
+402,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4503,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+1326,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2758,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+900,Evening,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2281,Evening,Workday,between 25° and 30° C,Raining,Alone
+1223,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
+561,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
+2337,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
+895,Evening,Workday,between 15° and 20° C,Partly cloudy,Alone
+1594,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+2260,Midday,Workday,< 0° C,Very cloudy,With Family
+2911,Midday,Workday,< 0° C,Very cloudy,With Family
+1539,Midday,Workday,> 30° C,Very cloudy,With Family
+921,Midday,Workday,between 0° and 5° C,Raining,With (a) friend(s)
+3011,Midday,Workday,between 0° and 5° C,Raining,With (a) friend(s)
+3609,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+630,Midday,Workday,between 15° and 20° C,Raining,Alone
+2299,Midday,Workday,between 15° and 20° C,Raining,Alone
+1467,Midday,Workday,between 5° and 10° C,Partly cloudy,With Family
+1358,Midday,Workday,between 5° and 10° C,Partly cloudy,With Family
+2273,Midday,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+3687,Midday,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+2719,Midday,Workday,> 30° C,Partly cloudy,With (a) friend(s)
+1284,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
+2908,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
+3241,Midday,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
+1245,Midday,Workday,between 20° and 25° C,Sunny,Alone
+1883,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+1341,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+2957,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
+2419,Midday,Workday,between 10° and 15° C,Cloudy,Alone
+461,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
+1725,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+3263,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+1011,Midday,Workday,between 15° and 20° C,Partly cloudy,With Family
+1350,Midday,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+4250,Midday,Workday,between 10° and 15° C,Partly cloudy,With Family
+2964,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+428,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+3444,Midday,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+3256,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
+3687,Midday,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+3762,Midday,Workday,< 0° C,Snowing,Alone
+4321,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
+3939,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
+3120,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+1260,Midday,Workday,between 15° and 20° C,Very cloudy,With Family
+1927,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
+553,Midday,Workday,between 10° and 15° C,Raining,With Family
+3956,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4784,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
 249,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
-2129,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
-565,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2648,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With Family
-4738,Afternoon,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-3219,Afternoon,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-3655,Afternoon,Workday,between 0° and 5° C,Very cloudy,With Family
-920,Afternoon,Workday,between 15° and 20° C,Sunny,With Family
-923,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-678,Afternoon,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
-3725,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2626,Afternoon,Workday,between 20° and 25° C,Raining,With Family
-2120,Afternoon,Workday,between 20° and 25° C,Raining,With Family
-562,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
-3305,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
-2282,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2277,Afternoon,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-1004,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
-1566,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
-4567,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
-4880,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
-4800,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
-2121,Afternoon,Workday,between 15° and 20° C,Raining,Alone
-2879,Afternoon,Workday,between 15° and 20° C,Raining,Alone
-4248,Afternoon,Workday,between 15° and 20° C,Raining,Alone
-1867,Afternoon,Workday,between 5° and 10° C,Very cloudy,Alone
-574,Afternoon,Workday,between 5° and 10° C,Very cloudy,Alone
-383,Afternoon,Workday,between 0° and 5° C,Cloudy,With Family
-3736,Afternoon,Workday,between 0° and 5° C,Cloudy,With Family
-3812,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-492,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-1965,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-688,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-2948,Afternoon,Workday,between 15° and 20° C,Sunny,With Family
-4645,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
-1142,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
-584,Afternoon,Workday,< 0° C,Snowing,Alone
-2148,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-2128,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-2097,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-2208,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-383,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-689,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-2267,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-2907,Afternoon,Workday,between 10° and 15° C,Snowing,With (a) friend(s)
-2351,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
-2105,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
-2302,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
-2364,Afternoon,Workday,between 0° and 5° C,Sunny,Alone
+2125,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
+562,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2642,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With Family
+4730,Afternoon,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+3211,Afternoon,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+3647,Afternoon,Workday,between 0° and 5° C,Very cloudy,With Family
+916,Afternoon,Workday,between 15° and 20° C,Sunny,With Family
+919,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+674,Afternoon,Workday,between 10° and 15° C,Partly cloudy,With (a) friend(s)
+3717,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2620,Afternoon,Workday,between 20° and 25° C,Raining,With Family
+2116,Afternoon,Workday,between 20° and 25° C,Raining,With Family
+559,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
+3297,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
+2278,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2273,Afternoon,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+1000,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
+1562,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
+4559,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
+4872,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
+4792,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
+2117,Afternoon,Workday,between 15° and 20° C,Raining,Alone
+2873,Afternoon,Workday,between 15° and 20° C,Raining,Alone
+4240,Afternoon,Workday,between 15° and 20° C,Raining,Alone
+1863,Afternoon,Workday,between 5° and 10° C,Very cloudy,Alone
+571,Afternoon,Workday,between 5° and 10° C,Very cloudy,Alone
+380,Afternoon,Workday,between 0° and 5° C,Cloudy,With Family
+3728,Afternoon,Workday,between 0° and 5° C,Cloudy,With Family
+3804,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+489,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+1961,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+684,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+2941,Afternoon,Workday,between 15° and 20° C,Sunny,With Family
+4637,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
+1138,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
+581,Afternoon,Workday,< 0° C,Snowing,Alone
+2144,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+2124,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+2093,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+2204,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+380,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+685,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+2263,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+2901,Afternoon,Workday,between 10° and 15° C,Snowing,With (a) friend(s)
+2347,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
+2101,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
+2298,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
+2360,Afternoon,Workday,between 0° and 5° C,Sunny,Alone
 200,Afternoon,Workday,between 10° and 15° C,Very cloudy,With Family
-4064,Afternoon,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+4056,Afternoon,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
 3,Afternoon,Workday,between 5° and 10° C,Partly cloudy,Alone
-4446,Afternoon,Workday,between 15° and 20° C,Raining,Alone
-4525,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-4133,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-1031,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
-1566,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
-4223,Afternoon,Workday,< 0° C,Cloudy,With Family
-2334,Afternoon,Workday,< 0° C,Cloudy,With Family
-352,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-4540,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-1666,Afternoon,Workday,< 0° C,Snowing,Alone
-591,Afternoon,Workday,< 0° C,Snowing,Alone
-2263,Afternoon,Workday,< 0° C,Snowing,Alone
-913,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
+4438,Afternoon,Workday,between 15° and 20° C,Raining,Alone
+4517,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+4125,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+1027,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+1562,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4215,Afternoon,Workday,< 0° C,Cloudy,With Family
+2330,Afternoon,Workday,< 0° C,Cloudy,With Family
+351,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4532,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+1662,Afternoon,Workday,< 0° C,Snowing,Alone
+588,Afternoon,Workday,< 0° C,Snowing,Alone
+2259,Afternoon,Workday,< 0° C,Snowing,Alone
+909,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
 219,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
-925,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
-2096,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+921,Afternoon,Workday,between 10° and 15° C,Very cloudy,Alone
+2092,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
 294,Afternoon,Workday,< 0° C,Snowing,Alone
-3807,Afternoon,Workday,< 0° C,Snowing,Alone
-2066,Afternoon,Workday,< 0° C,Snowing,Alone
-389,Afternoon,Workday,< 0° C,Snowing,Alone
-4096,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
-3959,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
-429,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
-2109,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
-620,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
-4789,Afternoon,Workday,between 25° and 30° C,Partly cloudy,With (a) friend(s)
-4845,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-921,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-793,Afternoon,Workday,between 20° and 25° C,Cloudy,With Family
+3799,Afternoon,Workday,< 0° C,Snowing,Alone
+2062,Afternoon,Workday,< 0° C,Snowing,Alone
+386,Afternoon,Workday,< 0° C,Snowing,Alone
+4088,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
+3951,Afternoon,Workday,between 10° and 15° C,Cloudy,With Family
+426,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
+2105,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
+616,Afternoon,Workday,between 5° and 10° C,Cloudy,Alone
+4781,Afternoon,Workday,between 25° and 30° C,Partly cloudy,With (a) friend(s)
+4837,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+917,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+789,Afternoon,Workday,between 20° and 25° C,Cloudy,With Family
 280,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-3811,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-3684,Afternoon,Workday,< 0° C,Partly cloudy,With Family
-1264,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
-3596,Afternoon,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-783,Afternoon,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
-2641,Afternoon,Workday,between 25° and 30° C,Sunny,Alone
-2715,Afternoon,Workday,between 15° and 20° C,Raining,With Family
-4707,Afternoon,Workday,between 20° and 25° C,Raining,Alone
-3063,Afternoon,Workday,between 20° and 25° C,Raining,Alone
-848,Afternoon,Workday,between 15° and 20° C,Cloudy,Alone
-2132,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-1547,Afternoon,Workday,between 25° and 30° C,Cloudy,With (a) friend(s)
-566,Afternoon,Workday,> 30° C,Raining,With Family
-519,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-4268,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-372,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-3218,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-3048,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-2098,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-4285,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-3808,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
-3664,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
-2269,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
-1954,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
-2589,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
-3292,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
+3803,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+3676,Afternoon,Workday,< 0° C,Partly cloudy,With Family
+1260,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With Family
+3588,Afternoon,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
+779,Afternoon,Workday,between 25° and 30° C,Very cloudy,With (a) friend(s)
+2635,Afternoon,Workday,between 25° and 30° C,Sunny,Alone
+2709,Afternoon,Workday,between 15° and 20° C,Raining,With Family
+4699,Afternoon,Workday,between 20° and 25° C,Raining,Alone
+3056,Afternoon,Workday,between 20° and 25° C,Raining,Alone
+844,Afternoon,Workday,between 15° and 20° C,Cloudy,Alone
+2128,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+1543,Afternoon,Workday,between 25° and 30° C,Cloudy,With (a) friend(s)
+563,Afternoon,Workday,> 30° C,Raining,With Family
+516,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4260,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+369,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+3210,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+3041,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+2094,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+4277,Afternoon,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+3800,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
+3656,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
+2265,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
+1950,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
+2585,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
+3284,Afternoon,Workday,> 30° C,Sunny,With (a) friend(s)
 284,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2507,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
-2590,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
-1153,Afternoon,Workday,> 30° C,Sunny,With Family
-4653,Afternoon,Workday,> 30° C,Sunny,With Family
-984,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
-744,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
-1105,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
-1934,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-1446,Afternoon,Workday,between 5° and 10° C,Raining,With Family
-2321,Afternoon,Workday,between 10° and 15° C,Raining,With Family
-932,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
-2251,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
-4443,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
-2414,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
-2406,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
+2503,Afternoon,Workday,between 10° and 15° C,Cloudy,With (a) friend(s)
+2586,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
+1149,Afternoon,Workday,> 30° C,Sunny,With Family
+4645,Afternoon,Workday,> 30° C,Sunny,With Family
+980,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
+740,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
+1101,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
+1930,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+1442,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+2317,Afternoon,Workday,between 10° and 15° C,Raining,With Family
+928,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
+2247,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
+4435,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
+2410,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
+2402,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
 297,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
-1952,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
-2460,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
+1948,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
+2456,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
 325,Afternoon,Workday,between 0° and 5° C,Very cloudy,Alone
-984,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-417,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-818,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-1137,Afternoon,Workday,> 30° C,Sunny,With Family
-3662,Afternoon,Workday,< 0° C,Snowing,Alone
-2084,Afternoon,Workday,< 0° C,Snowing,Alone
+980,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+414,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+814,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+1133,Afternoon,Workday,> 30° C,Sunny,With Family
+3654,Afternoon,Workday,< 0° C,Snowing,Alone
+2080,Afternoon,Workday,< 0° C,Snowing,Alone
 84,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
-4438,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
-2366,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
-4789,Afternoon,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-4427,Afternoon,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-4140,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-777,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-4839,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
-3720,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-4235,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
-1037,Afternoon,Workday,between 15° and 20° C,Cloudy,Alone
-4892,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
-4702,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
-563,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
-2585,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
-1113,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
-2334,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
+4430,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
+2362,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
+4781,Afternoon,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+4419,Afternoon,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+4132,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+773,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+4831,Afternoon,Workday,between 25° and 30° C,Sunny,With (a) friend(s)
+3712,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4227,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+1033,Afternoon,Workday,between 15° and 20° C,Cloudy,Alone
+4884,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
+4694,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
+560,Afternoon,Workday,between 25° and 30° C,Cloudy,With Family
+2581,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
+1109,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
+2330,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
 186,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
-3199,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
-1010,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
-2716,Afternoon,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-4246,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-674,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
-4206,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-4405,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-1199,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-3434,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
-2319,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2068,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-1153,Afternoon,Workday,between 15° and 20° C,Raining,With Family
-1182,Afternoon,Workday,between 15° and 20° C,Raining,With Family
-2347,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-1120,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-3199,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
-4365,Afternoon,Workday,between 10° and 15° C,Raining,With Family
+3191,Afternoon,Workday,between 10° and 15° C,Partly cloudy,Alone
+1006,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
+2710,Afternoon,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+4238,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+670,Afternoon,Workday,between 15° and 20° C,Very cloudy,With (a) friend(s)
+4198,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+4397,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+1195,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+3426,Afternoon,Workday,between 25° and 30° C,Sunny,With Family
+2315,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2064,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+1149,Afternoon,Workday,between 15° and 20° C,Raining,With Family
+1178,Afternoon,Workday,between 15° and 20° C,Raining,With Family
+2343,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+1116,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+3191,Afternoon,Workday,between 10° and 15° C,Cloudy,Alone
+4357,Afternoon,Workday,between 10° and 15° C,Raining,With Family
 318,Afternoon,Workday,between 10° and 15° C,Raining,With Family
-2256,Afternoon,Workday,between 10° and 15° C,Raining,With Family
-1144,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
-1415,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
-3081,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
-3199,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
-1445,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
-2327,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-2248,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+2252,Afternoon,Workday,between 10° and 15° C,Raining,With Family
+1140,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
+1411,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
+3074,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
+3191,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
+1441,Evening,Workday,> 30° C,Very cloudy,With (a) friend(s)
+2323,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+2244,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
 94,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-3964,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-2935,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-1421,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
-1840,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-2837,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-425,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-3890,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-2998,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-3838,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-4144,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-4222,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-3895,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-514,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+3956,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+2928,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+1417,Evening,Workday,< 0° C,Snowing,With (a) friend(s)
+1836,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+2831,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+422,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+3882,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+2991,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+3830,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+4136,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+4214,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+3887,Evening,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+511,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
 200,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-2968,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-3596,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-4328,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-4367,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-1653,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-3705,Evening,Workday,< 0° C,Snowing,With Family
-1366,Evening,Workday,< 0° C,Snowing,With Family
-2044,Evening,Workday,< 0° C,Snowing,With Family
-2044,Evening,Workday,< 0° C,Snowing,With Family
-4005,Evening,Workday,< 0° C,Raining,Alone
-2235,Evening,Workday,< 0° C,Raining,Alone
-370,Evening,Workday,< 0° C,Raining,Alone
-4324,Evening,Workday,< 0° C,Raining,Alone
-581,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-1957,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-4653,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-4628,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-1803,Evening,Workday,< 0° C,Partly cloudy,With Family
-3838,Evening,Workday,< 0° C,Partly cloudy,With Family
-3029,Evening,Workday,< 0° C,Partly cloudy,With Family
-3812,Evening,Workday,< 0° C,Partly cloudy,With Family
-2231,Evening,Workday,< 0° C,Partly cloudy,With Family
-1808,Evening,Workday,< 0° C,Partly cloudy,With Family
-581,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-3757,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-1137,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-2489,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-1329,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-3020,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-2342,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
-526,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
-415,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
-1453,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
-4862,Evening,Workday,> 30° C,Cloudy,Alone
-4666,Evening,Workday,< 0° C,Partly cloudy,Alone
-4249,Evening,Workday,< 0° C,Partly cloudy,Alone
-2240,Evening,Workday,< 0° C,Partly cloudy,Alone
-3942,Evening,Workday,< 0° C,Partly cloudy,Alone
-1344,Evening,Workday,between 10° and 15° C,Raining,Alone
-2210,Evening,Workday,between 10° and 15° C,Raining,Alone
-3806,Evening,Workday,between 10° and 15° C,Raining,Alone
-627,Evening,Workday,between 10° and 15° C,Raining,Alone
-2085,Evening,Workday,between 10° and 15° C,Raining,Alone
+2961,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+3588,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+4320,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+4359,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+1649,Evening,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+3697,Evening,Workday,< 0° C,Snowing,With Family
+1362,Evening,Workday,< 0° C,Snowing,With Family
+2040,Evening,Workday,< 0° C,Snowing,With Family
+2040,Evening,Workday,< 0° C,Snowing,With Family
+3997,Evening,Workday,< 0° C,Raining,Alone
+2231,Evening,Workday,< 0° C,Raining,Alone
+367,Evening,Workday,< 0° C,Raining,Alone
+4316,Evening,Workday,< 0° C,Raining,Alone
+578,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+1953,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+4645,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+4620,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+1799,Evening,Workday,< 0° C,Partly cloudy,With Family
+3830,Evening,Workday,< 0° C,Partly cloudy,With Family
+3022,Evening,Workday,< 0° C,Partly cloudy,With Family
+3804,Evening,Workday,< 0° C,Partly cloudy,With Family
+2227,Evening,Workday,< 0° C,Partly cloudy,With Family
+1804,Evening,Workday,< 0° C,Partly cloudy,With Family
+578,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+3749,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+1133,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+2485,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+1325,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+3013,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+2338,Evening,Workday,between 5° and 10° C,Partly cloudy,Alone
+523,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
+412,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
+1449,Evening,Workday,between 0° and 5° C,Very cloudy,Alone
+4854,Evening,Workday,> 30° C,Cloudy,Alone
+4658,Evening,Workday,< 0° C,Partly cloudy,Alone
+4241,Evening,Workday,< 0° C,Partly cloudy,Alone
+2236,Evening,Workday,< 0° C,Partly cloudy,Alone
+3934,Evening,Workday,< 0° C,Partly cloudy,Alone
+1340,Evening,Workday,between 10° and 15° C,Raining,Alone
+2206,Evening,Workday,between 10° and 15° C,Raining,Alone
+3798,Evening,Workday,between 10° and 15° C,Raining,Alone
+623,Evening,Workday,between 10° and 15° C,Raining,Alone
+2081,Evening,Workday,between 10° and 15° C,Raining,Alone
 123,Evening,Workday,between 10° and 15° C,Raining,Alone
-445,Evening,Workday,between 10° and 15° C,Raining,Alone
-3760,Evening,Workday,between 10° and 15° C,Raining,With Family
-3892,Evening,Workday,between 10° and 15° C,Raining,With Family
+442,Evening,Workday,between 10° and 15° C,Raining,Alone
+3752,Evening,Workday,between 10° and 15° C,Raining,With Family
+3884,Evening,Workday,between 10° and 15° C,Raining,With Family
 231,Evening,Workday,between 10° and 15° C,Raining,With Family
-2488,Evening,Workday,between 10° and 15° C,Raining,With Family
-1538,Evening,Workday,> 30° C,Very cloudy,With Family
-4799,Evening,Workday,> 30° C,Cloudy,With Family
-3614,Evening,Workday,> 30° C,Cloudy,With Family
-1463,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-4294,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-3038,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-3005,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-4107,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
-1420,Evening,Workday,between 0° and 5° C,Snowing,Alone
-2168,Evening,Workday,between 0° and 5° C,Snowing,Alone
-3722,Evening,Workday,between 0° and 5° C,Snowing,Alone
-604,Evening,Workday,between 0° and 5° C,Snowing,Alone
-1262,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3889,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2442,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2349,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2484,Evening,Workday,between 10° and 15° C,Raining,With Family
+1534,Evening,Workday,> 30° C,Very cloudy,With Family
+4791,Evening,Workday,> 30° C,Cloudy,With Family
+3606,Evening,Workday,> 30° C,Cloudy,With Family
+1459,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
+4286,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
+3031,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
+2998,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
+4099,Evening,Workday,< 0° C,Cloudy,With (a) friend(s)
+1416,Evening,Workday,between 0° and 5° C,Snowing,Alone
+2164,Evening,Workday,between 0° and 5° C,Snowing,Alone
+3714,Evening,Workday,between 0° and 5° C,Snowing,Alone
+600,Evening,Workday,between 0° and 5° C,Snowing,Alone
+1258,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+3881,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2438,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2345,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
 214,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3711,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2496,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
+3703,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2492,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
 298,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
-4249,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
-4329,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
-795,Evening,Workday,> 30° C,Raining,Alone
-1845,Evening,Workday,between 5° and 10° C,Raining,With Family
-3855,Evening,Workday,between 5° and 10° C,Raining,With Family
-819,Evening,Workday,between 5° and 10° C,Raining,With Family
-1870,Evening,Workday,between 5° and 10° C,Raining,With Family
-1802,Evening,Workday,between 5° and 10° C,Raining,With Family
+4241,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
+4321,Evening,Workday,between 5° and 10° C,Very cloudy,Alone
+791,Evening,Workday,> 30° C,Raining,Alone
+1841,Evening,Workday,between 5° and 10° C,Raining,With Family
+3847,Evening,Workday,between 5° and 10° C,Raining,With Family
+815,Evening,Workday,between 5° and 10° C,Raining,With Family
+1866,Evening,Workday,between 5° and 10° C,Raining,With Family
+1798,Evening,Workday,between 5° and 10° C,Raining,With Family
 221,Evening,Workday,between 5° and 10° C,Raining,With Family
-3054,Evening,Workday,between 5° and 10° C,Raining,With Family
-2188,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3046,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-4223,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3048,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-1686,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-702,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-3816,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-4779,Evening,Workday,< 0° C,Very cloudy,Alone
-2940,Evening,Workday,< 0° C,Very cloudy,Alone
-3948,Evening,Workday,< 0° C,Very cloudy,Alone
-525,Evening,Workday,< 0° C,Very cloudy,Alone
-689,Evening,Workday,< 0° C,Very cloudy,Alone
-4839,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
-2978,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
-4324,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
+3047,Evening,Workday,between 5° and 10° C,Raining,With Family
+2184,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+3039,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+4215,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+3041,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+1682,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+698,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+3808,Evening,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+4771,Evening,Workday,< 0° C,Very cloudy,Alone
+2933,Evening,Workday,< 0° C,Very cloudy,Alone
+3940,Evening,Workday,< 0° C,Very cloudy,Alone
+522,Evening,Workday,< 0° C,Very cloudy,Alone
+685,Evening,Workday,< 0° C,Very cloudy,Alone
+4831,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
+2971,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
+4316,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
 37,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
-4723,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
-2193,Evening,Workday,< 0° C,Sunny,Alone
-1379,Evening,Workday,< 0° C,Sunny,Alone
-3303,Evening,Workday,< 0° C,Sunny,Alone
-743,Evening,Workday,< 0° C,Sunny,Alone
+4715,Evening,Workday,between 20° and 25° C,Partly cloudy,Alone
+2189,Evening,Workday,< 0° C,Sunny,Alone
+1375,Evening,Workday,< 0° C,Sunny,Alone
+3295,Evening,Workday,< 0° C,Sunny,Alone
+739,Evening,Workday,< 0° C,Sunny,Alone
 210,Evening,Workday,< 0° C,Sunny,Alone
-4751,Evening,Workday,between 10° and 15° C,Cloudy,Alone
-1903,Evening,Workday,between 10° and 15° C,Cloudy,Alone
+4743,Evening,Workday,between 10° and 15° C,Cloudy,Alone
+1899,Evening,Workday,between 10° and 15° C,Cloudy,Alone
 14,Evening,Workday,between 10° and 15° C,Cloudy,Alone
 294,Evening,Workday,between 10° and 15° C,Cloudy,Alone
-2287,Evening,Workday,between 10° and 15° C,Cloudy,Alone
-1474,Evening,Workday,between 10° and 15° C,Cloudy,Alone
-3889,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-535,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-1752,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-4237,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-1581,Evening,Workday,> 30° C,Raining,With (a) friend(s)
-3253,Evening,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-4887,Evening,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-1977,Evening,Workday,< 0° C,Cloudy,Alone
-2012,Evening,Workday,< 0° C,Cloudy,Alone
-3999,Evening,Workday,between 0° and 5° C,Snowing,Alone
-676,Evening,Workday,between 0° and 5° C,Snowing,Alone
-3144,Evening,Workday,between 0° and 5° C,Snowing,Alone
-1485,Evening,Workday,between 0° and 5° C,Snowing,Alone
-4132,Evening,Workday,between 0° and 5° C,Snowing,Alone
-4608,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
-2551,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
-2107,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
-3036,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
-3604,Evening,Workday,between 25° and 30° C,Cloudy,With Family
-4803,Evening,Workday,between 25° and 30° C,Cloudy,With Family
-1983,Evening,Workday,between 25° and 30° C,Cloudy,With Family
-2905,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
-4431,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
-3954,Evening,Workday,between 0° and 5° C,Cloudy,Alone
-4000,Evening,Workday,between 0° and 5° C,Cloudy,Alone
+2283,Evening,Workday,between 10° and 15° C,Cloudy,Alone
+1470,Evening,Workday,between 10° and 15° C,Cloudy,Alone
+3881,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+532,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+1748,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+4229,Evening,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+1577,Evening,Workday,> 30° C,Raining,With (a) friend(s)
+3245,Evening,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+4879,Evening,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+1973,Evening,Workday,< 0° C,Cloudy,Alone
+2008,Evening,Workday,< 0° C,Cloudy,Alone
+3991,Evening,Workday,between 0° and 5° C,Snowing,Alone
+672,Evening,Workday,between 0° and 5° C,Snowing,Alone
+3136,Evening,Workday,between 0° and 5° C,Snowing,Alone
+1481,Evening,Workday,between 0° and 5° C,Snowing,Alone
+4124,Evening,Workday,between 0° and 5° C,Snowing,Alone
+4600,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
+2547,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
+2103,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
+3029,Evening,Workday,between 20° and 25° C,Partly cloudy,With Family
+3596,Evening,Workday,between 25° and 30° C,Cloudy,With Family
+4795,Evening,Workday,between 25° and 30° C,Cloudy,With Family
+1979,Evening,Workday,between 25° and 30° C,Cloudy,With Family
+2899,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
+4423,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
+3946,Evening,Workday,between 0° and 5° C,Cloudy,Alone
+3992,Evening,Workday,between 0° and 5° C,Cloudy,Alone
 214,Evening,Workday,between 0° and 5° C,Cloudy,Alone
-1997,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-2196,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-4346,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-2178,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-2107,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-3386,Evening,Workday,> 30° C,Sunny,Alone
-4748,Evening,Workday,> 30° C,Sunny,Alone
-4746,Evening,Workday,between 5° and 10° C,Sunny,Alone
-3530,Evening,Workday,between 5° and 10° C,Sunny,Alone
-2940,Evening,Workday,between 5° and 10° C,Sunny,Alone
-467,Evening,Workday,between 5° and 10° C,Sunny,Alone
-452,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-1057,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-1818,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-383,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-3005,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
-3990,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
-4025,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
-1767,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-4285,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-1874,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-2136,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-2975,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
-724,Evening,Workday,between 0° and 5° C,Cloudy,Alone
-1902,Evening,Workday,between 0° and 5° C,Cloudy,Alone
-334,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4493,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4309,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-1768,Evening,Workday,between 15° and 20° C,Cloudy,With Family
-4575,Evening,Workday,> 30° C,Partly cloudy,With Family
-1616,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+1993,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+2192,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+4338,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+2174,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+2103,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+3378,Evening,Workday,> 30° C,Sunny,Alone
+4740,Evening,Workday,> 30° C,Sunny,Alone
+4738,Evening,Workday,between 5° and 10° C,Sunny,Alone
+3522,Evening,Workday,between 5° and 10° C,Sunny,Alone
+2933,Evening,Workday,between 5° and 10° C,Sunny,Alone
+464,Evening,Workday,between 5° and 10° C,Sunny,Alone
+449,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+1053,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+1814,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+380,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+2998,Evening,Workday,< 0° C,Sunny,With (a) friend(s)
+3982,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
+4017,Evening,Workday,between 0° and 5° C,Snowing,With (a) friend(s)
+1763,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+4277,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+1870,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+2132,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+2968,Evening,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+720,Evening,Workday,between 0° and 5° C,Cloudy,Alone
+1898,Evening,Workday,between 0° and 5° C,Cloudy,Alone
+333,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4485,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4301,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+1764,Evening,Workday,between 15° and 20° C,Cloudy,With Family
+4567,Evening,Workday,> 30° C,Partly cloudy,With Family
+1612,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
 277,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-1546,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-1904,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-4249,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-4686,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+1542,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+1900,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+4241,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
+4678,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
 114,Evening,Workday,between 25° and 30° C,Partly cloudy,With Family
-4872,Evening,Workday,> 30° C,Very cloudy,With Family
-4757,Evening,Workday,> 30° C,Very cloudy,With Family
-4722,Evening,Workday,< 0° C,Partly cloudy,With Family
-4743,Evening,Workday,< 0° C,Partly cloudy,With Family
-1763,Evening,Workday,< 0° C,Partly cloudy,With Family
+4864,Evening,Workday,> 30° C,Very cloudy,With Family
+4749,Evening,Workday,> 30° C,Very cloudy,With Family
+4714,Evening,Workday,< 0° C,Partly cloudy,With Family
+4735,Evening,Workday,< 0° C,Partly cloudy,With Family
+1759,Evening,Workday,< 0° C,Partly cloudy,With Family
 303,Evening,Workday,< 0° C,Partly cloudy,With Family
-4674,Evening,Workday,> 30° C,Sunny,Alone
-4597,Evening,Workday,> 30° C,Sunny,Alone
-1713,Evening,Workday,> 30° C,Sunny,Alone
-2669,Evening,Workday,> 30° C,Sunny,Alone
-3607,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
-3996,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
-4339,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
-1807,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
-1831,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
-4621,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
-3629,Evening,Workday,> 30° C,Partly cloudy,Alone
-1771,Evening,Workday,< 0° C,Cloudy,With Family
-2994,Evening,Workday,< 0° C,Cloudy,With Family
-2167,Evening,Workday,< 0° C,Cloudy,With Family
-2180,Evening,Workday,< 0° C,Cloudy,With Family
-1492,Evening,Workday,< 0° C,Partly cloudy,With Family
-3807,Evening,Workday,< 0° C,Partly cloudy,With Family
-2263,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+4666,Evening,Workday,> 30° C,Sunny,Alone
+4589,Evening,Workday,> 30° C,Sunny,Alone
+1709,Evening,Workday,> 30° C,Sunny,Alone
+2663,Evening,Workday,> 30° C,Sunny,Alone
+3599,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
+3988,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
+4331,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
+1803,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
+1827,Evening,Workday,between 5° and 10° C,Very cloudy,With Family
+4613,Evening,Workday,> 30° C,Sunny,With (a) friend(s)
+3621,Evening,Workday,> 30° C,Partly cloudy,Alone
+1767,Evening,Workday,< 0° C,Cloudy,With Family
+2987,Evening,Workday,< 0° C,Cloudy,With Family
+2163,Evening,Workday,< 0° C,Cloudy,With Family
+2176,Evening,Workday,< 0° C,Cloudy,With Family
+1488,Evening,Workday,< 0° C,Partly cloudy,With Family
+3799,Evening,Workday,< 0° C,Partly cloudy,With Family
+2259,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
 19,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-1743,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+1739,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
 77,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-1040,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
-3937,Evening,Workday,between 10° and 15° C,Raining,Alone
-3021,Evening,Workday,between 10° and 15° C,Raining,Alone
-3001,Evening,Workday,between 10° and 15° C,Raining,Alone
-2272,Evening,Workday,between 10° and 15° C,Raining,Alone
-4330,Evening,Workday,between 10° and 15° C,Raining,Alone
+1036,Evening,Workday,between 5° and 10° C,Partly cloudy,With Family
+3929,Evening,Workday,between 10° and 15° C,Raining,Alone
+3014,Evening,Workday,between 10° and 15° C,Raining,Alone
+2994,Evening,Workday,between 10° and 15° C,Raining,Alone
+2268,Evening,Workday,between 10° and 15° C,Raining,Alone
+4322,Evening,Workday,between 10° and 15° C,Raining,Alone
 38,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-3006,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-3976,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
-4651,Evening,Workday,> 30° C,Raining,With (a) friend(s)
-4802,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-4844,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-1496,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-3536,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-2936,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
-3150,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-1057,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-889,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-954,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-2965,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
-4038,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-1114,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-3917,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
-2564,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
-2416,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
-946,Morning,Workday,between 5° and 10° C,Cloudy,With (a) friend(s)
-3928,Morning,Workday,between 5° and 10° C,Cloudy,With (a) friend(s)
-4031,Morning,Workday,between 0° and 5° C,Raining,With (a) friend(s)
-868,Morning,Workday,between 0° and 5° C,Raining,With Family
-2254,Morning,Workday,between 0° and 5° C,Raining,With Family
-3782,Morning,Workday,between 0° and 5° C,Raining,With Family
-3388,Morning,Workday,between 20° and 25° C,Very cloudy,With (a) friend(s)
-2676,Morning,Workday,between 20° and 25° C,Very cloudy,With (a) friend(s)
-3949,Morning,Workday,between 25° and 30° C,Partly cloudy,With Family
-1607,Morning,Workday,between 20° and 25° C,Sunny,With Family
+2999,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+3968,Evening,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+4643,Evening,Workday,> 30° C,Raining,With (a) friend(s)
+4794,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+4836,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+1492,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+3528,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+2929,Evening,Workday,between 25° and 30° C,Very cloudy,With Family
+3142,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+1053,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+885,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+950,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+2958,Evening,Workday,between 20° and 25° C,Raining,With (a) friend(s)
+4030,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+1110,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+3909,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
+2560,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
+2412,Morning,Workday,between 5° and 10° C,Very cloudy,Alone
+942,Morning,Workday,between 5° and 10° C,Cloudy,With (a) friend(s)
+3920,Morning,Workday,between 5° and 10° C,Cloudy,With (a) friend(s)
+4023,Morning,Workday,between 0° and 5° C,Raining,With (a) friend(s)
+864,Morning,Workday,between 0° and 5° C,Raining,With Family
+2250,Morning,Workday,between 0° and 5° C,Raining,With Family
+3774,Morning,Workday,between 0° and 5° C,Raining,With Family
+3380,Morning,Workday,between 20° and 25° C,Very cloudy,With (a) friend(s)
+2670,Morning,Workday,between 20° and 25° C,Very cloudy,With (a) friend(s)
+3941,Morning,Workday,between 25° and 30° C,Partly cloudy,With Family
+1603,Morning,Workday,between 20° and 25° C,Sunny,With Family
 100,Morning,Workday,< 0° C,Snowing,With (a) friend(s)
-4271,Morning,Workday,< 0° C,Snowing,With (a) friend(s)
-356,Morning,Workday,< 0° C,Snowing,With (a) friend(s)
+4263,Morning,Workday,< 0° C,Snowing,With (a) friend(s)
+355,Morning,Workday,< 0° C,Snowing,With (a) friend(s)
 197,Morning,Workday,between 0° and 5° C,Snowing,Alone
-2759,Morning,Workday,between 0° and 5° C,Snowing,Alone
+2753,Morning,Workday,between 0° and 5° C,Snowing,Alone
 34,Morning,Workday,between 0° and 5° C,Very cloudy,With (a) friend(s)
-2665,Morning,Workday,between 15° and 20° C,Sunny,Alone
-507,Morning,Workday,between 5° and 10° C,Sunny,With Family
-2208,Morning,Workday,between 5° and 10° C,Sunny,With Family
-2777,Morning,Workday,between 15° and 20° C,Raining,Alone
-3305,Morning,Workday,> 30° C,Partly cloudy,With (a) friend(s)
-1141,Morning,Workday,> 30° C,Partly cloudy,With (a) friend(s)
-2647,Morning,Workday,between 15° and 20° C,Raining,With Family
-2426,Morning,Workday,between 15° and 20° C,Raining,With Family
+2659,Morning,Workday,between 15° and 20° C,Sunny,Alone
+504,Morning,Workday,between 5° and 10° C,Sunny,With Family
+2204,Morning,Workday,between 5° and 10° C,Sunny,With Family
+2771,Morning,Workday,between 15° and 20° C,Raining,Alone
+3297,Morning,Workday,> 30° C,Partly cloudy,With (a) friend(s)
+1137,Morning,Workday,> 30° C,Partly cloudy,With (a) friend(s)
+2641,Morning,Workday,between 15° and 20° C,Raining,With Family
+2422,Morning,Workday,between 15° and 20° C,Raining,With Family
 196,Morning,Workday,between 0° and 5° C,Snowing,Alone
-2791,Morning,Workday,between 0° and 5° C,Partly cloudy,Alone
-1540,Morning,Workday,> 30° C,Cloudy,Alone
-1511,Morning,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+2785,Morning,Workday,between 0° and 5° C,Partly cloudy,Alone
+1536,Morning,Workday,> 30° C,Cloudy,Alone
+1507,Morning,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
 160,Morning,Workday,between 25° and 30° C,Sunny,Alone
-3410,Morning,Workday,between 25° and 30° C,Sunny,Alone
-2195,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-334,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-4015,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-2123,Morning,Workday,< 0° C,Partly cloudy,With (a) friend(s)
+3402,Morning,Workday,between 25° and 30° C,Sunny,Alone
+2191,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+333,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+4007,Morning,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+2119,Morning,Workday,< 0° C,Partly cloudy,With (a) friend(s)
 275,Morning,Workday,< 0° C,Snowing,Alone
-3100,Midday,Workday,between 15° and 20° C,Raining,With (a) friend(s)
-3433,Midday,Workday,> 30° C,Very cloudy,With (a) friend(s)
-4734,Midday,Workday,between 25° and 30° C,Raining,With (a) friend(s)
-1459,Midday,Workday,between 25° and 30° C,Raining,With (a) friend(s)
-2059,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
-3048,Midday,Workday,between 25° and 30° C,Raining,With Family
-3249,Midday,Workday,between 10° and 15° C,Raining,Alone
-2801,Midday,Workday,between 10° and 15° C,Raining,Alone
-1919,Midday,Workday,between 0° and 5° C,Raining,With Family
-2058,Midday,Workday,between 0° and 5° C,Raining,With Family
-4488,Midday,Workday,between 0° and 5° C,Raining,With Family
-3969,Midday,Workday,between 0° and 5° C,Raining,With Family
-2884,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
-2025,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
-734,Midday,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
-672,Midday,Workday,between 5° and 10° C,Sunny,Alone
-2685,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
-2792,Midday,Workday,between 10° and 15° C,Cloudy,Alone
-658,Midday,Workday,between 10° and 15° C,Cloudy,Alone
-2807,Midday,Workday,< 0° C,Snowing,With (a) friend(s)
-359,Midday,Workday,between 0° and 5° C,Partly cloudy,Alone
-3683,Midday,Workday,between 10° and 15° C,Raining,With Family
-2962,Midday,Workday,between 10° and 15° C,Raining,With Family
-1848,Midday,Workday,< 0° C,Sunny,With Family
-2156,Midday,Workday,< 0° C,Snowing,With Family
-4891,Midday,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
-1708,Midday,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
-3543,Midday,Workday,> 30° C,Partly cloudy,Alone
-622,Midday,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
-2553,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-3280,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
-2508,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
-3708,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
-791,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
-3501,Midday,Workday,between 15° and 20° C,Sunny,Alone
-387,Midday,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-2688,Midday,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
-2264,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
-2040,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
-2496,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+3093,Midday,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+3425,Midday,Workday,> 30° C,Very cloudy,With (a) friend(s)
+4726,Midday,Workday,between 25° and 30° C,Raining,With (a) friend(s)
+1455,Midday,Workday,between 25° and 30° C,Raining,With (a) friend(s)
+2055,Midday,Workday,between 15° and 20° C,Cloudy,With (a) friend(s)
+3041,Midday,Workday,between 25° and 30° C,Raining,With Family
+3241,Midday,Workday,between 10° and 15° C,Raining,Alone
+2795,Midday,Workday,between 10° and 15° C,Raining,Alone
+1915,Midday,Workday,between 0° and 5° C,Raining,With Family
+2054,Midday,Workday,between 0° and 5° C,Raining,With Family
+4480,Midday,Workday,between 0° and 5° C,Raining,With Family
+3961,Midday,Workday,between 0° and 5° C,Raining,With Family
+2878,Midday,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+2021,Midday,Workday,between 10° and 15° C,Very cloudy,Alone
+730,Midday,Workday,between 5° and 10° C,Very cloudy,With (a) friend(s)
+668,Midday,Workday,between 5° and 10° C,Sunny,Alone
+2679,Midday,Workday,between 20° and 25° C,Cloudy,With (a) friend(s)
+2786,Midday,Workday,between 10° and 15° C,Cloudy,Alone
+654,Midday,Workday,between 10° and 15° C,Cloudy,Alone
+2801,Midday,Workday,< 0° C,Snowing,With (a) friend(s)
+358,Midday,Workday,between 0° and 5° C,Partly cloudy,Alone
+3675,Midday,Workday,between 10° and 15° C,Raining,With Family
+2955,Midday,Workday,between 10° and 15° C,Raining,With Family
+1844,Midday,Workday,< 0° C,Sunny,With Family
+2152,Midday,Workday,< 0° C,Snowing,With Family
+4883,Midday,Workday,between 20° and 25° C,Partly cloudy,With (a) friend(s)
+1704,Midday,Workday,between 10° and 15° C,Very cloudy,With (a) friend(s)
+3535,Midday,Workday,> 30° C,Partly cloudy,Alone
+618,Midday,Workday,between 5° and 10° C,Partly cloudy,With (a) friend(s)
+2549,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+3272,Midday,Workday,between 20° and 25° C,Sunny,With (a) friend(s)
+2504,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
+3700,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
+787,Midday,Workday,< 0° C,Cloudy,With (a) friend(s)
+3493,Midday,Workday,between 15° and 20° C,Sunny,Alone
+384,Midday,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+2682,Midday,Workday,between 5° and 10° C,Sunny,With (a) friend(s)
+2260,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+2036,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+2492,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
