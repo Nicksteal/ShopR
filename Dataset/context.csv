@@ -697,3 +697,52 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 2260,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
 2036,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
 2492,Midday,Workday,between 10° and 15° C,Very cloudy,With Family
+4936,Afternoon,Workday,< 0° C,Sunny,Alone
+4900,Afternoon,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+5004,Afternoon,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+4965,Afternoon,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+4999,Afternoon,Workday,between 10° and 15° C,Raining,With (a) friend(s)
+4920,Afternoon,Workday,between 0° and 5° C,Cloudy,Alone
+4948,Afternoon,Workday,between 5° and 10° C,Raining,Alone
+4899,Afternoon,Workday,between 5° and 10° C,Raining,Alone
+4932,Afternoon,Workday,between 15° and 20° C,Very cloudy,With Family
+4937,Afternoon,Workday,between 15° and 20° C,Very cloudy,With Family
+4910,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4925,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4958,Afternoon,Workday,between 15° and 20° C,Sunny,With (a) friend(s)
+4906,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+5071,Afternoon,Workday,between 15° and 20° C,Partly cloudy,With (a) friend(s)
+4935,Afternoon,Workday,between 15° and 20° C,Partly cloudy,Alone
+4945,Afternoon,Workday,between 15° and 20° C,Partly cloudy,Alone
+4951,Afternoon,Workday,> 30° C,Sunny,Alone
+4957,Afternoon,Workday,< 0° C,Cloudy,Alone
+4961,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+5007,Afternoon,Workday,between 10° and 15° C,Sunny,With (a) friend(s)
+4939,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4895,Afternoon,Workday,between 25° and 30° C,Raining,Alone
+4885,Afternoon,Workday,between 25° and 30° C,Raining,Alone
+5159,Afternoon,Workday,between 25° and 30° C,Raining,Alone
+4901,Afternoon,Workday,> 30° C,Cloudy,With (a) friend(s)
+4931,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4889,Afternoon,Workday,between 5° and 10° C,Partly cloudy,With Family
+4907,Afternoon,Workday,between 15° and 20° C,Cloudy,Alone
+4950,Afternoon,Workday,between 10° and 15° C,Snowing,Alone
+4898,Afternoon,Workday,between 10° and 15° C,Snowing,Alone
+4951,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
+4920,Afternoon,Workday,between 5° and 10° C,Sunny,Alone
+5077,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+5119,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4960,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4891,Afternoon,Workday,between 5° and 10° C,Raining,With (a) friend(s)
+4913,Afternoon,Workday,between 20° and 25° C,Partly cloudy,With Family
+4925,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
+4932,Afternoon,Workday,between 20° and 25° C,Sunny,With Family
+4909,Afternoon,Workday,> 30° C,Very cloudy,With (a) friend(s)
+4979,Afternoon,Workday,> 30° C,Very cloudy,With (a) friend(s)
+4919,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4948,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4930,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4936,Afternoon,Workday,between 5° and 10° C,Raining,With Family
+4959,Afternoon,Workday,between 5° and 10° C,Very cloudy,With Family
+4916,Afternoon,Workday,between 15° and 20° C,Raining,With (a) friend(s)
+4965,Afternoon,Workday,between 15° and 20° C,Raining,With (a) friend(s)
