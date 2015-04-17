@@ -10,6 +10,7 @@ import com.uwetrottmann.shopr.algorithm.model.Item;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import static org.fest.assertions.api.Assertions.assertThat;
 
@@ -39,7 +40,7 @@ public class UtilsTest {
         Query query = new Query();
         query.attributes().putAttribute(new Color(Color.Value.RED));
 
-        Utils.sortBySimilarityToQuery(query, unsortedCases);
+        Utils.sortBySimilarityToQuery(query, unsortedCases,new HashMap<Integer, Integer>());
 
         // top two items are red?
         Utils.dumpToConsole(unsortedCases, query);
@@ -53,7 +54,7 @@ public class UtilsTest {
         // equal weight on all colors
         query.attributes().putAttribute(new Color());
 
-        Utils.sortBySimilarityToQuery(query, unsortedCases);
+        Utils.sortBySimilarityToQuery(query, unsortedCases, new HashMap<Integer, Integer>());
 
         // nothing should have changed
         Utils.dumpToConsole(unsortedCases, query);

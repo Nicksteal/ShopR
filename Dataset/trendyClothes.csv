@@ -533,7 +533,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 532,MA321I062-C11,Grey,135,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1I/06/2C/11/MA321I062-C11@14.jpg,Jumper - marl,Marc O'Polo,FEMALE,womens-clothing-jumpers,0
 533,4BE21I073-Q11,Black,27,SUMMER,https://secure-i6.ztat.net/detail/4B/E2/1I/07/3Q/11/4BE21I073-Q11@3.1.jpg,Jumper - black,Benetton,FEMALE,womens-clothing-jumpers,0
 534,MA321I06D-K11,Blue,95,SUMMER,https://secure-i6.ztat.net/detail/MA/32/1I/06/DK/11/MA321I06D-K11@15.jpg,Jumper - combo,Marc O'Polo,FEMALE,womens-clothing-jumpers,0
-535,MA321D06E-A11,White,39,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1D/06/EA/11/MA321D06E-A11@13.jpg,"Jumper - blau, weiss",Marc O'Polo,FEMALE,0
+535,MA321D06E-A11,White,39,SUMMER,https://secure-i5.ztat.net/detail/MA/32/1D/06/EA/11/MA321D06E-A11@13.jpg,"Jumper - blau, weiss",Marc O'Polo,FEMALE,womens-clothing-jumpers,0
 536,ED121I04G-B11,Beige,39,SUMMER,https://secure-i5.ztat.net/detail/ED/12/1I/04/GB/11/ED121I04G-B11@18.jpg,Jumper - beige colourway,edc by Esprit,FEMALE,womens-clothing-jumpers,0
 537,M5921I04X-302,Red,28,WINTER,https://secure-i2.ztat.net/detail/M5/92/1I/04/X3/02/M5921I04X-302@1.1.jpg,Jumper - red,Morgan,FEMALE,womens-clothing-jumpers,0
 538,M1421I00Z-802,Black,75,WINTER,https://secure-i3.ztat.net/detail/M1/42/1I/00/Z8/02/M1421I00Z-802@1.1.jpg,KOLLA - Jumper - schwarz,Mads Nørgaard,FEMALE,womens-clothing-jumpers,0
@@ -915,11 +915,11 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 914,K2021E012-K11,Blue,55,SUMMER,https://secure-i1.ztat.net/detail/K2/02/1E/01/2K/11/K2021E012-K11@21.jpg,Blouse - stone,Kaporal,FEMALE,womens-clothing-blouses,0
 915,RE121E001-802,Black,75,WINTER,https://secure-i3.ztat.net/detail/RE/12/1E/00/18/02/RE121E001-802@1.1.jpg,Shirt - schwarz,René Lezard,FEMALE,womens-clothing-blouses,0
 916,EX121E01T-Q11,Black,65,SUMMER,https://secure-i3.ztat.net/detail/EX/12/1E/01/TQ/11/EX121E01T-Q11@12.jpg,BILLIE - Blouse - black,Expresso,FEMALE,womens-clothing-blouses,0
-917,R9521E013-A11,White,75,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/01/3A/11/R9521E013-A11@2.jpg,"Blouse - weiss, lila",R95th,FEMALE,0
-918,R9521E00X-A11,White,90,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/XA/11/R9521E00X-A11@16.jpg,"Blouse - weiss, lila",R95th,FEMALE,0
-919,R9521E012-M11,Green,75,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/01/2M/11/R9521E012-M11@14.jpg,"Blouse - grün,rot,blau",R95th,0
-920,R9521E00W-K11,Blue,85,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/00/WK/11/R9521E00W-K11@16.jpg,"Blouse - blau, weiss",R95th,FEMALE,0
-921,R9521E014-L11,Turquoise,100,SUMMER,https://secure-i6.ztat.net/detail/R9/52/1E/01/4L/11/R9521E014-L11@14.jpg,"Blouse - turquoise, white ",R95th,FEMALE,0
+917,R9521E013-A11,White,75,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/01/3A/11/R9521E013-A11@2.jpg,"Blouse - weiss, lila",R95th,FEMALE,womens-clothing-blouses,0
+918,R9521E00X-A11,White,90,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/XA/11/R9521E00X-A11@16.jpg,"Blouse - weiss, lila",R95th,FEMALE,womens-clothing-blouses,0
+919,R9521E012-M11,Green,75,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/01/2M/11/R9521E012-M11@14.jpg,"Blouse - grün,rot,blau",R95th,FEMALE,womens-clothing-blouses,0
+920,R9521E00W-K11,Blue,85,SUMMER,https://secure-i4.ztat.net/detail/R9/52/1E/00/WK/11/R9521E00W-K11@16.jpg,"Blouse - blau, weiss",R95th,FEMALE,womens-clothing-blouses,0
+921,R9521E014-L11,Turquoise,100,SUMMER,https://secure-i6.ztat.net/detail/R9/52/1E/01/4L/11/R9521E014-L11@14.jpg,"Blouse - turquoise, white ",R95th,FEMALE,womens-clothing-blouses,0
 922,R9521E00V-A11,White,100,SUMMER,https://secure-i1.ztat.net/detail/R9/52/1E/00/VA/11/R9521E00V-A11@14.jpg,Blouse - white,R95th,FEMALE,womens-clothing-blouses,0
 923,HI121E03F-K11,Blue,65,SUMMER,https://secure-i1.ztat.net/detail/HI/12/1E/03/FK/11/HI121E03F-K11@2.1.jpg,JULES - Blouse - maine dark,Hilfiger Denim,FEMALE,womens-clothing-blouses,0
 924,M5821E05P-G11,Red,34,SUMMER,https://secure-i1.ztat.net/detail/M5/82/1E/05/PG/11/M5821E05P-G11@14.jpg,BILLA - Blouse - red kiss,More & More,FEMALE,womens-clothing-blouses,0
@@ -2477,7 +2477,7 @@ id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
 2476,KH121H02E-N11,Olive,150,SUMMER,https://secure-i6.ztat.net/detail/KH/12/1H/02/EN/11/KH121H02E-N11@6.jpg,MARIS - Parka - olive,khujo,FEMALE,womens-clothing-coats,0
 2477,NN121H00B-Q11,Black,210,SUMMER,https://secure-i3.ztat.net/detail/NN/12/1H/00/BQ/11/NN121H00B-Q11@12.jpg,Short coat - black,Noa Noa,FEMALE,womens-clothing-coats,0
 2478,MI421G013-C11,Grey,95,SUMMER,https://secure-i2.ztat.net/detail/MI/42/1G/01/3C/11/MI421G013-C11@2.jpg,INA - Parka - bone,Minimum,FEMALE,womens-clothing-coats,0
-2479,CO121H010-Q11,Black,150,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1H/01/0Q/11/CO121H010-Q11@14.jpg,"Short coat - black, white","comma,",0
+2479,CO121H010-Q11,Black,150,SUMMER,https://secure-i5.ztat.net/detail/CO/12/1H/01/0Q/11/CO121H010-Q11@14.jpg,"Short coat - black, white","comma,",FEMALE,womens-clothing-coats,0
 2480,1DR21H000-B11,Beige,135,SUMMER,https://secure-i2.ztat.net/detail/1D/R2/1H/00/0B/11/1DR21H000-B11@14.jpg,STOCKHOLM - Classic coat - light beige,Dry Lake,FEMALE,womens-clothing-coats,0
 2481,TO121H00U-802,Black,170,WINTER,https://secure-i3.ztat.net/detail/TO/12/1H/00/U8/02/TO121H00U-802@1.1.jpg,MELINDA - Down coat - masters black,Tommy Hilfiger,FEMALE,womens-clothing-coats,0
 2482,EL321H00F-M11,Green,145,SUMMER,https://secure-i1.ztat.net/detail/EL/32/1H/00/FM/11/EL321H00F-M11@16.jpg,BRENDA - Parka - deep green,Elvine,FEMALE,womens-clothing-coats,0

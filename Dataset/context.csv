@@ -1,4 +1,4 @@
-id,product_id,color,price,season,image_url,name,brand,gender,category,isTrendy
+id,TimeOfTheDay,DayOfTheWeek,Temperature,Weather,Company
 1985,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
 106,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
 1719,Afternoon,Workday,between 5° and 10° C,Cloudy,With Family
